@@ -1,12 +1,11 @@
 require 'spec_helper'
-require 'webtrziste_cz'
-require 'nalok_cz'
 
 describe 'WebtrzisteCz' do
   before :context do
     # @klass = WebtrzisteCz.new
     # @klass = OvocnarskaUnieCz.new
-    @klass = NalokCz.new
+    # @klass = NalokCz.new
+    @klass = EdbCz.new
   end
 
   it 'should be ok' do
@@ -21,7 +20,7 @@ describe 'WebtrzisteCz' do
     end
 
     context 'find urls' do
-      let(:urls) { @klass.find_urls(categories) }
+      let(:urls) { @klass.find_urls(categories[0..0]) }
 
       it 'should has urls' do
         p urls

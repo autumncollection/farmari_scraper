@@ -1,3 +1,4 @@
+# encoding:utf-8
 require 'typhoeus'
 require 'nokogiri'
 require 'oj'
@@ -18,7 +19,10 @@ class Common
     :email,
     :web,
     :commodity,
-    :trhy
+    :trhy,
+    :info,
+    :ico,
+    :categories
   ]
   def initialize
     @xpaths = self.class::XPATHS
@@ -43,10 +47,13 @@ class Common
           errors << { error: 'missing doc', category_url: category_url }
           next
         end
-        urls.concat(parse_urls(Nokogiri::HTML(doc)))
-        category_url = find_urls_paging(doc, category_url) do |url|
-          parse_url_paging(url)
+        doc = Nokogiri::HTML(doc)
+        urls.concat(parse_urls(doc))
+        url = find_urls_paging(doc, category_url) do |paging_url|
+          parse_url_paging(paging_url, category_url)
         end
+        break if url.blank? || url == category_url
+        category_url = url
       end
     end
     urls.compact.uniq
@@ -97,7 +104,7 @@ class Common
       clean_value!(value)
     end
   rescue => error
-    p " - #{error.message}"
+    p " - #{error.message} #{error.backtrace}"
     @errors << { url: url, error: "#{error.message} #{error.backtrace}" }
     []
   end
@@ -160,5 +167,9 @@ class Common
 
   def cache_dir(sub_dir = '')
     File.join(__dir__, '..', 'cache', "#{sub_dir}/").squeeze('/')
+  end
+
+  def to_encode(value, from = 'UTF-8', to = 'cp1250')
+    value.encode(from, to).gsub(/[\302\240|\s]+/, ' ').strip
   end
 end
