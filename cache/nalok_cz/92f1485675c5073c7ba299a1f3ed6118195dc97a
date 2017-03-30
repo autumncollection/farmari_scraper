@@ -1,0 +1,381 @@
+
+
+<!DOCTYPE html PUBLIC  "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="ctl00_Head1"><link rel="icon" type="image/gif" href="http://www.nalok.cz/images/animated_favicon1.gif" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	Bandur spol. s. r. o., Sušice | Nalok.cz
+</title>
+        
+        <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+        </script>
+        <script type='text/javascript'>
+            GS_googleAddAdSenseService("ca-pub-5370690446478716");
+            GS_googleEnableAllServices();
+        </script>
+        <script type='text/javascript'>
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_about_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_home_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_pridejte_se_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_produkty_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_square_right_top_180x150");
+        </script>
+        <script type='text/javascript'>
+            GA_googleFetchAds();
+        </script>
+        
+        
+         <script type="text/javascript">
+             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+            <script type="text/javascript">
+                try {
+                    var pageTracker = _gat._getTracker("UA-12574605-2");
+                    pageTracker._trackPageview();
+                } catch (err) { }</script>
+        
+        
+
+		<!--[if lt IE 8]>
+			<link rel="stylesheet" type="text/css" href="../css/ie.css" />
+			<script type="text/javascript" src="js/ie-hover-pack.js"></script>
+		<![endif]-->  
+
+ 
+	<link href="../App_Themes/new/all-09132011.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/ie.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery.lightbox-0.5.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.2.custom.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.5.custom.css" type="text/css" rel="stylesheet" /><meta name="description" content="Pekařství Rendl Sušice - Pekařství navazuje na rodinnou pekařskou výrobu, kterou v roce 1924 založil dědeček majitele pekárny. Od roku 1991 nabízíme výrobky, u nichž zachováváme staré rodinné receptury a pečeme je zásadně bez chemických přísad a směsí. Pečeme Rendlovy tyčinky, koláče apod." /><meta name="keywords" content="Bio potraviny, zemědělci, farmáři, bedýnkování, lokální výrobci, nakupovat, nákup, zelenina, ovoce" /></head>
+	<body>
+    <form name="aspnetForm" method="post" action="bandur-spol-s-r-o" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="http://maps.google.com/maps?file=api&amp;v=2.x&amp;key=ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=2g5RFPfFOSvvxRbx7B-fXnx6WoSbSOCw4nm-JnLlexZXWMYfOpd4plvOOSq9w-TYlbrm0bpzk0MmFipK966uP5_Nc5Cn2_7Bor2UBZbZGqRaba9-oeYQhly9IgxRsw1Rlqx2Cry_gtl3FN8BSEByDJhD7R5mzN8XTiSAUQ7bI5q1t3lE0&amp;t=5b29a3a1" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = '{"name":"cs-CZ","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":" ","CurrencySymbol":"Kč","NaNSymbol":"Není číslo","CurrencyNegativePattern":8,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-nekonečno","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":" ","CurrencyPositivePattern":3,"PositiveInfinitySymbol":"+nekonečno","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":" ","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"dop.","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":".","FirstDayOfWeek":1,"CalendarWeekRule":0,"FullDateTimePattern":"d. MMMM yyyy H:mm:ss","LongDatePattern":"d. MMMM yyyy","LongTimePattern":"H:mm:ss","MonthDayPattern":"dd MMMM","PMDesignator":"odp.","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"d.M.yyyy","ShortTimePattern":"H:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["ne","po","út","st","čt","pá","so"],"ShortestDayNames":["ne","po","út","st","čt","pá","so"],"DayNames":["neděle","pondělí","úterý","středa","čtvrtek","pátek","sobota"],"AbbreviatedMonthNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthNames":["leden","únor","březen","duben","květen","červen","červenec","srpen","září","říjen","listopad","prosinec",""],"IsReadOnly":true,"NativeCalendarName":"gregoriánský kalendář","AbbreviatedMonthGenitiveNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthGenitiveNames":["ledna","února","března","dubna","května","června","července","srpna","září","října","listopadu","prosince",""]}}';//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=wboRJh5bxWeoWRWpHx54Qm8_udjGHaj0FwMCcd_zmJWOG-0jiSmqNPc3zc4HYRCeijfwRWc5_wNxf08I0Lvh1Nd0lQyDXpybjRf8SvRu2w2ZFi6aD5kHCWfje5uxCuMzrJXUbiuWD44JaCgEvBTl17qWxSZaM9HavbyENjwLK5JiVdti0&amp;t=2e2045e2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="../js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="../js/jquery-ui-1.8.5.custom.min.js" type="text/javascript"></script>
+<script src="../js/jquery.livequery.js" type="text/javascript"></script>
+<script src="../js/custom.js" type="text/javascript"></script>
+<script src="../js/jquery.lightbox-0.5.js" type="text/javascript"></script>
+<script src="../js/jquery.watermark.min.js" type="text/javascript"></script>
+<script src="../js/clear-form.js" type="text/javascript"></script>
+<script src="../js/jquery.validate.min.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5E8DBDB1" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="EoEuXOkvOc3rLgsfZdtxtpnKnv3vtSi2JTwutEjidSh2fIqZJXkF8Z9HQQ8il8rFsgPzwHcAB9I5kmGbnQ9HtCqgZF28dDEvkEd+2ZlQlupfzlTGpkLchakSKgO3mEJ5GQIw0bXRedRN1fHaG5MCblml+LKSSOjKExNMEU/lL9HL1vHIWzQjn/AHOfTrX3vafw2x/g==" />
+    
+    <div>        
+		<div id="wrapper" class="inner-page">
+			<div class="w1">
+				<div id="header">
+					<div class="heading">
+						<strong class="logo"><a id="ctl00_HyperLink7" href="../">Nalok</a></strong>
+						<div class="panel" style="width: 720px;">
+							<div class="forms-box">
+                                
+        <div class="form-login">
+        <fieldset>
+            <input type="submit" name="ctl00$LoginTop1$Button1" value="Přihlásit" id="ctl00_LoginTop1_Button1" class="btn-submit" />
+	        <span class="field2"><input name="ctl00$LoginTop1$txtPassword" type="password" id="ctl00_LoginTop1_txtPassword" tabindex="2" /></span>
+	        <span class="field"><input name="ctl00$LoginTop1$txtEmail" type="text" value="Email" id="ctl00_LoginTop1_txtEmail" tabindex="1" class="clearMeFocus" /></span>
+        </fieldset>
+        </div>
+    
+                                							    
+                                  <div class="form-search">
+									<fieldset>
+                                        <input type="submit" name="ctl00$SearchHP1$Button1" value="Hledej" id="ctl00_SearchHP1_Button1" class="btn-submit" />
+                                        <span class="field"><input name="ctl00$SearchHP1$txtSearch" type="text" value="Vyhledávání na Naloku" id="ctl00_SearchHP1_txtSearch" class="clearMeFocus" /></span>                                        
+									</fieldset>
+                                  </div> 
+							</div>
+                            <!-- ads -->
+                            <div style=" width: 468px; height: 60px; float: left;">
+                                
+        
+                                
+                            </div>
+							<div class="item"  style="width: 242px">
+
+								<ul class="social-links">
+									<li class="facebook"><a href="http://www.facebook.com/nakupujtelokalne" target="_blank"><span>&nbsp;</span> <strong>Facebook</strong></a></li>
+									<li class="twitter"><a href="http://twitter.com/nalokcz"><span>&nbsp;</span> <strong>Twitter</strong></a></li>                                    
+								</ul>
+                                <br />
+
+							</div>
+						</div>
+					</div>
+				    
+<ul id="nav">
+	<li><a id="ctl00_Menu1_hplHome" href="../"><span class="home">home</span></a></li>
+	<li><a id="ctl00_Menu1_hplJoin" href="../pridejte-se">Přidejte se</a></li>
+	<li><a id="ctl00_Menu1_HyperLink3" href="../farmy">Farmy</a></li>
+	<li><a id="ctl00_Menu1_HyperLink4" href="../farmarske-trhy">Trhy a akce</a></li>
+	<li><a id="ctl00_Menu1_HyperLink5" href="../bedynky">Bedýnky</a></li>
+	<li><a id="ctl00_Menu1_HyperLink6" href="../produkty">Produkty</a></li>
+	<li><a id="ctl00_Menu1_HyperLink7" href="../clanky">Blog</a></li>
+	<li><a id="ctl00_Menu1_HyperLink8" href="../mesta">&nbsp;&nbsp;Města&nbsp;</a></li>
+</ul>
+				</div>
+				<div id="main">
+					<div id="content">
+						<div class="content-t">&nbsp;</div>
+						<div class="content-c">
+							<div class="content-center">
+								
+
+<ul class="breadcrumbs">
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_HyperLink1" href="../">Domů</a></li>
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_hplCategory" href="../farmy">Farmy</a></li>
+    
+	<li><span id="ctl00_cntPlaceHolderMain_BreadCrumbs1_lblItem">Bandur spol. s. r. o.</span></li>
+</ul>
+
+    
+    <h1>
+        <span id="ctl00_cntPlaceHolderMain_lblBusinessName">Bandur spol. s. r. o., Sušice</span></h1>
+								<div id="twocolumns">
+									<div class="content-column">
+                                                                              
+									                                            
+                                        
+<script type="text/javascript">
+    $(function() {
+    $('#gallery .jquery-lightbox').lightBox();
+
+});
+
+$(document).ready(function() {
+    $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').hide();
+    $('#addPicture').click(function() {
+        $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').toggle();
+    });
+});
+</script>
+<style type="text/css">
+	/* jQuery lightBox plugin - Gallery style */
+	#gallery {
+	}
+	#gallery ul { list-style: none; }
+	#gallery ul li { display: inline; }
+	#gallery ul img {
+		border: 5px solid #fff;
+		border-width: 5px 5px 20px;
+	}
+	#gallery ul a:hover img {
+		border: 5px solid #8db526;
+		border-width: 5px 5px 20px;
+		color: #fff;
+	}
+	#gallery ul a:hover { color: #fff; }
+
+	.style2imgmngr
+    {
+        font-size: x-small;
+        font-weight: bold;
+    }
+	</style>
+
+
+<div id="gallery">
+<div class="box-picture-gallery">
+<h2><span id="ctl00_cntPlaceHolderMain_ImageManagerND1_lblTitle">Takto to u nás vypadá</span></h2>
+<p></p>
+<ul class="picture-gallery-list">
+<table id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_HyperLink1" class="jquery-lightbox" title="Koláč z pekařství Rendl Sušice" href="../data/obrazky/8d/kolac-z-pekarstvi-rendl-susice_8dc87b88-eecf-48ce-adff-0492ee0b56fd.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_Image1" src="../data/obrazky/3c/obr-kolac-z-pekarstvi-rendl-susice_3c7ada87-d627-43d8-bb32-3d405a3d3618.jpg" alt="Koláč z pekařství Rendl Sušice" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl00$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_hdnImageId" value="8dc87b88-eecf-48ce-adff-0492ee0b56fd" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl01_AImage1_HyperLink1" class="jquery-lightbox" title="Koláče z pekařství Rendl Sušice" href="../data/obrazky/87/kolace-z-pekarstvi-rendl-susice_87235aa3-3cf2-489a-ba1b-8d56842bb59d.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl01_AImage1_Image1" src="../data/obrazky/32/obr-kolace-z-pekarstvi-rendl-susice_32dc6207-bb1a-43a5-b1fc-089371286696.jpg" alt="Koláče z pekařství Rendl Sušice" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl01$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl01_AImage1_hdnImageId" value="87235aa3-3cf2-489a-ba1b-8d56842bb59d" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl02_AImage1_HyperLink1" class="jquery-lightbox" title="Bandur spol. s. r. o." href="../data/obrazky/60/bandur-spol-s-r-o_60faced6-d753-41f5-8dc1-bd0a00b9a70a.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl02_AImage1_Image1" src="../data/obrazky/d2/obr-bandur-spol-s-r-o_d2eae396-1df5-400a-a97a-f0c063ac3b29.jpg" alt="Bandur spol. s. r. o." height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl02$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl02_AImage1_hdnImageId" value="60faced6-d753-41f5-8dc1-bd0a00b9a70a" />
+       
+
+    
+        </li>
+    </td><td></td><td></td>
+	</tr>
+</table>
+</ul>
+</div>
+</div>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnObjectId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnObjectId" value="e36dc502-8eae-4bd1-abd3-6bee15a22852" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnIsAdmin" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnIsAdmin" value="false" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        <h2>O nás</h2><p>Rendlovy tyčinky z Pekařství Rendl Sušice:<br/>Rendlovy tyčinky se staly symbolem našeho pekařství. Jsou tak vyhlášené, že si pro ně jezdí zákazníci doslova až z „druhého konce republiky“.<br/><br/>Těsto na trvanlivé tyčinky se zadělává z hladké pšeničné mouky, droždí, soli, vody a rostlinného oleje, díky kterému je zajištěna jejich dlouhá trvanlivost. Připravují se ručně a odsazují se na speciálně vyrobené „vlnkové“ plechy.Jsou sypané solí, kmínem, mákem nebo sezamem. Při správném skladování vydrží tyčinky i tři měsíce.<br/><br/>Pouťové a ovocné koláče z Pekařství Rendl Sušice:<br/>Pekařství navazuje na rodinnou pekařskou výrobu, kterou v roce 1924 založil dědeček majitele pekárny. Od roku 1991 nabízíme výrobky, u nichž zachováváme staré rodinné receptury a pečeme je zásadně bez chemických přísad a směsí.<br/> <br/>Pouťové koláče jsou jednou z našich specialit navazující na tradici pečení koláčů bohatě zdobených červeným a bílým mákem, tvarohem, povidly, mandlemi a rozinkami. Tyto koláče zaujmou nejen zajímavými vzory, ale především chutí. Velice oblíbené jsou „obří koláče“ v průměru 55 cm, které pečeme na objednávku k různým životním a společenským příležitostem. Dokonce jím nepohrdl ani hokejový brankář Dominik Hašek.<br/>Ovocné koláčky vyrábíme v několika velikostech, zdobíme jahodami, borůvkami, rybízem nebo švestkami. V sezoně pečeme z čerstvého ovoce a mimo letní sezónu z zamraženého ovoce vypěstovaného v oblastech Šumavy.</p>
+                                        <p>&nbsp;</p>
+                                        
+<div class="box-comments">
+	<h2 class="title-comments">Komentáře</h2>
+    <a id="ctl00_cntPlaceHolderMain_BusinessComments1_hplLogIn" class="comment-link" href="../login.aspx?ReturnUrl=/farmy/bandur-spol-s-r-o">Přihlašte se a přidejte komentář</a>
+
+<div style="text-align: right; width: 100%"></div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').hide();
+        // shows the slickbox on clicking the noted link
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_HyperLink1').click(function () {
+            $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').toggle('slow');
+            return false;
+        });
+    });
+</script>
+
+
+<ul class="comments-list">
+
+        <span>Žádné komentáře</span>
+    
+</ul>
+
+
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectId" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectId" value="e36dc502-8eae-4bd1-abd3-6bee15a22852" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectType" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectType" value="Business" />
+
+</div>
+			
+
+
+					
+				
+									</div>									
+								    
+								    
+<div id="sidebar">
+            
+			
+            <h2>O farmě</h2>
+            
+			<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblShortDesc">Pekařství Rendl Sušice - Pekařství navazuje na rodinnou pekařskou výrobu, kterou v roce 1924 založil dědeček majitele pekárny. Od roku 1991 nabízíme výrobky, u nichž zachováváme staré rodinné receptury a pečeme je zásadně bez chemických přísad a směsí. Pečeme Rendlovy tyčinky, koláče apod.</span></p>            
+			
+			
+<h2>Partner farmy</h2>
+<a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_PartnerLogo1_HyperLink1" title="ŠUMAVA originální produkt - Regionální značky" href="http://www.regionalni-znacky.cz/sumava/" target="_blank"><img id="ctl00_cntPlaceHolderMain_BusinessProfileND1_PartnerLogo1_Image1" src="http://www.nalok.cz/images/sumava.jpg" alt="ŠUMAVA originální produkt - Regionální značky" width="245" border="0" /></a>
+			<div class="image-holder">
+                <img id="ctl00_cntPlaceHolderMain_BusinessProfileND1_Image1" src="../data/obrazky/fb/bandur-spol-s-r-o-susice_fb1fdc1e-6fb1-4d98-9680-75ae07fa4759.jpg" height="163" width="245" border="0" />
+			</div>
+            <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nalok.cz/farmy/bandur-spol-s-r-o&amp;layout=standard&amp;show_faces=true&amp;width=255&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:255px; height:80px;" allowTransparency="true"></iframe>
+			<div class="box-contact">
+				<div class="contact">
+					<p><strong class="mark">Telefon:</strong> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblPhone">376 524 230</span></p>
+					<p><strong class="mark">Email:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplSendMessage" href="../zprava/podnik/bandur-spol-s-r-o" style="font-weight: 700">Napište nám!</a></p>
+					<p><strong class="mark">Web:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplBizUrl" target="_blank"></a></p>
+				</div>
+				<address>
+					<strong class="mark">Adresa:</strong>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblStreet">T. G. Masaryka 516/ii., </span> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblCity">Sušice</span></p>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblZip">34201</span></p>
+				</address>
+			</div>
+			<div class="image-holder map">
+                    <div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1">
+
+</div><div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_Templates" style="display:none;"></div><input id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" name="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" type="hidden" />
+			</div>
+            				
+			<div class="box-about">
+			</div>
+</div>
+
+								</div>
+
+							</div>
+						</div>
+						<div class="content-b">&nbsp;</div>
+					</div>
+				</div>
+			</div>
+			<div id="footer">
+				<div class="inner">
+					<div class="holder">
+						<div class="partners">
+							
+							<ul>
+							</ul>
+						</div>
+						<div class="footer-box">
+							<strong class="logo-nalok"><a href="http://www.nalok.cz">logo</a></strong>
+							<ul class="add-nav">
+								<li><a href="http://www.nalok.cz/nalok" title="Kontakt">Kontakt</a></li>
+								
+								<li><a href="http://www.nalok.cz/tou.aspx">Všeobecné Obchodní Podmínky</a></li>
+                                <li><a href="http://www.nalok.cz/partners.aspx">Partneři projektu</a></li>
+                                <li><a href="http://www.nalok.cz/napoveda" title="Jak Nalok.cz funguje a jak jej maximálně využívat">Nápověda</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var GoogleMap1 = new Artem.Web.GoogleMap({"Address":null,"BaseCountryCode":null,"ClientID":"ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1","ClientMapID":"GoogleMap1","DefaultAddress":null,"DefaultMapView":0,"Directions":[],"EnableContinuousZoom":false,"EnableDoubleClickZoom":false,"EnableDragging":true,"EnableGoogleBar":false,"EnableInfoWindow":true,"EnableMarkerManager":false,"EnableReverseGeocoding":false,"EnableScrollWheelZoom":false,"EnterpriseKey":null,"Height":"292px","IsStreetView":false,"IsStatic":false,"Key":"ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A","Latitude":49.2346374,"Longitude":13.5224764,"MapEvents":{},"MarkerEvents":{},"MarkerManagerOptions":{"borderPadding":null,"maxZoom":null,"trackMarkers":null},"PolygonEvents":{},"PolylineEvents":{},"ShowMapTypeControl":true,"ShowScaleControl":false,"ShowTraffic":false,"StreetViewMode":0,"StreetViewPanoID":null,"Width":"241px","Zoom":15,"ZoomPanType":0});
+GoogleMap1.addMarker({"Address":null,"AutoPan":true,"Bouncy":false,"Clickable":true,"Draggable":false,"DragCrossMove":false,"IconAnchor":{"X":8,"Y":16},"IconSize":{"Height":30,"Width":30},"IconUrl":"/images/nalok_n.png","InfoWindowAnchor":{"X":0,"Y":0},"Latitude":49.2346374,"Longitude":13.5224764,"MaxZoom":null,"MinZoom":null,"OpenInfoBehaviour":0,"ShadowSize":{"Height":16,"Width":16},"ShadowUrl":null,"Text":"<table cellpadding=3 cellspacing=3><tr><td colspan=2 style=\"font-size: 16px\"><img style=\"margin-top: -3px\" width='34px' src='/images/nalok_n.png' /> <strong>Bandur spol. s. r. o.<strong></td></tr><tr><td><img width='45px' src='/img/image.ashx?id=e36dc502-8eae-4bd1-abd3-6bee15a22852'/></td><td>T. G. Masaryka 516/ii.<br/>Su\u0161ice</td><tr></table>","Title":null});
+GoogleMap1.load();
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>

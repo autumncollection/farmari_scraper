@@ -1,0 +1,532 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs">
+<head>
+ <meta http-equiv="Content-Type" content="text/html; charset=windows-1250" />
+ <title>Ateliér ,,Kovárna,, | Umělecko-řemeslné zpracování kovů</title>
+ <link href="../styly.css" rel="stylesheet" type="text/css" />
+ <link rel="shortcut icon" href="../favicon.ico" />
+ <meta name="description" content="Lidové řemeslo předvádí - David  Kadlčík | Umělecko-řemeslné zpracování kovů" />
+ <meta name="keywords" content="trhy a jarmarky, kovářství - kované výrobky, ukázku řemesla, " />
+ <meta name="robots" content="all,follow" />
+ <meta name="googlebot" content="index,follow,nosnippet,archive" />
+ <meta name="author" content="Richard Blížkovský, Mateli" />
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+ <script type="text/javascript" src="../jquery.magnifier.js">
+/***********************************************
+* jQuery Image Magnify- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+***********************************************/
+</script>
+</head>
+<body>
+<!-- pro facebook -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/cs_CZ/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!--konec  pro facebook -->
+
+  <div id="hlavni"><!-- /zacatek hlavni -->
+  <div id="hlavicka"><!-- /začátek hlavicka -->
+  <div class="logo">
+  <a href="http://www.webtrziste.cz ">
+     <img src="../styly/logo_wt.png" alt="logo" title="www.webtrziste.cz" border="none" /></a>
+  </div><!-- /konec logo -->
+  
+  
+
+
+  <div class="hlavicka_lang">    
+<a href="?jazyk=cz" style="background-image: url(../images/flag/cz.png)" title="ČESKÁ REPUBLIKA" /></a><a href="?jazyk=sk" style="background-image: url(../images/flag/sk.png)" title="SLOVENSKO" /></a>  </div><!-- /konec hlavicka_lang -->
+  
+  
+  
+  
+  
+  
+  
+  
+<div class="hlavicka_odkazy">       
+ <span onclick="PrihlasitSe()" style="cursor:pointer;color:black;text-decoration:underline"><strong>   	Přihlásit se	</strong></span>   |   <a href="../registrace2"><strong> 	Registrace	 </strong> </a> &nbsp; &nbsp;	 <br />   	&nbsp;<a href="../registrace2/podminky.php"><span class="doplnek" style="font-size:9pt">  Podmínky  </span></a>   </div><!-- /konec hlavicka_odkazy -->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<div class="hlavicka_h_menu">
+<table class="hmenu"><tr><td><a href="http://www.webtrziste.cz">	 Úvodní <br /> stránka 	</a></td>
+<td><a href="../zabavne-programy">	Zabavné <br /> programy 	</a></td>
+<td><a href="http://shop.webtrziste.cz">	 E-SHOP 	</a></td>
+<td><a href="../bazar">	Bazar 	</a></td>
+<td><a href="../aktuality">	 Aktuality 	</a></td>
+<td><a href="../../pruvodce">	 Průvodce 	</a></td>
+</tr></table>  </div><!-- /konec h_menu --> 
+
+<div class="hlavicka_nadpis">
+
+<h1>
+	6 - kovář, nožíř, kovotepec, razič mincí, klempíř, zvony 	</h1>
+
+</div><!-- /konec nadpis -->
+
+  </div><!-- /konec hlavicka -->
+  
+
+<div id="obsah">
+
+
+
+
+  <script type="text/javascript">
+   <!--    
+     function PrihlasitSe(){
+       document.getElementById('pole98').style.display='block';
+       document.getElementById('pole99').style.display='block';
+     }
+        function ZavriSe(){
+       document.getElementById('pole98').style.display='none';
+       document.getElementById('pole99').style.display='none';
+     }
+	-->
+  </script> 
+  <div id="pole98">  </div>
+  <div id="pole99">
+<span onclick="ZavriSe()" style="cursor:pointer"> <img src="../images/ikony/vloz.png" border="0" /> 	ZPĚT 	</span></td>
+  <div id="pole99_v">
+
+<form action="../prihlaseni/prihlaseni.php" method="post">
+ <table  cellspacing="0">
+ <tr>
+<td><label for="login">	Vložte login 	:</label> <br />
+<input type="text" id="login" name="login" value="" class="input" /> 
+&nbsp; &nbsp; &nbsp;
+</td>  </tr>
+<tr>
+<td><label for="heslo">	Vložte heslo 	:</label><br />
+    <input type="password" id="heslo" name="heslo" value="" class="input" /> &nbsp; &nbsp; &nbsp;
+</td>  </tr>
+ <tr>
+ <td>  <br />    <input type="submit" class="button1" onmouseover="this.className='button2'"  onmousedown="this.className='button3'" onmouseout="this.className='button1'" value="	Přihlásit se	 " />
+</td></tr>
+</table>
+</form>
+<br /><br />
+<a href="../prihlaseni/index.php">	Při zrátě hesla si vyžádejte nové  	 </a>
+  </div>
+ </div> 
+ 
+ 
+
+ 
+<div id="levy">
+<img src="../styly/menu_hor_v.jpg"  alt="menu1" title="webtrziste.cz" />
+<div class="menu">
+   <a href="../vikend">	Akce o víkendu	</a>
+   <a href="http://www.webtrziste.cz/trhy/akce/a/index.php?order_by=insD&mesic=0">	Akce, jarmarky, slavnosti	</a>
+   <a href="../remesla" class="vybrane">	 Řemesla a řemeslníci 	</a>
+    <a href="../remesla/keramika?clear_filter=1"><img src="../styly/tuplik.png" alt="uroven" height="15px" border="none" />&nbsp;	 Keramika 	</a>
+    <a href="../remesla/drevo-prouti?clear_filter=1"><img src="../styly/tuplik.png" alt="uroven" height="15px" border="none" />&nbsp;	 Dřevo, proutí 	</a>
+    <a href="../remesla/textil-batika?clear_filter=1"><img src="../styly/tuplik.png" alt="uroven" height="15px" border="none" />&nbsp;	 Textilní techniky 	</a>
+    <a href="../remesla/obcerstveni?clear_filter=1"><img src="../styly/tuplik.png" alt="uroven" height="15px" border="none" />&nbsp;	 Občerstvení 	</a>
+    <a href="../remesla/sperky-sklo?clear_filter=1"><img src="../styly/tuplik.png" alt="uroven" height="15px" border="none" />&nbsp;	 Šperky, sklo 	</a>
+    <a href="../remesla/kovar?clear_filter=1"><img src="../styly/tuplik.png" alt="uroven" height="15px" border="none" />&nbsp;	 Kovář, kovotelec 	</a>
+    <a href="../remesla/svicky-mydla?clear_filter=1"><img src="../styly/tuplik.png" alt="uroven" height="15px" border="none" />&nbsp;	 Svíčky, mýdla, soli 	</a>
+    <a href="../remesla/ozdoby-dekorace?clear_filter=1"><img src="../styly/tuplik.png" alt="uroven" height="15px" border="none" />&nbsp;	 Ozdoby, květy 	</a>
+    <a href="../remesla/kuze-vlna?clear_filter=1"><img src="../styly/tuplik.png" alt="uroven" height="15px" border="none" />&nbsp;	 Kůže, kožešiny, vlna 	</a>
+    <a href="../remesla/obrazy-sochy?clear_filter=1"><img src="../styly/tuplik.png" alt="uroven" height="15px" border="none" />&nbsp;	 Obrazy, sochy, malování 	</a>
+    <a href="../remesla/knihar-papir?clear_filter=1"><img src="../styly/tuplik.png" alt="uroven" height="15px" border="none" />&nbsp;	 Knihař, papír 	</a>
+    <a href="../remesla/farmar-chovatel?clear_filter=1"><img src="../styly/tuplik.png" alt="uroven" height="15px" border="none" />&nbsp;	 Farmář, pěstitel, chovatel 	</a>
+    <a href="../remesla/ostatni?clear_filter=1"><img src="../styly/tuplik.png" alt="uroven" height="15px" border="none" />&nbsp;	 Ostatní, ... 	</a>
+    <a href="../remesla/r?clear_filter=1"><img src="../styly/tuplik.png" alt="uroven" height="15px" border="none" />&nbsp;	 Všechna řemesla 	</a>
+    <a href="../remesla/seznam?clear_filter=1"><img src="../styly/tuplik.png" alt="uroven" height="15px" border="none" />&nbsp;	 Adresář 	</a>
+    <a href="../remesla/../prodejny/nabidky.php?clear_filter=1"><img src="../styly/tuplik.png" alt="uroven" height="15px" border="none" />&nbsp;	 nabídnout VÝROBKY 	</a>
+   <a href="../umelci">	 Umělci, baviči, divadelníci 	</a>
+   <a href="../poradatele">	Pořadatelé	</a>
+   <a href="../plakaty">	Plakáty	</a>
+   <a href="../kurzy">VIDEO kurzy </a>
+   <a href="../foto">	 Fotogalerie 	</a>
+   <a href="../prodejny">	KAMENNÉ OBCHODY	 </a>
+   <a href="../work">	Kurzy, školení, workshopy	</a>
+</div><!-- /konec menu -->
+<img src="../styly/menu_dol.jpg"  alt="menu2" title="webtrziste.cz" />
+ <br />  <br />
+<img src="../styly/menu_hor.jpg" alt="podmenu" />
+
+
+<div class="menu">
+<h2>RYCHLÝ PRODEJ</h2>    
+ </div>
+<img src="../styly/menu_dol.jpg" alt="podmenu" />
+</div><!-- /konec levy -->
+
+ 
+ 
+<div id="druhy">
+
+<br />
+  <table border="0" cellspacing="0">
+  <tr><td class="tabulka">  <h2>Ateliér ,,Kovárna,,</h2></td>
+<td class="tabulka" style="text-align:right">   Shlédnuto : 742 krát &nbsp; &nbsp; &nbsp; </td>
+  </tr>
+  <tr>
+<td class="tabulka">
+       <table border="0" width="400px">
+     
+  <tr>
+   <td>
+   
+    <center><img src="obrazky/2665-V0.jpg" alt="Omlouváme se, ale obrazek nebyl dodán" /></center><br />
+   <span class="doplnek"> O mém řemeslu : </span>
+   <p>&nbsp; V mé nabídce najdete drobné kovářské výrobky (svícny, růže,kříže ... ), přívěsky (podkovičky, srdíčka, lístečky), nože, repliky historických zbaní.... <br />
+Po domluvě je možné zhotovení mříže, postele, branky .....</p>
+   <br />
+      <span class="doplnek"> Poznámka : </span>
+  <p>&nbsp; Na trzích a jarmarcích potřebuji vedle stánku ještě min. 2 metry místa na umístění kovadliny a výhně. Vzhledem k práci s otevřeným ohněm, by bylo vhodné umístění v dostatečné vzdálenosti od ,,hořlavých,, stánků.</p>
+  <p>
+    </p>
+   </td>
+  </tr>
+  
+<tr><td><span class="doplnek"> FACEBOOK : </span><br />  
+  <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+</td></tr>
+ </table>    </td>
+ 
+<td class="tabulka">
+
+  <table border="0"; cellspacing="0">
+  <tr> 
+ <td></td><td style="text-align:right"> 
+&nbsp;  <a href="javascript:history.go(-1);"><img src="../images/ikony/vloz.png" title="Zpět"  border="0" /> &nbsp; ZPĚT</a>&nbsp; &nbsp; &nbsp;</td>
+  </tr>
+
+  <tr>
+    <td class="hodnota" colspan="2" style="text-align:center">
+    &nbsp;&nbsp;<img src="cf/" alt="Váš erb, logo" title="Váše logo" />
+    <br />
+    </td>
+ </tr>
+   
+ <tr>
+    <td class="popis"><img src="../images/ikony/osoba.png" alt="osoba" title="Kontaktní osoba" />&nbsp;
+<img src="../images/flag/cz.png" width="20px" />		</td>
+    <td class="hodnota"><h2>David &nbsp;&nbsp;Kadlčík</h2></td>
+ </tr>
+  
+ <tr>
+    <td class="popis"><img src="../images/ikony/dum.png" alt="dum" title="Adresa" />&nbsp;</td>
+    <td class="hodnota">
+    &nbsp;Úsobí 83<br /> 
+    &nbsp;58254 -Úsobí<br /> 
+
+    &nbsp;	Vysočina	   </td>
+ </tr>
+   
+ <tr>
+    <td class="popis"><img src="../images/ikony/telefon.ico" alt="telefon" title="telefon" />&nbsp;</td>
+    <td class="hodnota">607663010</td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ <tr>
+    <td class="popis"><img src="../images/ikony/web.png" alt="web" title="web" /></td>
+    <td class="hodnota">
+</td>  
+  
+  
+ </tr>
+
+ <tr>
+  <td class="popis">
+	<img src="../images/ikony/FB.png" alt="facebook" title="facebook" />
+	</td>
+  <td class="hodnota">
+ </td>  
+</tr>
+  <tr>
+    <td class="popis"><img src="../images/ikony/kosik.png" alt="eshop" title="eshop" />
+    </td>
+    <td class="hodnota">
+      </td>
+  
+ </tr>
+ <tr>
+    <td class="popis">&nbsp; 
+<img src="../images/ikony/email.png" alt="pošta" title="pošta"/>&nbsp;</td>
+    <td class="hodnota"><a href="nahled_poslat.php?id=2665">poslat zprávu, <br />odkaz...</a></td>
+  </tr>
+  
+<tr>
+    <td class="popis">&nbsp; 
+Jezdím na trhy</td>
+    <td class="hodnota">
+    <img src="../images/ikony/ok.png">    </td>
+  </tr>
+ 
+   <tr>
+    <td class="popis">Předvádění:</td>
+    <td class="hodnota">
+    <img src="../images/ikony/ok.png"></td>
+   </tr>
+    
+ <tr>
+    <td colspan="2"> <span class="doplnek">Kde mne můžete potkat:&nbsp;</span><br />
+
+
+
+<div>10.06. 2017 -  <a href="../akce/program.php?id=3165" title=" ZOBRAZIT ">Nový Rychnov, Křemešník
+				<img src="../images/ikony/left3.png" border="none" style="float:right" /></a></div>
+    
+   </td>
+  </tr>
+
+  </table>     
+   </td>
+ </tr>
+</table>   
+
+
+
+
+<div class="prodejni">
+<span class="doplnek">Kde můžete zakoupit naše výrobky - prodejní místa:</span><br />
+</div>
+
+<div class="prodejni">
+ <img src="../images/ikony/fotak.png" alt="foto" height="20px" /> &nbsp;  FOTOGALERIE &nbsp;  <br />
+<!-- /vložená fotogalerie návštěvníků s možností bodování -->
+<!--  jQuery library--><script type=text/javascript src=../styly/jquery-1.4.2.min.js></script>
+<!--  jCarousel library--><script type=text/javascript src=../styly/jquery.jcarousel.min.js></script>
+<!--  jCarousel skin stylesheet--><link rel=stylesheet type=text/css href=../styly/skin.css />
+
+<script type=text/javascript>
+jQuery(document).ready(function() {
+    jQuery('#mycarousel').jcarousel({
+    	wrap: 'circular',
+    	visible:4
+    });
+});
+
+function ukazVelky(img, nazev){
+       document.getElementById("velky").src="../remesla/galerie/"+nazev;
+       document.getElementById("popis").innerHTML = img.title;
+     }
+</script>
+
+<div id="wrap">
+
+<ul id="mycarousel" class="jcarousel-skin-tango">
+      <li><img src="../remesla/galerie/M-2665-mriz.jpg.jpg" class="obrazek" alt="nahled" title="" onclick="ukazVelky(this,'2665-mriz.jpg.jpg')" /></li>
+      <li><img src="../remesla/galerie/M-2665-kriz.jpg.jpg" class="obrazek" alt="nahled" title="" onclick="ukazVelky(this,'2665-kriz.jpg.jpg')" /></li>
+      <li><img src="../remesla/galerie/M-2665-ruze.jpg.jpg" class="obrazek" alt="nahled" title="" onclick="ukazVelky(this,'2665-ruze.jpg.jpg')" /></li>
+      <li><img src="../remesla/galerie/M-2665-vyrobky.jpg.jpg" class="obrazek" alt="nahled" title="" onclick="ukazVelky(this,'2665-vyrobky.jpg.jpg')" /></li>
+      <li><img src="../remesla/galerie/M-2665-krbove-naradi.JPG.jpg" class="obrazek" alt="nahled" title="" onclick="ukazVelky(this,'2665-krbove-naradi.JPG.jpg')" /></li>
+      <li><img src="../remesla/galerie/M-2665-svicen2.JPG.jpg" class="obrazek" alt="nahled" title="" onclick="ukazVelky(this,'2665-svicen2.JPG.jpg')" /></li>
+      <li><img src="../remesla/galerie/M-2665-noze.jpg.jpg" class="obrazek" alt="nahled" title="" onclick="ukazVelky(this,'2665-noze.jpg.jpg')" /></li>
+      <li><img src="../remesla/galerie/M-2665-kord.jpg.jpg" class="obrazek" alt="nahled" title="" onclick="ukazVelky(this,'2665-kord.jpg.jpg')" /></li>
+      <li><img src="../remesla/galerie/M-2665-dyky.jpg.jpg" class="obrazek" alt="nahled" title="" onclick="ukazVelky(this,'2665-dyky.jpg.jpg')" /></li>
+      <li><img src="../remesla/galerie/M-2665-stojan.JPG.jpg" class="obrazek" alt="nahled" title="" onclick="ukazVelky(this,'2665-stojan.JPG.jpg')" /></li>
+      <li><img src="../remesla/galerie/M-2665-stojan2.JPG.jpg" class="obrazek" alt="nahled" title="" onclick="ukazVelky(this,'2665-stojan2.JPG.jpg')" /></li>
+      <li><img src="../remesla/galerie/M-2665-zvonecek.jpg.jpg" class="obrazek" alt="nahled" title="" onclick="ukazVelky(this,'2665-zvonecek.jpg.jpg')" /></li>
+</ul></div><!-- /wrap -->
+<br />
+<h2>
+<img src="../remesla/galerie/" id="velky" alt="zvolte náhled" />
+<br />
+     <div id="popis"></div>
+</h2>
+</div>
+
+
+<div class="prodejni">
+<form action="poslat_tip.php"  method="post" onsubmit="this.elements[2].value='abc';">
+  <table>
+   <tr><td> <img src="../images/ikony/notes.png" alt="foto"  />  Pošlete odkaz přátelům:</td> <td>Vzkaz:</td></tr>
+   <tr><td><input name="email" size="30"  class="input" value="@"></td>
+  <td><textarea name="vzkaz" cols="40" rows="2" wrap="soft" class="input" ></textarea></td></tr>
+ 
+  <tr style="display:none"><td class="popis">Popis</td>
+  <td><textarea name="ochrana_kod" cols="35" rows="1" wrap="soft">Tohle má zůstat prázdné</textarea></td></tr>
+   <tr><td><input value="Odeslat" type="submit" class="submit">
+   <input type="hidden" name="id" value="2665" />
+   </td></tr>
+   </table>
+</form>
+</div>
+
+
+ 
+<br />
+
+      <h2>VIDEOUKÁZKA   &nbsp; </h2>
+<h2>není k dispozici</h2></div>
+
+<div id="spodni">
+ ************************ DALŠÍ PRESENTACE **************************DALŠÍ PRESENTACE *******<br />
+
+  <div class="bunka_rem">
+   <div class="sm_1">Ateliér ,,Kovárna,,</div>
+<div class="img"><a href="nahled.php?id=2665" ><img src="obrazky/M-PB200051.jpg"  border="0" alt="Ateliér ,,Kovárna,," /></a></div>
+ <div class="sm_2">Umělecko-řemeslné zpracování kovů</div>
+  <div class="sm_trhy"><img src="../images/ikony/auticko2.png" title=" JEZDÍ NA TRHY " /> - <img src="../images/ikony/ok.png" title=" PŘEDVÁDÍ ŘEMESLO " /> - <a target=_blank" href="http://www.regionalni-znacky.cz/"></a></div>
+  </div>
+
+<br />
+
+<!--
+<div style="font-weight:bold; color:#C03404; font-size:1.7em;line-height:30px; margin-left:10px;width:900px; float:left">
+Moje nabídka v E-SHOPu ....... <span style="font-size:0.6em">webtržiště</span>
+</div> 
+
+-->
+
+<script type="text/javascript">
+
+window.onload=function (){
+  var img=document.getElementById('nahodnyObr');
+}
+</script>
+
+
+
+<!-- konec zobrazení když je zakázané = 0 -->   
+  <div class="divClear"></div>
+  <div class="divClear"></div>
+  </div><!-- /konec obsah -->
+  
+  <div id="paticka"><!-- /zacatek paticka -->
+  
+<script type="text/javascript">  
+<!--
+function pageScroll() {
+  var y = (document.all?document.body.parentElement.scrollTop:window.pageYOffset);
+  if(y <= 10) return;  
+  window.scrollBy(0,-50); // horizontal and vertical scroll increments
+  scrolldelay = setTimeout('pageScroll()',100); // scrolls every 100 milliseconds
+}
+window.onscroll=function(){
+  var y = (document.all?document.body.parentElement.scrollTop:window.pageYOffset);
+  if(y > 100)  document.getElementById('nahoru').style.display="block";
+  else document.getElementById('nahoru').style.display="none";
+}
+-->
+</script>  
+<div id="nahoru" class="nahoru" onclick="pageScroll()">
+  
+</div> <!-- /nahoru -->
+
+<table border="0" ><tbody>
+<tr>
+<td><a target="_top" href="http://www.toplist.cz/" ><img alt="TOPlist" src="http://toplist.cz/count.asp?id=658877&amp;logo=mc&amp;start=1000" border="0" width="88" height="60"></a></td>
+<td style="background-color:white; width:115px; height:55px">
+<a href="../partneri">  OSTATNÍ PARTNEŘI WEBTRŽIŠTĚ <br /> více>>></td>
+
+<td><a target="_blank" href="http://www.mateli.cz/"><img src="../images/banery/logo_mateli.png" alt="mateli.cz" title="mateli.cz výrobce kožených řemínků"; border="0" width="88"  />
+<br /><strong style="color:blue">kožené řemínky </strong></a>
+ </td>
+<td>
+<a target="_blank" href="http://www.webtrziste.cz/tvorime"><img src="../images/banery/logo-tvorime.png" alt="tvorimr.cz"; title="tvorime s webtrzistem"; border="0" height="60"  /></a>&nbsp; 
+</td>
+<td><a target="_blank" href="http://www.vlna-ponozky.cz/ponozky/"><img src="../images/banery/logo-emilka.png" alt="vlna-ponožky"; title="vlna a ponožky od Emilky"; border="0"   /></a>&nbsp; </td>
+
+
+<td>
+<a target="_blank" href="http://www.kkh-tapir.cz/">
+<img src="../images/logo-tapir-vostry.png" title="humoristický časopis TAPÍR" alt="humoristický časopis TAPÍR" /> </a>
+</td>
+<td><a target="_blank" href="http://obchod.pksvice.cz" ><img src="http://www.pksvice.cz/bannery/original_design1.png" width="88px" title="PK vonné svíce - vonné svíčky na zakázku" alt="pk vonne svice" border="0" /></a>&nbsp; 
+</td>
+<td>
+<a href="http://www.penzion-holinka.cz"><img src="../images/logo/logo-holinka.png" border="none" height="40px" />
+<br /><strong style="color:blue">Penzion Holinka</strong></a>
+</td>
+
+
+<td>
+<a target="_blank" href="https://www.google.cz/#hl=cs&gs_rn=4&gs_ri=psy-ab&tok=qqjvig8bl-_vRa8_yTCATw&cp=6&gs_id=7o&xhr=t&q=webtr%C5%BEi%C5%A1t%C4%9B&es_nrs=true&pf=p&sclient=psy-ab&oq=webtr%C5%BE&gs_l=&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.42661473,bs.1,d.Yms&fp=c97f3be92fd94afb&biw=1024&bih=659">
+<img src="../images/google-ikona.png" border="none" /></a>
+</td>
+<td>
+<a target="_blank" href="http://search.seznam.cz/?q=webtr%C5%BEi%C5%A1t%C4%9B&aq=1&oq=webtr&sourceid=szn-HP&thru=sug">
+<img src="../images/logo_seznam_cz.png"  border="none"/></a>
+<br />
+<a target="_blank" href="http://www.info-turistika.cz/">
+<img src="../images/logo-info-turistika.png"> </a>
+</td>
+
+
+</tr>
+
+
+
+<tr>
+<td colspan="2" style="background-image:url('../styly/box1.png'); width:115px; height:50px">
+<span style="font-size: 125%;"> <strong>Správce webu</strong></span><br />
+Ing. Richard Blížkovský<br />Pístov 11, Jihlava, CZ<br />
+&nbsp; <a href="../kontakty">  více>>> </a></td>
+
+
+<td>
+
+</td>
+
+<td>
+ 
+</td>
+
+<td>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+
+</td>
+<td>
+
+</td>
+<td>
+<a target="_blank" href="http://dolcevita.blog.cz/0812/o-lasce-srdci-a-perniku/"><img src="../images/banery/sarka_vari.jpg" alt="Šárčina škola vaření"; title="Šárčina škola vaření"; border="0"  width="88px" /></a>&nbsp;
+</td>
+</tr>
+</tbody></table>
+
+<center>
+  <a href="http://www.webtrziste.cz/trhy/partneri/">ODKAZY</a> &nbsp; &nbsp; a dále&nbsp; 
+  <a href="http://www.webtrziste.cz/trhy/uvod/baner.php">BANERY webtržiště</a>&nbsp; &nbsp; a také&nbsp; 
+  <a href="http://www.mateli.cz">MATELI.CZ</a>&nbsp; &nbsp; 
+&nbsp; &nbsp; 
+  <a href="http://www.katalog-seo.eu">SEO katalog</a>
+
+</center>
+  </div><!-- /konec paticka -->
+ </div><!-- /konec hlavni -->
+ 
+ 
+
+ <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7389903-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

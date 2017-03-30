@@ -1,0 +1,367 @@
+
+
+<!DOCTYPE html PUBLIC  "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="ctl00_Head1"><link rel="icon" type="image/gif" href="http://www.nalok.cz/images/animated_favicon1.gif" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	BATIKA BELLIS - Filip a Bára Wormovi, Česká Ves | Nalok.cz
+</title>
+        
+        <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+        </script>
+        <script type='text/javascript'>
+            GS_googleAddAdSenseService("ca-pub-5370690446478716");
+            GS_googleEnableAllServices();
+        </script>
+        <script type='text/javascript'>
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_about_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_home_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_pridejte_se_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_produkty_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_square_right_top_180x150");
+        </script>
+        <script type='text/javascript'>
+            GA_googleFetchAds();
+        </script>
+        
+        
+         <script type="text/javascript">
+             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+            <script type="text/javascript">
+                try {
+                    var pageTracker = _gat._getTracker("UA-12574605-2");
+                    pageTracker._trackPageview();
+                } catch (err) { }</script>
+        
+        
+
+		<!--[if lt IE 8]>
+			<link rel="stylesheet" type="text/css" href="../css/ie.css" />
+			<script type="text/javascript" src="js/ie-hover-pack.js"></script>
+		<![endif]-->  
+
+ 
+	<link href="../App_Themes/new/all-09132011.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/ie.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery.lightbox-0.5.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.2.custom.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.5.custom.css" type="text/css" rel="stylesheet" /><meta name="description" content="Textilní výrobky ručně barvené přírodními barvami. Výrobky: šály, polštářky, tašky, ubrusy, trička." /><meta name="keywords" content="Bio potraviny, zemědělci, farmáři, bedýnkování, lokální výrobci, nakupovat, nákup, zelenina, ovoce" /></head>
+	<body>
+    <form name="aspnetForm" method="post" action="batika-bellis-filip-a-bara-wormovi" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="http://maps.google.com/maps?file=api&amp;v=2.x&amp;key=ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=2g5RFPfFOSvvxRbx7B-fXnx6WoSbSOCw4nm-JnLlexZXWMYfOpd4plvOOSq9w-TYlbrm0bpzk0MmFipK966uP5_Nc5Cn2_7Bor2UBZbZGqRaba9-oeYQhly9IgxRsw1Rlqx2Cry_gtl3FN8BSEByDJhD7R5mzN8XTiSAUQ7bI5q1t3lE0&amp;t=5b29a3a1" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = '{"name":"cs-CZ","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":" ","CurrencySymbol":"Kč","NaNSymbol":"Není číslo","CurrencyNegativePattern":8,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-nekonečno","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":" ","CurrencyPositivePattern":3,"PositiveInfinitySymbol":"+nekonečno","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":" ","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"dop.","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":".","FirstDayOfWeek":1,"CalendarWeekRule":0,"FullDateTimePattern":"d. MMMM yyyy H:mm:ss","LongDatePattern":"d. MMMM yyyy","LongTimePattern":"H:mm:ss","MonthDayPattern":"dd MMMM","PMDesignator":"odp.","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"d.M.yyyy","ShortTimePattern":"H:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["ne","po","út","st","čt","pá","so"],"ShortestDayNames":["ne","po","út","st","čt","pá","so"],"DayNames":["neděle","pondělí","úterý","středa","čtvrtek","pátek","sobota"],"AbbreviatedMonthNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthNames":["leden","únor","březen","duben","květen","červen","červenec","srpen","září","říjen","listopad","prosinec",""],"IsReadOnly":true,"NativeCalendarName":"gregoriánský kalendář","AbbreviatedMonthGenitiveNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthGenitiveNames":["ledna","února","března","dubna","května","června","července","srpna","září","října","listopadu","prosince",""]}}';//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=wboRJh5bxWeoWRWpHx54Qm8_udjGHaj0FwMCcd_zmJWOG-0jiSmqNPc3zc4HYRCeijfwRWc5_wNxf08I0Lvh1Nd0lQyDXpybjRf8SvRu2w2ZFi6aD5kHCWfje5uxCuMzrJXUbiuWD44JaCgEvBTl17qWxSZaM9HavbyENjwLK5JiVdti0&amp;t=2e2045e2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="../js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="../js/jquery-ui-1.8.5.custom.min.js" type="text/javascript"></script>
+<script src="../js/jquery.livequery.js" type="text/javascript"></script>
+<script src="../js/custom.js" type="text/javascript"></script>
+<script src="../js/jquery.lightbox-0.5.js" type="text/javascript"></script>
+<script src="../js/jquery.watermark.min.js" type="text/javascript"></script>
+<script src="../js/clear-form.js" type="text/javascript"></script>
+<script src="../js/jquery.validate.min.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5E8DBDB1" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="vd35E0g/DGpBPfoU4cs1MiLbrxOJEx8NBsBMpxShxvUEqMX8FIypeWeHWX7XImbO8GJ5s/BZ9lYmQxGyO9JPib46j1cHd6cn+W/bMtEoAIUt/rm2l8g+HWgl/wmlf4+83Evls6FJD0NIZ9Sf2dg+69Q6QIud58roeYPXPjCo/64rPNzP" />
+    
+    <div>        
+		<div id="wrapper" class="inner-page">
+			<div class="w1">
+				<div id="header">
+					<div class="heading">
+						<strong class="logo"><a id="ctl00_HyperLink7" href="../">Nalok</a></strong>
+						<div class="panel" style="width: 720px;">
+							<div class="forms-box">
+                                
+        <div class="form-login">
+        <fieldset>
+            <input type="submit" name="ctl00$LoginTop1$Button1" value="Přihlásit" id="ctl00_LoginTop1_Button1" class="btn-submit" />
+	        <span class="field2"><input name="ctl00$LoginTop1$txtPassword" type="password" id="ctl00_LoginTop1_txtPassword" tabindex="2" /></span>
+	        <span class="field"><input name="ctl00$LoginTop1$txtEmail" type="text" value="Email" id="ctl00_LoginTop1_txtEmail" tabindex="1" class="clearMeFocus" /></span>
+        </fieldset>
+        </div>
+    
+                                							    
+                                  <div class="form-search">
+									<fieldset>
+                                        <input type="submit" name="ctl00$SearchHP1$Button1" value="Hledej" id="ctl00_SearchHP1_Button1" class="btn-submit" />
+                                        <span class="field"><input name="ctl00$SearchHP1$txtSearch" type="text" value="Vyhledávání na Naloku" id="ctl00_SearchHP1_txtSearch" class="clearMeFocus" /></span>                                        
+									</fieldset>
+                                  </div> 
+							</div>
+                            <!-- ads -->
+                            <div style=" width: 468px; height: 60px; float: left;">
+                                
+        
+                                
+                            </div>
+							<div class="item"  style="width: 242px">
+
+								<ul class="social-links">
+									<li class="facebook"><a href="http://www.facebook.com/nakupujtelokalne" target="_blank"><span>&nbsp;</span> <strong>Facebook</strong></a></li>
+									<li class="twitter"><a href="http://twitter.com/nalokcz"><span>&nbsp;</span> <strong>Twitter</strong></a></li>                                    
+								</ul>
+                                <br />
+
+							</div>
+						</div>
+					</div>
+				    
+<ul id="nav">
+	<li><a id="ctl00_Menu1_hplHome" href="../"><span class="home">home</span></a></li>
+	<li><a id="ctl00_Menu1_hplJoin" href="../pridejte-se">Přidejte se</a></li>
+	<li><a id="ctl00_Menu1_HyperLink3" href="../farmy">Farmy</a></li>
+	<li><a id="ctl00_Menu1_HyperLink4" href="../farmarske-trhy">Trhy a akce</a></li>
+	<li><a id="ctl00_Menu1_HyperLink5" href="../bedynky">Bedýnky</a></li>
+	<li><a id="ctl00_Menu1_HyperLink6" href="../produkty">Produkty</a></li>
+	<li><a id="ctl00_Menu1_HyperLink7" href="../clanky">Blog</a></li>
+	<li><a id="ctl00_Menu1_HyperLink8" href="../mesta">&nbsp;&nbsp;Města&nbsp;</a></li>
+</ul>
+				</div>
+				<div id="main">
+					<div id="content">
+						<div class="content-t">&nbsp;</div>
+						<div class="content-c">
+							<div class="content-center">
+								
+
+<ul class="breadcrumbs">
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_HyperLink1" href="../">Domů</a></li>
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_hplCategory" href="../farmy">Farmy</a></li>
+    
+	<li><span id="ctl00_cntPlaceHolderMain_BreadCrumbs1_lblItem">BATIKA BELLIS - Filip a Bára Wormovi</span></li>
+</ul>
+
+    
+    <h1>
+        <span id="ctl00_cntPlaceHolderMain_lblBusinessName">BATIKA BELLIS - Filip a Bára Wormovi, Česká Ves</span></h1>
+								<div id="twocolumns">
+									<div class="content-column">
+                                                                              
+									                                            
+                                        
+<script type="text/javascript">
+    $(function() {
+    $('#gallery .jquery-lightbox').lightBox();
+
+});
+
+$(document).ready(function() {
+    $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').hide();
+    $('#addPicture').click(function() {
+        $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').toggle();
+    });
+});
+</script>
+<style type="text/css">
+	/* jQuery lightBox plugin - Gallery style */
+	#gallery {
+	}
+	#gallery ul { list-style: none; }
+	#gallery ul li { display: inline; }
+	#gallery ul img {
+		border: 5px solid #fff;
+		border-width: 5px 5px 20px;
+	}
+	#gallery ul a:hover img {
+		border: 5px solid #8db526;
+		border-width: 5px 5px 20px;
+		color: #fff;
+	}
+	#gallery ul a:hover { color: #fff; }
+
+	.style2imgmngr
+    {
+        font-size: x-small;
+        font-weight: bold;
+    }
+	</style>
+
+
+<div id="gallery">
+<div class="box-picture-gallery">
+<h2><span id="ctl00_cntPlaceHolderMain_ImageManagerND1_lblTitle">Takto to u nás vypadá</span></h2>
+<p></p>
+<ul class="picture-gallery-list">
+<table id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_HyperLink1" class="jquery-lightbox" title="BATIKA BELLIS - Filip a Bára Wormovi" href="../data/obrazky/84/batika-bellis-filip-a-bara-wormovi_841e7197-5f17-4473-8f8e-059b31dbbc5e.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_Image1" src="../data/obrazky/d5/obr-batika-bellis-filip-a-bara-wormovi_d54d666f-5a22-4c03-b54b-33995450f776.jpg" alt="BATIKA BELLIS - Filip a Bára Wormovi" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl00$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_hdnImageId" value="841e7197-5f17-4473-8f8e-059b31dbbc5e" />
+       
+
+    
+        </li>
+    </td><td></td><td></td><td></td><td></td>
+	</tr>
+</table>
+</ul>
+</div>
+</div>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnObjectId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnObjectId" value="15bf9dc8-52e5-4af6-adda-7d528a26dc66" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnIsAdmin" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnIsAdmin" value="false" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        <h2>O nás</h2><p>Textilní výrobky ručně barvené přírodními barvami <br/><br/>Jsme malá rodinná manufaktura, která se specializuje na výrobu batikovaného a ručně zdobeného textilu. Žijeme v Jeseníkách a krásná příroda našeho okolí spolu s tradicí regionu je pro nás inspirací.<br/> <br/>Barviva pro certifikované výrobky jsou získávána z rostlin vyskytujících se na území Jeseníků. Pro celkový estetický dojem jsou výrobky dozdobeny jednoduchými motivy technikou ručního potisku, tupování nebo kresby.<br/> <br/>Technické zázemí výroby a obstarávání barviv zajišťuje Filip. Výtvarně-estetickou část tvorby zajišťuje Bára, která dává produktům nezaměnitelnou podobu a jedinečnost.<br/> <br/>Výrobky: šály, polštářky, tašky, ubrusy, trička.</p>
+                                        <p>&nbsp;</p>
+                                        
+<div class="box-comments">
+	<h2 class="title-comments">Komentáře</h2>
+    <a id="ctl00_cntPlaceHolderMain_BusinessComments1_hplLogIn" class="comment-link" href="../login.aspx?ReturnUrl=/farmy/batika-bellis-filip-a-bara-wormovi">Přihlašte se a přidejte komentář</a>
+
+<div style="text-align: right; width: 100%"></div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').hide();
+        // shows the slickbox on clicking the noted link
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_HyperLink1').click(function () {
+            $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').toggle('slow');
+            return false;
+        });
+    });
+</script>
+
+
+<ul class="comments-list">
+
+        <span>Žádné komentáře</span>
+    
+</ul>
+
+
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectId" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectId" value="15bf9dc8-52e5-4af6-adda-7d528a26dc66" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectType" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectType" value="Business" />
+
+</div>
+			
+
+
+					
+				
+									</div>									
+								    
+								    
+<div id="sidebar">
+            
+			
+            <h2>O farmě</h2>
+            
+			<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblShortDesc">Textilní výrobky ručně barvené přírodními barvami. Výrobky: šály, polštářky, tašky, ubrusy, trička.</span></p>            
+			
+			
+<h2>Partner farmy</h2>
+<a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_PartnerLogo1_HyperLink1" title="JESENÍKY originální produkt - Regionální značky" href="http://www.regionalni-znacky.cz/jeseniky/" target="_blank"><img id="ctl00_cntPlaceHolderMain_BusinessProfileND1_PartnerLogo1_Image1" src="http://www.nalok.cz/images/jeseniky.jpg" alt="JESENÍKY originální produkt - Regionální značky" width="245" border="0" /></a>
+			<div class="image-holder">
+                <img id="ctl00_cntPlaceHolderMain_BusinessProfileND1_Image1" src="../data/obrazky/3f/batika-bellis-filip-a-bara-wormovi-ceska-ves_3f7cdb26-a4ed-4469-9605-3fcd8e2a9dcc.jpg" height="163" width="245" border="0" />
+			</div>
+            <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nalok.cz/farmy/batika-bellis-filip-a-bara-wormovi&amp;layout=standard&amp;show_faces=true&amp;width=255&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:255px; height:80px;" allowTransparency="true"></iframe>
+			<div class="box-contact">
+				<div class="contact">
+					<p><strong class="mark">Telefon:</strong> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblPhone">777 273 088</span></p>
+					<p><strong class="mark">Email:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplSendMessage" href="../zprava/podnik/batika-bellis-filip-a-bara-wormovi" style="font-weight: 700">Napište nám!</a></p>
+					<p><strong class="mark">Web:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplBizUrl" target="_blank"></a></p>
+				</div>
+				<address>
+					<strong class="mark">Adresa:</strong>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblStreet">Jánského 77, </span> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblCity">Česká Ves</span></p>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblZip">79081</span></p>
+				</address>
+			</div>
+			<div class="image-holder map">
+                    <div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1">
+
+</div><div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_Templates" style="display:none;"></div><input id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" name="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" type="hidden" />
+			</div>
+            				
+			<div class="box-about">
+			</div>
+</div>
+
+								</div>
+
+							</div>
+						</div>
+						<div class="content-b">&nbsp;</div>
+					</div>
+				</div>
+			</div>
+			<div id="footer">
+				<div class="inner">
+					<div class="holder">
+						<div class="partners">
+							
+							<ul>
+							</ul>
+						</div>
+						<div class="footer-box">
+							<strong class="logo-nalok"><a href="http://www.nalok.cz">logo</a></strong>
+							<ul class="add-nav">
+								<li><a href="http://www.nalok.cz/nalok" title="Kontakt">Kontakt</a></li>
+								
+								<li><a href="http://www.nalok.cz/tou.aspx">Všeobecné Obchodní Podmínky</a></li>
+                                <li><a href="http://www.nalok.cz/partners.aspx">Partneři projektu</a></li>
+                                <li><a href="http://www.nalok.cz/napoveda" title="Jak Nalok.cz funguje a jak jej maximálně využívat">Nápověda</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var GoogleMap1 = new Artem.Web.GoogleMap({"Address":null,"BaseCountryCode":null,"ClientID":"ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1","ClientMapID":"GoogleMap1","DefaultAddress":null,"DefaultMapView":0,"Directions":[],"EnableContinuousZoom":false,"EnableDoubleClickZoom":false,"EnableDragging":true,"EnableGoogleBar":false,"EnableInfoWindow":true,"EnableMarkerManager":false,"EnableReverseGeocoding":false,"EnableScrollWheelZoom":false,"EnterpriseKey":null,"Height":"292px","IsStreetView":false,"IsStatic":false,"Key":"ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A","Latitude":50.2519305,"Longitude":17.2234232,"MapEvents":{},"MarkerEvents":{},"MarkerManagerOptions":{"borderPadding":null,"maxZoom":null,"trackMarkers":null},"PolygonEvents":{},"PolylineEvents":{},"ShowMapTypeControl":true,"ShowScaleControl":false,"ShowTraffic":false,"StreetViewMode":0,"StreetViewPanoID":null,"Width":"241px","Zoom":15,"ZoomPanType":0});
+GoogleMap1.addMarker({"Address":null,"AutoPan":true,"Bouncy":false,"Clickable":true,"Draggable":false,"DragCrossMove":false,"IconAnchor":{"X":8,"Y":16},"IconSize":{"Height":30,"Width":30},"IconUrl":"/images/nalok_n.png","InfoWindowAnchor":{"X":0,"Y":0},"Latitude":50.2519305,"Longitude":17.2234232,"MaxZoom":null,"MinZoom":null,"OpenInfoBehaviour":0,"ShadowSize":{"Height":16,"Width":16},"ShadowUrl":null,"Text":"<table cellpadding=3 cellspacing=3><tr><td colspan=2 style=\"font-size: 16px\"><img style=\"margin-top: -3px\" width='34px' src='/images/nalok_n.png' /> <strong>BATIKA BELLIS - Filip a B\u00E1ra Wormovi<strong></td></tr><tr><td><img width='45px' src='/img/image.ashx?id=15bf9dc8-52e5-4af6-adda-7d528a26dc66'/></td><td>J\u00E1nsk\u00E9ho 77<br/>\u010Cesk\u00E1 Ves</td><tr></table>","Title":null});
+GoogleMap1.load();
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>

@@ -1,0 +1,388 @@
+
+
+<!DOCTYPE html PUBLIC  "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="ctl00_Head1"><link rel="icon" type="image/gif" href="http://www.nalok.cz/images/animated_favicon1.gif" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	Biofarma Třanovice, Třanovice | Nalok.cz
+</title>
+        
+        <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+        </script>
+        <script type='text/javascript'>
+            GS_googleAddAdSenseService("ca-pub-5370690446478716");
+            GS_googleEnableAllServices();
+        </script>
+        <script type='text/javascript'>
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_about_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_home_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_pridejte_se_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_produkty_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_square_right_top_180x150");
+        </script>
+        <script type='text/javascript'>
+            GA_googleFetchAds();
+        </script>
+        
+        
+         <script type="text/javascript">
+             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+            <script type="text/javascript">
+                try {
+                    var pageTracker = _gat._getTracker("UA-12574605-2");
+                    pageTracker._trackPageview();
+                } catch (err) { }</script>
+        
+        
+
+		<!--[if lt IE 8]>
+			<link rel="stylesheet" type="text/css" href="../css/ie.css" />
+			<script type="text/javascript" src="js/ie-hover-pack.js"></script>
+		<![endif]-->  
+
+ 
+	<link href="../App_Themes/new/all-09132011.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/ie.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery.lightbox-0.5.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.2.custom.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.5.custom.css" type="text/css" rel="stylesheet" /><meta name="description" content="Začínající rodinná biofarma zabývající se prodejem sena, chovem a výcvikem koní a službami (vožení dětí, vyjížďky do přírody, jízda v zápřahu), chovem koz a prodejem mléka a výrobků, chovem slepic a prodejem vajíček a chovem masného dobytka. Dále pěstujeme zeleninu a ovoce bez postřiků." /><meta name="keywords" content="Bio potraviny, zemědělci, farmáři, bedýnkování, lokální výrobci, nakupovat, nákup, zelenina, ovoce" /></head>
+	<body>
+    <form name="aspnetForm" method="post" action="biofarma-tranovice" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="http://maps.google.com/maps?file=api&amp;v=2.x&amp;key=ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=2g5RFPfFOSvvxRbx7B-fXnx6WoSbSOCw4nm-JnLlexZXWMYfOpd4plvOOSq9w-TYlbrm0bpzk0MmFipK966uP5_Nc5Cn2_7Bor2UBZbZGqRaba9-oeYQhly9IgxRsw1Rlqx2Cry_gtl3FN8BSEByDJhD7R5mzN8XTiSAUQ7bI5q1t3lE0&amp;t=5b29a3a1" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = '{"name":"cs-CZ","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":" ","CurrencySymbol":"Kč","NaNSymbol":"Není číslo","CurrencyNegativePattern":8,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-nekonečno","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":" ","CurrencyPositivePattern":3,"PositiveInfinitySymbol":"+nekonečno","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":" ","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"dop.","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":".","FirstDayOfWeek":1,"CalendarWeekRule":0,"FullDateTimePattern":"d. MMMM yyyy H:mm:ss","LongDatePattern":"d. MMMM yyyy","LongTimePattern":"H:mm:ss","MonthDayPattern":"dd MMMM","PMDesignator":"odp.","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"d.M.yyyy","ShortTimePattern":"H:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["ne","po","út","st","čt","pá","so"],"ShortestDayNames":["ne","po","út","st","čt","pá","so"],"DayNames":["neděle","pondělí","úterý","středa","čtvrtek","pátek","sobota"],"AbbreviatedMonthNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthNames":["leden","únor","březen","duben","květen","červen","červenec","srpen","září","říjen","listopad","prosinec",""],"IsReadOnly":true,"NativeCalendarName":"gregoriánský kalendář","AbbreviatedMonthGenitiveNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthGenitiveNames":["ledna","února","března","dubna","května","června","července","srpna","září","října","listopadu","prosince",""]}}';//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=wboRJh5bxWeoWRWpHx54Qm8_udjGHaj0FwMCcd_zmJWOG-0jiSmqNPc3zc4HYRCeijfwRWc5_wNxf08I0Lvh1Nd0lQyDXpybjRf8SvRu2w2ZFi6aD5kHCWfje5uxCuMzrJXUbiuWD44JaCgEvBTl17qWxSZaM9HavbyENjwLK5JiVdti0&amp;t=2e2045e2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="../js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="../js/jquery-ui-1.8.5.custom.min.js" type="text/javascript"></script>
+<script src="../js/jquery.livequery.js" type="text/javascript"></script>
+<script src="../js/custom.js" type="text/javascript"></script>
+<script src="../js/jquery.lightbox-0.5.js" type="text/javascript"></script>
+<script src="../js/jquery.watermark.min.js" type="text/javascript"></script>
+<script src="../js/clear-form.js" type="text/javascript"></script>
+<script src="../js/jquery.validate.min.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=YOko8-piHv5VhKN3mOnhhVKVQsqnMhToKOUG_Oqeve4oMzencYMV6vpdtjIKDksFGp84DwRl_VjeXXjIuDFAbdFy8o4FrkDdyKJvy2vmVR1HaBe3NQ6e65QnrB9FyALvUxguARD-ZkLN-RFY56U1I6hi0PWvxe6UtSmbHtwe5a7ob7980&amp;t=ffffffff87636c38" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=xA4x9YbkkkYAmc7cHJrMdpxpSAwQoryknxyX9Szt40WPrMVz2gms6fX0IqLeRCWbxA6OqtEzycG8wK676We1_gHBVbSO2KNANj2iQOOeAzH89anVYhrGGbTP8aqaYkE9JlGkZP3s8KlF77CqCLv95YcbR4bONcYS18jMXlP8gwjiweIE0&amp;t=ffffffff87636c38" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5E8DBDB1" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="dQsy8UlnYcPKFZeSt93WEu6iG8mkw8ku3YgAtBPuJyl2aASxt//v7JMjbAsa5F5P+w3p5+ArDWuiSAddapP/LQ49N2K0UrWK058zgs5LumVFYj0osszNEsOmMgdsquOH9Eaf1zujLFOiNk1wPy6nuLcWrzMNSszROs3YdtStSW0jDsgWtSjf681N9s4HDGl/UnSWqg==" />
+    
+    <div>        
+		<div id="wrapper" class="inner-page">
+			<div class="w1">
+				<div id="header">
+					<div class="heading">
+						<strong class="logo"><a id="ctl00_HyperLink7" href="../">Nalok</a></strong>
+						<div class="panel" style="width: 720px;">
+							<div class="forms-box">
+                                
+        <div class="form-login">
+        <fieldset>
+            <input type="submit" name="ctl00$LoginTop1$Button1" value="Přihlásit" id="ctl00_LoginTop1_Button1" class="btn-submit" />
+	        <span class="field2"><input name="ctl00$LoginTop1$txtPassword" type="password" id="ctl00_LoginTop1_txtPassword" tabindex="2" /></span>
+	        <span class="field"><input name="ctl00$LoginTop1$txtEmail" type="text" value="Email" id="ctl00_LoginTop1_txtEmail" tabindex="1" class="clearMeFocus" /></span>
+        </fieldset>
+        </div>
+    
+                                							    
+                                  <div class="form-search">
+									<fieldset>
+                                        <input type="submit" name="ctl00$SearchHP1$Button1" value="Hledej" id="ctl00_SearchHP1_Button1" class="btn-submit" />
+                                        <span class="field"><input name="ctl00$SearchHP1$txtSearch" type="text" value="Vyhledávání na Naloku" id="ctl00_SearchHP1_txtSearch" class="clearMeFocus" /></span>                                        
+									</fieldset>
+                                  </div> 
+							</div>
+                            <!-- ads -->
+                            <div style=" width: 468px; height: 60px; float: left;">
+                                
+        
+                                
+                            </div>
+							<div class="item"  style="width: 242px">
+
+								<ul class="social-links">
+									<li class="facebook"><a href="http://www.facebook.com/nakupujtelokalne" target="_blank"><span>&nbsp;</span> <strong>Facebook</strong></a></li>
+									<li class="twitter"><a href="http://twitter.com/nalokcz"><span>&nbsp;</span> <strong>Twitter</strong></a></li>                                    
+								</ul>
+                                <br />
+
+							</div>
+						</div>
+					</div>
+				    
+<ul id="nav">
+	<li><a id="ctl00_Menu1_hplHome" href="../"><span class="home">home</span></a></li>
+	<li><a id="ctl00_Menu1_hplJoin" href="../pridejte-se">Přidejte se</a></li>
+	<li><a id="ctl00_Menu1_HyperLink3" href="../farmy">Farmy</a></li>
+	<li><a id="ctl00_Menu1_HyperLink4" href="../farmarske-trhy">Trhy a akce</a></li>
+	<li><a id="ctl00_Menu1_HyperLink5" href="../bedynky">Bedýnky</a></li>
+	<li><a id="ctl00_Menu1_HyperLink6" href="../produkty">Produkty</a></li>
+	<li><a id="ctl00_Menu1_HyperLink7" href="../clanky">Blog</a></li>
+	<li><a id="ctl00_Menu1_HyperLink8" href="../mesta">&nbsp;&nbsp;Města&nbsp;</a></li>
+</ul>
+				</div>
+				<div id="main">
+					<div id="content">
+						<div class="content-t">&nbsp;</div>
+						<div class="content-c">
+							<div class="content-center">
+								
+
+<ul class="breadcrumbs">
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_HyperLink1" href="../">Domů</a></li>
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_hplCategory" href="../farmy">Farmy</a></li>
+    
+	<li><span id="ctl00_cntPlaceHolderMain_BreadCrumbs1_lblItem">Biofarma Třanovice</span></li>
+</ul>
+
+    
+    <h1>
+        <span id="ctl00_cntPlaceHolderMain_lblBusinessName">Biofarma Třanovice, Třanovice</span></h1>
+								<div id="twocolumns">
+									<div class="content-column">
+                                                                              
+									                                            
+                                        
+<script type="text/javascript">
+    $(function() {
+    $('#gallery .jquery-lightbox').lightBox();
+
+});
+
+$(document).ready(function() {
+    $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').hide();
+    $('#addPicture').click(function() {
+        $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').toggle();
+    });
+});
+</script>
+<style type="text/css">
+	/* jQuery lightBox plugin - Gallery style */
+	#gallery {
+	}
+	#gallery ul { list-style: none; }
+	#gallery ul li { display: inline; }
+	#gallery ul img {
+		border: 5px solid #fff;
+		border-width: 5px 5px 20px;
+	}
+	#gallery ul a:hover img {
+		border: 5px solid #8db526;
+		border-width: 5px 5px 20px;
+		color: #fff;
+	}
+	#gallery ul a:hover { color: #fff; }
+
+	.style2imgmngr
+    {
+        font-size: x-small;
+        font-weight: bold;
+    }
+	</style>
+
+
+<div id="gallery">
+<div class="box-picture-gallery">
+<h2><span id="ctl00_cntPlaceHolderMain_ImageManagerND1_lblTitle">Takto to u nás vypadá</span></h2>
+<p></p>
+<ul class="picture-gallery-list">
+<table id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_HyperLink1" class="jquery-lightbox" title="Biofarma Třanovice" href="../data/obrazky/70/biofarma-tranovice_70907bdb-739a-45fc-b1aa-2914e17af3e8.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_Image1" src="../data/obrazky/55/obr-biofarma-tranovice_559bc4f1-b444-49de-9aa7-4d3ccef72874.jpg" alt="Biofarma Třanovice" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl00$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_hdnImageId" value="70907bdb-739a-45fc-b1aa-2914e17af3e8" />
+       
+
+    
+        </li>
+    </td><td></td><td></td><td></td><td></td>
+	</tr>
+</table>
+</ul>
+</div>
+</div>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnObjectId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnObjectId" value="0dc6ed6a-4316-4917-9b52-d53f00fe2817" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnIsAdmin" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnIsAdmin" value="false" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        <h2>O nás</h2><p>Začínající biofarma v malebném prostředí Beskyd, hlavním cílem je prodej kvalitního sena v malých kulatých balících. Dále vozíme děti v Komorní Lhotce,  pořádáme vyjížďky, jízdy vozem či na saních, různé akce, ukázky využití koní v zemědělství. Všechno na bázi přirozeného výcviku podle Parelliho.<br/>Dále začínáme s chovem anglonubijských a bílých koz a s tím spojeným prodejem mléka, sýrů a dalších výrobků, chovem nosných slepic a prodejem vajec, chovem masného dobytka. Pěstujeme taky biozeleninu i ovoce, ze kterého vyrabíme produkty bez přídavku chemie.<br/><br/>Navštivte nás online: <br/>https://www.facebook.com/pages/Biofarma-T%C5%99anovice/108810912622451<br/><br/>nebo přijeďte k nám rovnou na návštěvu :)</p>
+                                        <p>&nbsp;</p>
+                                        
+<div class="box-comments">
+	<h2 class="title-comments">Komentáře</h2>
+    <a id="ctl00_cntPlaceHolderMain_BusinessComments1_hplLogIn" class="comment-link" href="../login.aspx?ReturnUrl=/farmy/biofarma-tranovice">Přihlašte se a přidejte komentář</a>
+
+<div style="text-align: right; width: 100%"></div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').hide();
+        // shows the slickbox on clicking the noted link
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_HyperLink1').click(function () {
+            $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').toggle('slow');
+            return false;
+        });
+    });
+</script>
+
+
+<ul class="comments-list">
+
+        <li>
+            
+        	<div class="heading">
+				<a style=" cursor: pointer" class="name"><span id="ctl00_cntPlaceHolderMain_BusinessComments1_ListView1_ctrl0_CreatedByLabel">Neznámé jméno</span>,</a>
+				<span class="date"><span id="ctl00_cntPlaceHolderMain_BusinessComments1_ListView1_ctrl0_Label1">24.7.2013</span></span>
+			</div>
+			<p><span id="ctl00_cntPlaceHolderMain_BusinessComments1_ListView1_ctrl0_Comment1Label"></span></p>
+			<div class="box-rating">
+				<span>Hodnocení:</span>
+                    <div id="ctl00_cntPlaceHolderMain_BusinessComments1_ListView1_ctrl0_Rating1">
+	<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$ListView1$ctrl0$Rating1_RatingExtender_ClientState" id="ctl00_cntPlaceHolderMain_BusinessComments1_ListView1_ctrl0_Rating1_RatingExtender_ClientState" value="3" />
+                    <a href="javascript:void(0)" id="ctl00_cntPlaceHolderMain_BusinessComments1_ListView1_ctrl0_Rating1_A" title="3" style="text-decoration:none"><span id="ctl00_cntPlaceHolderMain_BusinessComments1_ListView1_ctrl0_Rating1_Star_1" class="empty_rating_star full_rating_star">&nbsp;</span><span id="ctl00_cntPlaceHolderMain_BusinessComments1_ListView1_ctrl0_Rating1_Star_2" class="empty_rating_star full_rating_star">&nbsp;</span><span id="ctl00_cntPlaceHolderMain_BusinessComments1_ListView1_ctrl0_Rating1_Star_3" class="empty_rating_star full_rating_star">&nbsp;</span></a>
+</div>
+			</div>
+            <div style="height:15px; clear: both; width: 100%"></div>
+    
+        </li>
+    
+</ul>
+
+
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectId" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectId" value="0dc6ed6a-4316-4917-9b52-d53f00fe2817" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectType" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectType" value="Business" />
+
+</div>
+			
+
+
+					
+				
+									</div>									
+								    
+								    
+<div id="sidebar">
+            
+			
+            <h2>O farmě</h2>
+            
+			<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblShortDesc">Začínající rodinná biofarma zabývající se prodejem sena, chovem a výcvikem koní a službami (vožení dětí, vyjížďky do přírody, jízda v zápřahu), chovem koz a prodejem mléka a výrobků, chovem slepic a prodejem vajíček a chovem masného dobytka. Dále pěstujeme zeleninu a ovoce bez postřiků.</span></p>            
+			
+			
+<h2>Partner farmy</h2>
+<a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_PartnerLogo1_HyperLink1" title="Najdi si svého farmáře" href="http://www.najdisisvehofarmare.cz/" target="_blank"><img id="ctl00_cntPlaceHolderMain_BusinessProfileND1_PartnerLogo1_Image1" src="http://www.nalok.cz/najdisisvehofarmare/wp-content/themes/extra-web/images/logo.jpg" alt="Najdi si svého farmáře" width="245" border="0" /></a>
+			<div class="image-holder">
+                <img id="ctl00_cntPlaceHolderMain_BusinessProfileND1_Image1" src="../data/obrazky/82/biofarma-tranovice-tranovice_823e46b0-ec32-454c-9591-147ccedaddf4.jpg" height="163" width="245" border="0" />
+			</div>
+            <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nalok.cz/farmy/biofarma-tranovice&amp;layout=standard&amp;show_faces=true&amp;width=255&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:255px; height:80px;" allowTransparency="true"></iframe>
+			<div class="box-contact">
+				<div class="contact">
+					<p><strong class="mark">Telefon:</strong> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblPhone">606 161 737</span></p>
+					<p><strong class="mark">Email:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplSendMessage" href="../zprava/podnik/biofarma-tranovice" style="font-weight: 700">Napište nám!</a></p>
+					<p><strong class="mark">Web:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplBizUrl" target="_blank"></a></p>
+				</div>
+				<address>
+					<strong class="mark">Adresa:</strong>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblStreet">-, </span> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblCity">Třanovice</span></p>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblZip">73954</span></p>
+				</address>
+			</div>
+			<div class="image-holder map">
+                    <div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1">
+
+</div><div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_Templates" style="display:none;"></div><input id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" name="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" type="hidden" />
+			</div>
+            				
+			<div class="box-about">
+			</div>
+</div>
+
+								</div>
+
+							</div>
+						</div>
+						<div class="content-b">&nbsp;</div>
+					</div>
+				</div>
+			</div>
+			<div id="footer">
+				<div class="inner">
+					<div class="holder">
+						<div class="partners">
+							
+							<ul>
+							</ul>
+						</div>
+						<div class="footer-box">
+							<strong class="logo-nalok"><a href="http://www.nalok.cz">logo</a></strong>
+							<ul class="add-nav">
+								<li><a href="http://www.nalok.cz/nalok" title="Kontakt">Kontakt</a></li>
+								
+								<li><a href="http://www.nalok.cz/tou.aspx">Všeobecné Obchodní Podmínky</a></li>
+                                <li><a href="http://www.nalok.cz/partners.aspx">Partneři projektu</a></li>
+                                <li><a href="http://www.nalok.cz/napoveda" title="Jak Nalok.cz funguje a jak jej maximálně využívat">Nápověda</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var GoogleMap1 = new Artem.Web.GoogleMap({"Address":null,"BaseCountryCode":null,"ClientID":"ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1","ClientMapID":"GoogleMap1","DefaultAddress":null,"DefaultMapView":0,"Directions":[],"EnableContinuousZoom":false,"EnableDoubleClickZoom":false,"EnableDragging":true,"EnableGoogleBar":false,"EnableInfoWindow":true,"EnableMarkerManager":false,"EnableReverseGeocoding":false,"EnableScrollWheelZoom":false,"EnterpriseKey":null,"Height":"292px","IsStreetView":false,"IsStatic":false,"Key":"ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A","Latitude":49.7124528,"Longitude":18.5291961,"MapEvents":{},"MarkerEvents":{},"MarkerManagerOptions":{"borderPadding":null,"maxZoom":null,"trackMarkers":null},"PolygonEvents":{},"PolylineEvents":{},"ShowMapTypeControl":true,"ShowScaleControl":false,"ShowTraffic":false,"StreetViewMode":0,"StreetViewPanoID":null,"Width":"241px","Zoom":15,"ZoomPanType":0});
+GoogleMap1.addMarker({"Address":null,"AutoPan":true,"Bouncy":false,"Clickable":true,"Draggable":false,"DragCrossMove":false,"IconAnchor":{"X":8,"Y":16},"IconSize":{"Height":30,"Width":30},"IconUrl":"/images/nalok_n.png","InfoWindowAnchor":{"X":0,"Y":0},"Latitude":49.7124528,"Longitude":18.5291961,"MaxZoom":null,"MinZoom":null,"OpenInfoBehaviour":0,"ShadowSize":{"Height":16,"Width":16},"ShadowUrl":null,"Text":"<table cellpadding=3 cellspacing=3><tr><td colspan=2 style=\"font-size: 16px\"><img style=\"margin-top: -3px\" width='34px' src='/images/nalok_n.png' /> <strong>Biofarma T\u0159anovice<strong></td></tr><tr><td><img width='45px' src='/img/image.ashx?id=0dc6ed6a-4316-4917-9b52-d53f00fe2817'/></td><td>-<br/>T\u0159anovice</td><tr></table>","Title":null});
+GoogleMap1.load();
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.RatingBehavior, {"AutoPostBack":false,"CallbackID":"ctl00$cntPlaceHolderMain$BusinessComments1$ListView1$ctrl0$Rating1","ClientStateFieldID":"ctl00_cntPlaceHolderMain_BusinessComments1_ListView1_ctrl0_Rating1_RatingExtender_ClientState","EmptyStarCssClass":"empty_rating_star","FilledStarCssClass":"full_rating_star","MaxRating":3,"Rating":3,"ReadOnly":true,"StarCssClass":"empty_rating_star","WaitingStarCssClass":"empty_rating_star","id":"ctl00_cntPlaceHolderMain_BusinessComments1_ListView1_ctrl0_Rating1_RatingExtender"}, null, null, $get("ctl00_cntPlaceHolderMain_BusinessComments1_ListView1_ctrl0_Rating1"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>

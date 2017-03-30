@@ -1,0 +1,365 @@
+
+
+<!DOCTYPE html PUBLIC  "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="ctl00_Head1"><link rel="icon" type="image/gif" href="http://www.nalok.cz/images/animated_favicon1.gif" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	Agro Česká Ves, s.r.o., Česká Ves | Nalok.cz
+</title>
+        
+        <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+        </script>
+        <script type='text/javascript'>
+            GS_googleAddAdSenseService("ca-pub-5370690446478716");
+            GS_googleEnableAllServices();
+        </script>
+        <script type='text/javascript'>
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_about_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_home_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_pridejte_se_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_produkty_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_square_right_top_180x150");
+        </script>
+        <script type='text/javascript'>
+            GA_googleFetchAds();
+        </script>
+        
+        
+         <script type="text/javascript">
+             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+            <script type="text/javascript">
+                try {
+                    var pageTracker = _gat._getTracker("UA-12574605-2");
+                    pageTracker._trackPageview();
+                } catch (err) { }</script>
+        
+        
+
+		<!--[if lt IE 8]>
+			<link rel="stylesheet" type="text/css" href="../css/ie.css" />
+			<script type="text/javascript" src="js/ie-hover-pack.js"></script>
+		<![endif]-->  
+
+ 
+	<link href="../App_Themes/new/all-09132011.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/ie.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery.lightbox-0.5.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.2.custom.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.5.custom.css" type="text/css" rel="stylesheet" /><meta name="description" content="Chov skotu plemene AA - ekologická farma skotu Česká Ves, Široký Brod, rostlinná výroba a mechanizace, farma prasat Široký Brod, prodejna masa a masných výrobků Široký Brod." /><meta name="keywords" content="Bio potraviny, zemědělci, farmáři, bedýnkování, lokální výrobci, nakupovat, nákup, zelenina, ovoce" /></head>
+	<body>
+    <form name="aspnetForm" method="post" action="agro-ceska-ves-s-r-o" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="http://maps.google.com/maps?file=api&amp;v=2.x&amp;key=ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=2g5RFPfFOSvvxRbx7B-fXnx6WoSbSOCw4nm-JnLlexZXWMYfOpd4plvOOSq9w-TYlbrm0bpzk0MmFipK966uP5_Nc5Cn2_7Bor2UBZbZGqRaba9-oeYQhly9IgxRsw1Rlqx2Cry_gtl3FN8BSEByDJhD7R5mzN8XTiSAUQ7bI5q1t3lE0&amp;t=5b29a3a1" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = '{"name":"cs-CZ","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":" ","CurrencySymbol":"Kč","NaNSymbol":"Není číslo","CurrencyNegativePattern":8,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-nekonečno","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":" ","CurrencyPositivePattern":3,"PositiveInfinitySymbol":"+nekonečno","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":" ","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"dop.","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":".","FirstDayOfWeek":1,"CalendarWeekRule":0,"FullDateTimePattern":"d. MMMM yyyy H:mm:ss","LongDatePattern":"d. MMMM yyyy","LongTimePattern":"H:mm:ss","MonthDayPattern":"dd MMMM","PMDesignator":"odp.","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"d.M.yyyy","ShortTimePattern":"H:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["ne","po","út","st","čt","pá","so"],"ShortestDayNames":["ne","po","út","st","čt","pá","so"],"DayNames":["neděle","pondělí","úterý","středa","čtvrtek","pátek","sobota"],"AbbreviatedMonthNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthNames":["leden","únor","březen","duben","květen","červen","červenec","srpen","září","říjen","listopad","prosinec",""],"IsReadOnly":true,"NativeCalendarName":"gregoriánský kalendář","AbbreviatedMonthGenitiveNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthGenitiveNames":["ledna","února","března","dubna","května","června","července","srpna","září","října","listopadu","prosince",""]}}';//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=wboRJh5bxWeoWRWpHx54Qm8_udjGHaj0FwMCcd_zmJWOG-0jiSmqNPc3zc4HYRCeijfwRWc5_wNxf08I0Lvh1Nd0lQyDXpybjRf8SvRu2w2ZFi6aD5kHCWfje5uxCuMzrJXUbiuWD44JaCgEvBTl17qWxSZaM9HavbyENjwLK5JiVdti0&amp;t=2e2045e2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="../js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="../js/jquery-ui-1.8.5.custom.min.js" type="text/javascript"></script>
+<script src="../js/jquery.livequery.js" type="text/javascript"></script>
+<script src="../js/custom.js" type="text/javascript"></script>
+<script src="../js/jquery.lightbox-0.5.js" type="text/javascript"></script>
+<script src="../js/jquery.watermark.min.js" type="text/javascript"></script>
+<script src="../js/clear-form.js" type="text/javascript"></script>
+<script src="../js/jquery.validate.min.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5E8DBDB1" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="JPuA4SgNHdx4rRuHjT6vGAhTe0jkKtJaXgFm7U3METUEtBcSOhxOoaeRaM78SNfg2K7bj/1fBBjfQwsW72cofRVNQimiv20LT71YRhHvwayEUaZlz1CHUyKiqSev04LZEsQ662E5NoFjBUnK1wQBd09qSN1cdID3PytgSCOyuoN7RDpb" />
+    
+    <div>        
+		<div id="wrapper" class="inner-page">
+			<div class="w1">
+				<div id="header">
+					<div class="heading">
+						<strong class="logo"><a id="ctl00_HyperLink7" href="../">Nalok</a></strong>
+						<div class="panel" style="width: 720px;">
+							<div class="forms-box">
+                                
+        <div class="form-login">
+        <fieldset>
+            <input type="submit" name="ctl00$LoginTop1$Button1" value="Přihlásit" id="ctl00_LoginTop1_Button1" class="btn-submit" />
+	        <span class="field2"><input name="ctl00$LoginTop1$txtPassword" type="password" id="ctl00_LoginTop1_txtPassword" tabindex="2" /></span>
+	        <span class="field"><input name="ctl00$LoginTop1$txtEmail" type="text" value="Email" id="ctl00_LoginTop1_txtEmail" tabindex="1" class="clearMeFocus" /></span>
+        </fieldset>
+        </div>
+    
+                                							    
+                                  <div class="form-search">
+									<fieldset>
+                                        <input type="submit" name="ctl00$SearchHP1$Button1" value="Hledej" id="ctl00_SearchHP1_Button1" class="btn-submit" />
+                                        <span class="field"><input name="ctl00$SearchHP1$txtSearch" type="text" value="Vyhledávání na Naloku" id="ctl00_SearchHP1_txtSearch" class="clearMeFocus" /></span>                                        
+									</fieldset>
+                                  </div> 
+							</div>
+                            <!-- ads -->
+                            <div style=" width: 468px; height: 60px; float: left;">
+                                
+        
+                                
+                            </div>
+							<div class="item"  style="width: 242px">
+
+								<ul class="social-links">
+									<li class="facebook"><a href="http://www.facebook.com/nakupujtelokalne" target="_blank"><span>&nbsp;</span> <strong>Facebook</strong></a></li>
+									<li class="twitter"><a href="http://twitter.com/nalokcz"><span>&nbsp;</span> <strong>Twitter</strong></a></li>                                    
+								</ul>
+                                <br />
+
+							</div>
+						</div>
+					</div>
+				    
+<ul id="nav">
+	<li><a id="ctl00_Menu1_hplHome" href="../"><span class="home">home</span></a></li>
+	<li><a id="ctl00_Menu1_hplJoin" href="../pridejte-se">Přidejte se</a></li>
+	<li><a id="ctl00_Menu1_HyperLink3" href="../farmy">Farmy</a></li>
+	<li><a id="ctl00_Menu1_HyperLink4" href="../farmarske-trhy">Trhy a akce</a></li>
+	<li><a id="ctl00_Menu1_HyperLink5" href="../bedynky">Bedýnky</a></li>
+	<li><a id="ctl00_Menu1_HyperLink6" href="../produkty">Produkty</a></li>
+	<li><a id="ctl00_Menu1_HyperLink7" href="../clanky">Blog</a></li>
+	<li><a id="ctl00_Menu1_HyperLink8" href="../mesta">&nbsp;&nbsp;Města&nbsp;</a></li>
+</ul>
+				</div>
+				<div id="main">
+					<div id="content">
+						<div class="content-t">&nbsp;</div>
+						<div class="content-c">
+							<div class="content-center">
+								
+
+<ul class="breadcrumbs">
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_HyperLink1" href="../">Domů</a></li>
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_hplCategory" href="../farmy">Farmy</a></li>
+    
+	<li><span id="ctl00_cntPlaceHolderMain_BreadCrumbs1_lblItem">Agro Česká Ves, s.r.o.</span></li>
+</ul>
+
+    
+    <h1>
+        <span id="ctl00_cntPlaceHolderMain_lblBusinessName">Agro Česká Ves, s.r.o., Česká Ves</span></h1>
+								<div id="twocolumns">
+									<div class="content-column">
+                                                                              
+									                                            
+                                        
+<script type="text/javascript">
+    $(function() {
+    $('#gallery .jquery-lightbox').lightBox();
+
+});
+
+$(document).ready(function() {
+    $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').hide();
+    $('#addPicture').click(function() {
+        $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').toggle();
+    });
+});
+</script>
+<style type="text/css">
+	/* jQuery lightBox plugin - Gallery style */
+	#gallery {
+	}
+	#gallery ul { list-style: none; }
+	#gallery ul li { display: inline; }
+	#gallery ul img {
+		border: 5px solid #fff;
+		border-width: 5px 5px 20px;
+	}
+	#gallery ul a:hover img {
+		border: 5px solid #8db526;
+		border-width: 5px 5px 20px;
+		color: #fff;
+	}
+	#gallery ul a:hover { color: #fff; }
+
+	.style2imgmngr
+    {
+        font-size: x-small;
+        font-weight: bold;
+    }
+	</style>
+
+
+<div id="gallery">
+<div class="box-picture-gallery">
+<h2><span id="ctl00_cntPlaceHolderMain_ImageManagerND1_lblTitle">Takto to u nás vypadá</span></h2>
+<p></p>
+<ul class="picture-gallery-list">
+<table id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_HyperLink1" class="jquery-lightbox" title="Agro Česká Ves, s.r.o., ilustrační foto, Nalok.cz" href="../data/obrazky/ea/agro-ceska-ves-s-r-o-ilustracni-foto-nalok-cz_ea1c26c1-c9ff-4d39-8722-12fa79e89113.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_Image1" src="../data/obrazky/f7/obr-agro-ceska-ves-s-r-o-ilustracni-foto-nalok-cz_f7588de3-9064-4743-8c67-2bfe58421645.jpg" alt="Agro Česká Ves, s.r.o., ilustrační foto, Nalok.cz" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl00$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_hdnImageId" value="ea1c26c1-c9ff-4d39-8722-12fa79e89113" />
+       
+
+    
+        </li>
+    </td><td></td><td></td><td></td><td></td>
+	</tr>
+</table>
+</ul>
+</div>
+</div>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnObjectId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnObjectId" value="a0e609af-d66c-4dd1-89df-fa00a9a79511" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnIsAdmin" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnIsAdmin" value="false" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        <h2>O nás</h2><p>Chov skotu plemene AA - ekologická farma skotu Česká Ves - celoroční prodej prasat a selat. (p. Mangl, tel. 775 163 236)<br/>Rostlinná výroba - celoroční prodej čištěného obilí - pšenice, oves (každou středu od 7 h do 15 h), tel. 584 428 209 <br/>Prodejna masa a masných výrobků Široký Brod - tel. 584 423 134 </p>
+                                        <p>&nbsp;</p>
+                                        
+<div class="box-comments">
+	<h2 class="title-comments">Komentáře</h2>
+    <a id="ctl00_cntPlaceHolderMain_BusinessComments1_hplLogIn" class="comment-link" href="../login.aspx?ReturnUrl=/farmy/agro-ceska-ves-s-r-o">Přihlašte se a přidejte komentář</a>
+
+<div style="text-align: right; width: 100%"></div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').hide();
+        // shows the slickbox on clicking the noted link
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_HyperLink1').click(function () {
+            $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').toggle('slow');
+            return false;
+        });
+    });
+</script>
+
+
+<ul class="comments-list">
+
+        <span>Žádné komentáře</span>
+    
+</ul>
+
+
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectId" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectId" value="a0e609af-d66c-4dd1-89df-fa00a9a79511" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectType" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectType" value="Business" />
+
+</div>
+			
+
+
+					
+				
+									</div>									
+								    
+								    
+<div id="sidebar">
+            
+			
+            <h2>O farmě</h2>
+            
+			<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblShortDesc">Chov skotu plemene AA - ekologická farma skotu Česká Ves, Široký Brod, rostlinná výroba a mechanizace, farma prasat Široký Brod, prodejna masa a masných výrobků Široký Brod.</span></p>            
+			
+			
+			<div class="image-holder">
+                <img id="ctl00_cntPlaceHolderMain_BusinessProfileND1_Image1" src="../data/obrazky/8c/agro-ceska-ves-s-r-o-ceska-ves_8c91e2eb-ba40-4ff7-9de1-55af18720f11.jpg" height="163" width="245" border="0" />
+			</div>
+            <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nalok.cz/farmy/agro-ceska-ves-s-r-o&amp;layout=standard&amp;show_faces=true&amp;width=255&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:255px; height:80px;" allowTransparency="true"></iframe>
+			<div class="box-contact">
+				<div class="contact">
+					<p><strong class="mark">Telefon:</strong> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblPhone">584 428 209</span></p>
+					<p><strong class="mark">Email:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplSendMessage" href="../zprava/podnik/agro-ceska-ves-s-r-o" style="font-weight: 700">Napište nám!</a></p>
+					<p><strong class="mark">Web:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplBizUrl" href="http://www.agrocv.cz/index.php" target="_blank">http://www.agrocv.cz/index.php</a></p>
+				</div>
+				<address>
+					<strong class="mark">Adresa:</strong>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblStreet">Větrná 192, </span> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblCity">Česká Ves</span></p>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblZip">79081</span></p>
+				</address>
+			</div>
+			<div class="image-holder map">
+                    <div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1">
+
+</div><div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_Templates" style="display:none;"></div><input id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" name="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" type="hidden" />
+			</div>
+            				
+			<div class="box-about">
+			</div>
+</div>
+
+								</div>
+
+							</div>
+						</div>
+						<div class="content-b">&nbsp;</div>
+					</div>
+				</div>
+			</div>
+			<div id="footer">
+				<div class="inner">
+					<div class="holder">
+						<div class="partners">
+							
+							<ul>
+							</ul>
+						</div>
+						<div class="footer-box">
+							<strong class="logo-nalok"><a href="http://www.nalok.cz">logo</a></strong>
+							<ul class="add-nav">
+								<li><a href="http://www.nalok.cz/nalok" title="Kontakt">Kontakt</a></li>
+								
+								<li><a href="http://www.nalok.cz/tou.aspx">Všeobecné Obchodní Podmínky</a></li>
+                                <li><a href="http://www.nalok.cz/partners.aspx">Partneři projektu</a></li>
+                                <li><a href="http://www.nalok.cz/napoveda" title="Jak Nalok.cz funguje a jak jej maximálně využívat">Nápověda</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var GoogleMap1 = new Artem.Web.GoogleMap({"Address":null,"BaseCountryCode":null,"ClientID":"ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1","ClientMapID":"GoogleMap1","DefaultAddress":null,"DefaultMapView":0,"Directions":[],"EnableContinuousZoom":false,"EnableDoubleClickZoom":false,"EnableDragging":true,"EnableGoogleBar":false,"EnableInfoWindow":true,"EnableMarkerManager":false,"EnableReverseGeocoding":false,"EnableScrollWheelZoom":false,"EnterpriseKey":null,"Height":"292px","IsStreetView":false,"IsStatic":false,"Key":"ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A","Latitude":50.2598044,"Longitude":17.236102,"MapEvents":{},"MarkerEvents":{},"MarkerManagerOptions":{"borderPadding":null,"maxZoom":null,"trackMarkers":null},"PolygonEvents":{},"PolylineEvents":{},"ShowMapTypeControl":true,"ShowScaleControl":false,"ShowTraffic":false,"StreetViewMode":0,"StreetViewPanoID":null,"Width":"241px","Zoom":15,"ZoomPanType":0});
+GoogleMap1.addMarker({"Address":null,"AutoPan":true,"Bouncy":false,"Clickable":true,"Draggable":false,"DragCrossMove":false,"IconAnchor":{"X":8,"Y":16},"IconSize":{"Height":30,"Width":30},"IconUrl":"/images/nalok_n.png","InfoWindowAnchor":{"X":0,"Y":0},"Latitude":50.2598044,"Longitude":17.236102,"MaxZoom":null,"MinZoom":null,"OpenInfoBehaviour":0,"ShadowSize":{"Height":16,"Width":16},"ShadowUrl":null,"Text":"<table cellpadding=3 cellspacing=3><tr><td colspan=2 style=\"font-size: 16px\"><img style=\"margin-top: -3px\" width='34px' src='/images/nalok_n.png' /> <strong>Agro \u010Cesk\u00E1 Ves, s.r.o.<strong></td></tr><tr><td><img width='45px' src='/img/image.ashx?id=a0e609af-d66c-4dd1-89df-fa00a9a79511'/></td><td>V\u011Btrn\u00E1 192<br/>\u010Cesk\u00E1 Ves</td><tr></table>","Title":null});
+GoogleMap1.load();
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>

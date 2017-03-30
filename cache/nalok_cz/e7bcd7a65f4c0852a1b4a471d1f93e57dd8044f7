@@ -1,0 +1,365 @@
+
+
+<!DOCTYPE html PUBLIC  "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="ctl00_Head1"><link rel="icon" type="image/gif" href="http://www.nalok.cz/images/animated_favicon1.gif" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	Andrej Helfert - H&S, Suchdol nad Lužnicí | Nalok.cz
+</title>
+        
+        <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+        </script>
+        <script type='text/javascript'>
+            GS_googleAddAdSenseService("ca-pub-5370690446478716");
+            GS_googleEnableAllServices();
+        </script>
+        <script type='text/javascript'>
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_about_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_home_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_pridejte_se_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_produkty_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_square_right_top_180x150");
+        </script>
+        <script type='text/javascript'>
+            GA_googleFetchAds();
+        </script>
+        
+        
+         <script type="text/javascript">
+             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+            <script type="text/javascript">
+                try {
+                    var pageTracker = _gat._getTracker("UA-12574605-2");
+                    pageTracker._trackPageview();
+                } catch (err) { }</script>
+        
+        
+
+		<!--[if lt IE 8]>
+			<link rel="stylesheet" type="text/css" href="../css/ie.css" />
+			<script type="text/javascript" src="js/ie-hover-pack.js"></script>
+		<![endif]-->  
+
+ 
+	<link href="../App_Themes/new/all-09132011.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/ie.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery.lightbox-0.5.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.2.custom.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.5.custom.css" type="text/css" rel="stylesheet" /><meta name="description" content="Produkce ekologického zástavového skotu." /><meta name="keywords" content="Bio potraviny, zemědělci, farmáři, bedýnkování, lokální výrobci, nakupovat, nákup, zelenina, ovoce" /></head>
+	<body>
+    <form name="aspnetForm" method="post" action="andrej-helfert-h-s" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="http://maps.google.com/maps?file=api&amp;v=2.x&amp;key=ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=2g5RFPfFOSvvxRbx7B-fXnx6WoSbSOCw4nm-JnLlexZXWMYfOpd4plvOOSq9w-TYlbrm0bpzk0MmFipK966uP5_Nc5Cn2_7Bor2UBZbZGqRaba9-oeYQhly9IgxRsw1Rlqx2Cry_gtl3FN8BSEByDJhD7R5mzN8XTiSAUQ7bI5q1t3lE0&amp;t=5b29a3a1" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = '{"name":"cs-CZ","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":" ","CurrencySymbol":"Kč","NaNSymbol":"Není číslo","CurrencyNegativePattern":8,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-nekonečno","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":" ","CurrencyPositivePattern":3,"PositiveInfinitySymbol":"+nekonečno","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":" ","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"dop.","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":".","FirstDayOfWeek":1,"CalendarWeekRule":0,"FullDateTimePattern":"d. MMMM yyyy H:mm:ss","LongDatePattern":"d. MMMM yyyy","LongTimePattern":"H:mm:ss","MonthDayPattern":"dd MMMM","PMDesignator":"odp.","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"d.M.yyyy","ShortTimePattern":"H:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["ne","po","út","st","čt","pá","so"],"ShortestDayNames":["ne","po","út","st","čt","pá","so"],"DayNames":["neděle","pondělí","úterý","středa","čtvrtek","pátek","sobota"],"AbbreviatedMonthNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthNames":["leden","únor","březen","duben","květen","červen","červenec","srpen","září","říjen","listopad","prosinec",""],"IsReadOnly":true,"NativeCalendarName":"gregoriánský kalendář","AbbreviatedMonthGenitiveNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthGenitiveNames":["ledna","února","března","dubna","května","června","července","srpna","září","října","listopadu","prosince",""]}}';//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=wboRJh5bxWeoWRWpHx54Qm8_udjGHaj0FwMCcd_zmJWOG-0jiSmqNPc3zc4HYRCeijfwRWc5_wNxf08I0Lvh1Nd0lQyDXpybjRf8SvRu2w2ZFi6aD5kHCWfje5uxCuMzrJXUbiuWD44JaCgEvBTl17qWxSZaM9HavbyENjwLK5JiVdti0&amp;t=2e2045e2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="../js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="../js/jquery-ui-1.8.5.custom.min.js" type="text/javascript"></script>
+<script src="../js/jquery.livequery.js" type="text/javascript"></script>
+<script src="../js/custom.js" type="text/javascript"></script>
+<script src="../js/jquery.lightbox-0.5.js" type="text/javascript"></script>
+<script src="../js/jquery.watermark.min.js" type="text/javascript"></script>
+<script src="../js/clear-form.js" type="text/javascript"></script>
+<script src="../js/jquery.validate.min.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5E8DBDB1" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="n4Jm02l4amALxdk/nuMnEzfslKAG5I9nwbu5Bc4lfkBlg/7ngYPdYasNyKZLUxjYEF3pYsXWwzbN4Hogh2lSL/gRL5ACBwNhl5naDx81i+yfzQHUouh2p26um3tOfaBktSgACUCGGhCTNF/MaudafQQPXkt2RiCyhg495U88KHpJYvKz" />
+    
+    <div>        
+		<div id="wrapper" class="inner-page">
+			<div class="w1">
+				<div id="header">
+					<div class="heading">
+						<strong class="logo"><a id="ctl00_HyperLink7" href="../">Nalok</a></strong>
+						<div class="panel" style="width: 720px;">
+							<div class="forms-box">
+                                
+        <div class="form-login">
+        <fieldset>
+            <input type="submit" name="ctl00$LoginTop1$Button1" value="Přihlásit" id="ctl00_LoginTop1_Button1" class="btn-submit" />
+	        <span class="field2"><input name="ctl00$LoginTop1$txtPassword" type="password" id="ctl00_LoginTop1_txtPassword" tabindex="2" /></span>
+	        <span class="field"><input name="ctl00$LoginTop1$txtEmail" type="text" value="Email" id="ctl00_LoginTop1_txtEmail" tabindex="1" class="clearMeFocus" /></span>
+        </fieldset>
+        </div>
+    
+                                							    
+                                  <div class="form-search">
+									<fieldset>
+                                        <input type="submit" name="ctl00$SearchHP1$Button1" value="Hledej" id="ctl00_SearchHP1_Button1" class="btn-submit" />
+                                        <span class="field"><input name="ctl00$SearchHP1$txtSearch" type="text" value="Vyhledávání na Naloku" id="ctl00_SearchHP1_txtSearch" class="clearMeFocus" /></span>                                        
+									</fieldset>
+                                  </div> 
+							</div>
+                            <!-- ads -->
+                            <div style=" width: 468px; height: 60px; float: left;">
+                                
+        
+                                
+                            </div>
+							<div class="item"  style="width: 242px">
+
+								<ul class="social-links">
+									<li class="facebook"><a href="http://www.facebook.com/nakupujtelokalne" target="_blank"><span>&nbsp;</span> <strong>Facebook</strong></a></li>
+									<li class="twitter"><a href="http://twitter.com/nalokcz"><span>&nbsp;</span> <strong>Twitter</strong></a></li>                                    
+								</ul>
+                                <br />
+
+							</div>
+						</div>
+					</div>
+				    
+<ul id="nav">
+	<li><a id="ctl00_Menu1_hplHome" href="../"><span class="home">home</span></a></li>
+	<li><a id="ctl00_Menu1_hplJoin" href="../pridejte-se">Přidejte se</a></li>
+	<li><a id="ctl00_Menu1_HyperLink3" href="../farmy">Farmy</a></li>
+	<li><a id="ctl00_Menu1_HyperLink4" href="../farmarske-trhy">Trhy a akce</a></li>
+	<li><a id="ctl00_Menu1_HyperLink5" href="../bedynky">Bedýnky</a></li>
+	<li><a id="ctl00_Menu1_HyperLink6" href="../produkty">Produkty</a></li>
+	<li><a id="ctl00_Menu1_HyperLink7" href="../clanky">Blog</a></li>
+	<li><a id="ctl00_Menu1_HyperLink8" href="../mesta">&nbsp;&nbsp;Města&nbsp;</a></li>
+</ul>
+				</div>
+				<div id="main">
+					<div id="content">
+						<div class="content-t">&nbsp;</div>
+						<div class="content-c">
+							<div class="content-center">
+								
+
+<ul class="breadcrumbs">
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_HyperLink1" href="../">Domů</a></li>
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_hplCategory" href="../farmy">Farmy</a></li>
+    
+	<li><span id="ctl00_cntPlaceHolderMain_BreadCrumbs1_lblItem">Andrej Helfert - H&S</span></li>
+</ul>
+
+    
+    <h1>
+        <span id="ctl00_cntPlaceHolderMain_lblBusinessName">Andrej Helfert - H&S, Suchdol nad Lužnicí</span></h1>
+								<div id="twocolumns">
+									<div class="content-column">
+                                                                              
+									                                            
+                                        
+<script type="text/javascript">
+    $(function() {
+    $('#gallery .jquery-lightbox').lightBox();
+
+});
+
+$(document).ready(function() {
+    $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').hide();
+    $('#addPicture').click(function() {
+        $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').toggle();
+    });
+});
+</script>
+<style type="text/css">
+	/* jQuery lightBox plugin - Gallery style */
+	#gallery {
+	}
+	#gallery ul { list-style: none; }
+	#gallery ul li { display: inline; }
+	#gallery ul img {
+		border: 5px solid #fff;
+		border-width: 5px 5px 20px;
+	}
+	#gallery ul a:hover img {
+		border: 5px solid #8db526;
+		border-width: 5px 5px 20px;
+		color: #fff;
+	}
+	#gallery ul a:hover { color: #fff; }
+
+	.style2imgmngr
+    {
+        font-size: x-small;
+        font-weight: bold;
+    }
+	</style>
+
+
+<div id="gallery">
+<div class="box-picture-gallery">
+<h2><span id="ctl00_cntPlaceHolderMain_ImageManagerND1_lblTitle">Takto to u nás vypadá</span></h2>
+<p></p>
+<ul class="picture-gallery-list">
+<table id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_HyperLink1" class="jquery-lightbox" title="Andrej Helfert - H&amp;S, ilustrační foto, Nalok.cz" href="../data/obrazky/94/andrej-helfert-h-s-ilustracni-foto-nalok-cz_9477a43a-e7c8-4ed1-af82-36d8d3f5ec0c.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_Image1" src="../data/obrazky/c3/obr-andrej-helfert-h-s-ilustracni-foto-nalok-cz_c30d0914-6005-42f9-bd01-bf6e8a0ee756.jpg" alt="Andrej Helfert - H&amp;S, ilustrační foto, Nalok.cz" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl00$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_hdnImageId" value="9477a43a-e7c8-4ed1-af82-36d8d3f5ec0c" />
+       
+
+    
+        </li>
+    </td><td></td><td></td><td></td><td></td>
+	</tr>
+</table>
+</ul>
+</div>
+</div>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnObjectId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnObjectId" value="b9b8b37c-d4f6-4a37-9f82-d44788b5f6c7" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnIsAdmin" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnIsAdmin" value="false" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        <h2>O nás</h2><p>Produkce ekologického zástavového skotu.</p>
+                                        <p>&nbsp;</p>
+                                        
+<div class="box-comments">
+	<h2 class="title-comments">Komentáře</h2>
+    <a id="ctl00_cntPlaceHolderMain_BusinessComments1_hplLogIn" class="comment-link" href="../login.aspx?ReturnUrl=/farmy/andrej-helfert-h-s">Přihlašte se a přidejte komentář</a>
+
+<div style="text-align: right; width: 100%"></div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').hide();
+        // shows the slickbox on clicking the noted link
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_HyperLink1').click(function () {
+            $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').toggle('slow');
+            return false;
+        });
+    });
+</script>
+
+
+<ul class="comments-list">
+
+        <span>Žádné komentáře</span>
+    
+</ul>
+
+
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectId" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectId" value="b9b8b37c-d4f6-4a37-9f82-d44788b5f6c7" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectType" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectType" value="Business" />
+
+</div>
+			
+
+
+					
+				
+									</div>									
+								    
+								    
+<div id="sidebar">
+            
+			
+            <h2>O farmě</h2>
+            
+			<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblShortDesc">Produkce ekologického zástavového skotu.</span></p>            
+			
+			
+			<div class="image-holder">
+                <img id="ctl00_cntPlaceHolderMain_BusinessProfileND1_Image1" src="../data/obrazky/2a/andrej-helfert-h-s-suchdol-nad-luznici_2a8919dd-117a-4416-aa35-9f2673a069da.jpg" height="163" width="245" border="0" />
+			</div>
+            <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nalok.cz/farmy/andrej-helfert-h-s&amp;layout=standard&amp;show_faces=true&amp;width=255&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:255px; height:80px;" allowTransparency="true"></iframe>
+			<div class="box-contact">
+				<div class="contact">
+					<p><strong class="mark">Telefon:</strong> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblPhone">384 787 146</span></p>
+					<p><strong class="mark">Email:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplSendMessage" href="../zprava/podnik/andrej-helfert-h-s" style="font-weight: 700">Napište nám!</a></p>
+					<p><strong class="mark">Web:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplBizUrl" href="http://" target="_blank"></a></p>
+				</div>
+				<address>
+					<strong class="mark">Adresa:</strong>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblStreet">Holičky 12, </span> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblCity">Suchdol nad Lužnicí</span></p>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblZip">37806</span></p>
+				</address>
+			</div>
+			<div class="image-holder map">
+                    <div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1">
+
+</div><div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_Templates" style="display:none;"></div><input id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" name="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" type="hidden" />
+			</div>
+            				
+			<div class="box-about">
+			</div>
+</div>
+
+								</div>
+
+							</div>
+						</div>
+						<div class="content-b">&nbsp;</div>
+					</div>
+				</div>
+			</div>
+			<div id="footer">
+				<div class="inner">
+					<div class="holder">
+						<div class="partners">
+							
+							<ul>
+							</ul>
+						</div>
+						<div class="footer-box">
+							<strong class="logo-nalok"><a href="http://www.nalok.cz">logo</a></strong>
+							<ul class="add-nav">
+								<li><a href="http://www.nalok.cz/nalok" title="Kontakt">Kontakt</a></li>
+								
+								<li><a href="http://www.nalok.cz/tou.aspx">Všeobecné Obchodní Podmínky</a></li>
+                                <li><a href="http://www.nalok.cz/partners.aspx">Partneři projektu</a></li>
+                                <li><a href="http://www.nalok.cz/napoveda" title="Jak Nalok.cz funguje a jak jej maximálně využívat">Nápověda</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var GoogleMap1 = new Artem.Web.GoogleMap({"Address":null,"BaseCountryCode":null,"ClientID":"ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1","ClientMapID":"GoogleMap1","DefaultAddress":null,"DefaultMapView":0,"Directions":[],"EnableContinuousZoom":false,"EnableDoubleClickZoom":false,"EnableDragging":true,"EnableGoogleBar":false,"EnableInfoWindow":true,"EnableMarkerManager":false,"EnableReverseGeocoding":false,"EnableScrollWheelZoom":false,"EnterpriseKey":null,"Height":"292px","IsStreetView":false,"IsStatic":false,"Key":"ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A","Latitude":48.8878569,"Longitude":14.8750591,"MapEvents":{},"MarkerEvents":{},"MarkerManagerOptions":{"borderPadding":null,"maxZoom":null,"trackMarkers":null},"PolygonEvents":{},"PolylineEvents":{},"ShowMapTypeControl":true,"ShowScaleControl":false,"ShowTraffic":false,"StreetViewMode":0,"StreetViewPanoID":null,"Width":"241px","Zoom":15,"ZoomPanType":0});
+GoogleMap1.addMarker({"Address":null,"AutoPan":true,"Bouncy":false,"Clickable":true,"Draggable":false,"DragCrossMove":false,"IconAnchor":{"X":8,"Y":16},"IconSize":{"Height":30,"Width":30},"IconUrl":"/images/nalok_n.png","InfoWindowAnchor":{"X":0,"Y":0},"Latitude":48.8878569,"Longitude":14.8750591,"MaxZoom":null,"MinZoom":null,"OpenInfoBehaviour":0,"ShadowSize":{"Height":16,"Width":16},"ShadowUrl":null,"Text":"<table cellpadding=3 cellspacing=3><tr><td colspan=2 style=\"font-size: 16px\"><img style=\"margin-top: -3px\" width='34px' src='/images/nalok_n.png' /> <strong>Andrej Helfert - H&S<strong></td></tr><tr><td><img width='45px' src='/img/image.ashx?id=b9b8b37c-d4f6-4a37-9f82-d44788b5f6c7'/></td><td>Holi\u010Dky 12<br/>Suchdol nad Lu\u017Enic\u00ED</td><tr></table>","Title":null});
+GoogleMap1.load();
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>

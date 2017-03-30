@@ -1,0 +1,371 @@
+
+
+<!DOCTYPE html PUBLIC  "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="ctl00_Head1"><link rel="icon" type="image/gif" href="http://www.nalok.cz/images/animated_favicon1.gif" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	Aquaprofis - prodej a rozvoz pramenité balené vody , Poděbrady | Nalok.cz
+</title>
+        
+        <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+        </script>
+        <script type='text/javascript'>
+            GS_googleAddAdSenseService("ca-pub-5370690446478716");
+            GS_googleEnableAllServices();
+        </script>
+        <script type='text/javascript'>
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_about_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_home_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_pridejte_se_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_produkty_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_square_right_top_180x150");
+        </script>
+        <script type='text/javascript'>
+            GA_googleFetchAds();
+        </script>
+        
+        
+         <script type="text/javascript">
+             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+            <script type="text/javascript">
+                try {
+                    var pageTracker = _gat._getTracker("UA-12574605-2");
+                    pageTracker._trackPageview();
+                } catch (err) { }</script>
+        
+        
+
+		<!--[if lt IE 8]>
+			<link rel="stylesheet" type="text/css" href="../css/ie.css" />
+			<script type="text/javascript" src="js/ie-hover-pack.js"></script>
+		<![endif]-->  
+
+ 
+	<link href="../App_Themes/new/all-09132011.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/ie.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery.lightbox-0.5.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.2.custom.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.5.custom.css" type="text/css" rel="stylesheet" /><meta name="description" content="Prodáváme a rozvážíme pramenitou balenou vodu z hlubiného vrtu na okraji Železných hor je stáčena bez jakýchkoli chemických úprav do barelů 18,9l za nejpřísnějších hygienických podmínek a dle platných hygienických norem.více na : www.rozvoz-balene-vody.cz" /><meta name="keywords" content="Bio potraviny, zemědělci, farmáři, bedýnkování, lokální výrobci, nakupovat, nákup, zelenina, ovoce" /></head>
+	<body>
+    <form name="aspnetForm" method="post" action="aquaprofis-prodej-a-rozvoz-pramenite-balene-vody-" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="http://maps.google.com/maps?file=api&amp;v=2.x&amp;key=ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=2g5RFPfFOSvvxRbx7B-fXnx6WoSbSOCw4nm-JnLlexZXWMYfOpd4plvOOSq9w-TYlbrm0bpzk0MmFipK966uP5_Nc5Cn2_7Bor2UBZbZGqRaba9-oeYQhly9IgxRsw1Rlqx2Cry_gtl3FN8BSEByDJhD7R5mzN8XTiSAUQ7bI5q1t3lE0&amp;t=5b29a3a1" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = '{"name":"cs-CZ","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":" ","CurrencySymbol":"Kč","NaNSymbol":"Není číslo","CurrencyNegativePattern":8,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-nekonečno","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":" ","CurrencyPositivePattern":3,"PositiveInfinitySymbol":"+nekonečno","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":" ","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"dop.","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":".","FirstDayOfWeek":1,"CalendarWeekRule":0,"FullDateTimePattern":"d. MMMM yyyy H:mm:ss","LongDatePattern":"d. MMMM yyyy","LongTimePattern":"H:mm:ss","MonthDayPattern":"dd MMMM","PMDesignator":"odp.","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"d.M.yyyy","ShortTimePattern":"H:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["ne","po","út","st","čt","pá","so"],"ShortestDayNames":["ne","po","út","st","čt","pá","so"],"DayNames":["neděle","pondělí","úterý","středa","čtvrtek","pátek","sobota"],"AbbreviatedMonthNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthNames":["leden","únor","březen","duben","květen","červen","červenec","srpen","září","říjen","listopad","prosinec",""],"IsReadOnly":true,"NativeCalendarName":"gregoriánský kalendář","AbbreviatedMonthGenitiveNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthGenitiveNames":["ledna","února","března","dubna","května","června","července","srpna","září","října","listopadu","prosince",""]}}';//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=wboRJh5bxWeoWRWpHx54Qm8_udjGHaj0FwMCcd_zmJWOG-0jiSmqNPc3zc4HYRCeijfwRWc5_wNxf08I0Lvh1Nd0lQyDXpybjRf8SvRu2w2ZFi6aD5kHCWfje5uxCuMzrJXUbiuWD44JaCgEvBTl17qWxSZaM9HavbyENjwLK5JiVdti0&amp;t=2e2045e2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="../js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="../js/jquery-ui-1.8.5.custom.min.js" type="text/javascript"></script>
+<script src="../js/jquery.livequery.js" type="text/javascript"></script>
+<script src="../js/custom.js" type="text/javascript"></script>
+<script src="../js/jquery.lightbox-0.5.js" type="text/javascript"></script>
+<script src="../js/jquery.watermark.min.js" type="text/javascript"></script>
+<script src="../js/clear-form.js" type="text/javascript"></script>
+<script src="../js/jquery.validate.min.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5E8DBDB1" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="FhQC4qL5OdnlNKLV0vdsHQsTbdT2nMzGElSu6oF+zRd8wDT49FqmeWVC0nz8qyQwzBR40whQIoFMwKnQm2iUvKhSxKty3CSW4+owIvTp6ebTO5ZETfMcdQE04E6x8qgDhcyxV2Wdb3KPS5j9ivkJh7f3r+XIVcSmutUYef0tl7T3qEYv" />
+    
+    <div>        
+		<div id="wrapper" class="inner-page">
+			<div class="w1">
+				<div id="header">
+					<div class="heading">
+						<strong class="logo"><a id="ctl00_HyperLink7" href="../">Nalok</a></strong>
+						<div class="panel" style="width: 720px;">
+							<div class="forms-box">
+                                
+        <div class="form-login">
+        <fieldset>
+            <input type="submit" name="ctl00$LoginTop1$Button1" value="Přihlásit" id="ctl00_LoginTop1_Button1" class="btn-submit" />
+	        <span class="field2"><input name="ctl00$LoginTop1$txtPassword" type="password" id="ctl00_LoginTop1_txtPassword" tabindex="2" /></span>
+	        <span class="field"><input name="ctl00$LoginTop1$txtEmail" type="text" value="Email" id="ctl00_LoginTop1_txtEmail" tabindex="1" class="clearMeFocus" /></span>
+        </fieldset>
+        </div>
+    
+                                							    
+                                  <div class="form-search">
+									<fieldset>
+                                        <input type="submit" name="ctl00$SearchHP1$Button1" value="Hledej" id="ctl00_SearchHP1_Button1" class="btn-submit" />
+                                        <span class="field"><input name="ctl00$SearchHP1$txtSearch" type="text" value="Vyhledávání na Naloku" id="ctl00_SearchHP1_txtSearch" class="clearMeFocus" /></span>                                        
+									</fieldset>
+                                  </div> 
+							</div>
+                            <!-- ads -->
+                            <div style=" width: 468px; height: 60px; float: left;">
+                                
+        
+                                
+                            </div>
+							<div class="item"  style="width: 242px">
+
+								<ul class="social-links">
+									<li class="facebook"><a href="http://www.facebook.com/nakupujtelokalne" target="_blank"><span>&nbsp;</span> <strong>Facebook</strong></a></li>
+									<li class="twitter"><a href="http://twitter.com/nalokcz"><span>&nbsp;</span> <strong>Twitter</strong></a></li>                                    
+								</ul>
+                                <br />
+
+							</div>
+						</div>
+					</div>
+				    
+<ul id="nav">
+	<li><a id="ctl00_Menu1_hplHome" href="../"><span class="home">home</span></a></li>
+	<li><a id="ctl00_Menu1_hplJoin" href="../pridejte-se">Přidejte se</a></li>
+	<li><a id="ctl00_Menu1_HyperLink3" href="../farmy">Farmy</a></li>
+	<li><a id="ctl00_Menu1_HyperLink4" href="../farmarske-trhy">Trhy a akce</a></li>
+	<li><a id="ctl00_Menu1_HyperLink5" href="../bedynky">Bedýnky</a></li>
+	<li><a id="ctl00_Menu1_HyperLink6" href="../produkty">Produkty</a></li>
+	<li><a id="ctl00_Menu1_HyperLink7" href="../clanky">Blog</a></li>
+	<li><a id="ctl00_Menu1_HyperLink8" href="../mesta">&nbsp;&nbsp;Města&nbsp;</a></li>
+</ul>
+				</div>
+				<div id="main">
+					<div id="content">
+						<div class="content-t">&nbsp;</div>
+						<div class="content-c">
+							<div class="content-center">
+								
+
+<ul class="breadcrumbs">
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_HyperLink1" href="../">Domů</a></li>
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_hplCategory" href="../farmy">Farmy</a></li>
+    
+	<li><span id="ctl00_cntPlaceHolderMain_BreadCrumbs1_lblItem">Aquaprofis - prodej a rozvoz pramenité balené vody </span></li>
+</ul>
+
+    
+    <h1>
+        <span id="ctl00_cntPlaceHolderMain_lblBusinessName">Aquaprofis - prodej a rozvoz pramenité balené vody , Poděbrady</span></h1>
+								<div id="twocolumns">
+									<div class="content-column">
+                                                                              
+									                                            
+                                        
+<script type="text/javascript">
+    $(function() {
+    $('#gallery .jquery-lightbox').lightBox();
+
+});
+
+$(document).ready(function() {
+    $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').hide();
+    $('#addPicture').click(function() {
+        $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').toggle();
+    });
+});
+</script>
+<style type="text/css">
+	/* jQuery lightBox plugin - Gallery style */
+	#gallery {
+	}
+	#gallery ul { list-style: none; }
+	#gallery ul li { display: inline; }
+	#gallery ul img {
+		border: 5px solid #fff;
+		border-width: 5px 5px 20px;
+	}
+	#gallery ul a:hover img {
+		border: 5px solid #8db526;
+		border-width: 5px 5px 20px;
+		color: #fff;
+	}
+	#gallery ul a:hover { color: #fff; }
+
+	.style2imgmngr
+    {
+        font-size: x-small;
+        font-weight: bold;
+    }
+	</style>
+
+
+<div id="gallery">
+<div class="box-picture-gallery">
+<h2><span id="ctl00_cntPlaceHolderMain_ImageManagerND1_lblTitle">Takto to u nás vypadá</span></h2>
+<p></p>
+<ul class="picture-gallery-list">
+<table id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_HyperLink1" class="jquery-lightbox" title="Kvalitní pramenitá voda" href="../data/obrazky/9c/kvalitni-pramenita-voda_9c7a142e-0714-4dfb-b946-4977fa67a34d.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_Image1" src="../data/obrazky/ac/obr-kvalitni-pramenita-voda_ac328d09-afc3-4f0a-b128-28a5ab95d11a.jpg" alt="Kvalitní pramenitá voda" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl00$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_hdnImageId" value="9c7a142e-0714-4dfb-b946-4977fa67a34d" />
+       
+
+    
+        </li>
+    </td><td></td><td></td><td></td><td></td>
+	</tr>
+</table>
+</ul>
+</div>
+</div>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnObjectId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnObjectId" value="fac9a915-50e9-451a-b808-f1af77483f22" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnIsAdmin" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnIsAdmin" value="false" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        <h2>O nás</h2><p>Aquaprofis je prodejce a rozvozce kvalitní pramenité vody z hlubiného vrtu je stáčena bez jakýchkoli chemických úprav do barelů 18,9l za nejpřísnějších hygienických podmínek a dle platných hygienických norem.Pramenitá voda má vyšší obsah vápníku důležitého pro Váš organismus.Zajistíme pro Vás dodávku pramenité vody až k Vám domů,odpadá Vám starost s nošení a balené vody skladováním,vracením obalů atd.Více informací na www.rozvoz-balene-vody.cz</p>
+                                        <p>&nbsp;</p>
+                                        
+<div class="box-comments">
+	<h2 class="title-comments">Komentáře</h2>
+    <a id="ctl00_cntPlaceHolderMain_BusinessComments1_hplLogIn" class="comment-link" href="../login.aspx?ReturnUrl=/farmy/aquaprofis-prodej-a-rozvoz-pramenite-balene-vody-">Přihlašte se a přidejte komentář</a>
+
+<div style="text-align: right; width: 100%"></div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').hide();
+        // shows the slickbox on clicking the noted link
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_HyperLink1').click(function () {
+            $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').toggle('slow');
+            return false;
+        });
+    });
+</script>
+
+
+<ul class="comments-list">
+
+        <span>Žádné komentáře</span>
+    
+</ul>
+
+
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectId" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectId" value="fac9a915-50e9-451a-b808-f1af77483f22" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectType" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectType" value="Business" />
+
+</div>
+			
+
+
+					
+				
+									</div>									
+								    
+								    
+<div id="sidebar">
+            
+			
+            <h2>O farmě</h2>
+            
+			<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblShortDesc">Prodáváme a rozvážíme pramenitou balenou vodu z hlubiného vrtu na okraji Železných hor je stáčena bez jakýchkoli chemických úprav do barelů 18,9l za nejpřísnějších hygienických podmínek a dle platných hygienických norem.více na : www.rozvoz-balene-vody.cz</span></p>            
+			
+			
+			<div class="image-holder">
+                <img id="ctl00_cntPlaceHolderMain_BusinessProfileND1_Image1" src="../data/obrazky/a0/aquaprofis-prodej-a-rozvoz-pramenite-balene-vody-_a0f224f3-1f38-48a5-b9ad-02178296744d.jpg" height="163" width="245" border="0" />
+			</div>
+            <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nalok.cz/farmy/aquaprofis-prodej-a-rozvoz-pramenite-balene-vody-&amp;layout=standard&amp;show_faces=true&amp;width=255&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:255px; height:80px;" allowTransparency="true"></iframe>
+			<div class="box-contact">
+				<div class="contact">
+					<p><strong class="mark">Telefon:</strong> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblPhone">777 133 711</span></p>
+					<p><strong class="mark">Email:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplSendMessage" href="../zprava/podnik/aquaprofis-prodej-a-rozvoz-pramenite-balene-vody-" style="font-weight: 700">Napište nám!</a></p>
+					<p><strong class="mark">Web:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplBizUrl" target="_blank"></a></p>
+				</div>
+				<address>
+					<strong class="mark">Adresa:</strong>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblStreet">Na Bělidlech 121, </span> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblCity">Poděbrady</span></p>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblZip">29001</span></p>
+				</address>
+			</div>
+			<div class="image-holder map">
+                    <div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1">
+
+</div><div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_Templates" style="display:none;"></div><input id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" name="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" type="hidden" />
+			</div>
+            				<div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_pnlPickUpPlaces">
+	
+                    <h2>Naše zboží nakoupíte také zde:</h2>
+                    <br />
+                    <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblPickUpPlaces"><b>Aquaprofis - prodej a rozvoz pramenité balené vody </b><br/><p>Na Bělidlech 121, Poděbrady</p></span>
+                
+</div>
+			<div class="box-about">
+			</div>
+</div>
+
+								</div>
+
+							</div>
+						</div>
+						<div class="content-b">&nbsp;</div>
+					</div>
+				</div>
+			</div>
+			<div id="footer">
+				<div class="inner">
+					<div class="holder">
+						<div class="partners">
+							
+							<ul>
+							</ul>
+						</div>
+						<div class="footer-box">
+							<strong class="logo-nalok"><a href="http://www.nalok.cz">logo</a></strong>
+							<ul class="add-nav">
+								<li><a href="http://www.nalok.cz/nalok" title="Kontakt">Kontakt</a></li>
+								
+								<li><a href="http://www.nalok.cz/tou.aspx">Všeobecné Obchodní Podmínky</a></li>
+                                <li><a href="http://www.nalok.cz/partners.aspx">Partneři projektu</a></li>
+                                <li><a href="http://www.nalok.cz/napoveda" title="Jak Nalok.cz funguje a jak jej maximálně využívat">Nápověda</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var GoogleMap1 = new Artem.Web.GoogleMap({"Address":null,"BaseCountryCode":null,"ClientID":"ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1","ClientMapID":"GoogleMap1","DefaultAddress":null,"DefaultMapView":0,"Directions":[],"EnableContinuousZoom":false,"EnableDoubleClickZoom":false,"EnableDragging":true,"EnableGoogleBar":false,"EnableInfoWindow":true,"EnableMarkerManager":false,"EnableReverseGeocoding":false,"EnableScrollWheelZoom":false,"EnterpriseKey":null,"Height":"292px","IsStreetView":false,"IsStatic":false,"Key":"ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A","Latitude":50.1402154,"Longitude":15.1278213,"MapEvents":{},"MarkerEvents":{},"MarkerManagerOptions":{"borderPadding":null,"maxZoom":null,"trackMarkers":null},"PolygonEvents":{},"PolylineEvents":{},"ShowMapTypeControl":true,"ShowScaleControl":false,"ShowTraffic":false,"StreetViewMode":0,"StreetViewPanoID":null,"Width":"241px","Zoom":15,"ZoomPanType":0});
+GoogleMap1.addMarker({"Address":null,"AutoPan":true,"Bouncy":false,"Clickable":true,"Draggable":false,"DragCrossMove":false,"IconAnchor":{"X":8,"Y":16},"IconSize":{"Height":30,"Width":30},"IconUrl":"/images/nalok_n.png","InfoWindowAnchor":{"X":0,"Y":0},"Latitude":50.1402154,"Longitude":15.1278213,"MaxZoom":null,"MinZoom":null,"OpenInfoBehaviour":0,"ShadowSize":{"Height":16,"Width":16},"ShadowUrl":null,"Text":"<table cellpadding=3 cellspacing=3><tr><td colspan=2 style=\"font-size: 16px\"><img style=\"margin-top: -3px\" width='34px' src='/images/nalok_n.png' /> <strong>Aquaprofis - prodej a rozvoz pramenit\u00E9 balen\u00E9 vody <strong></td></tr><tr><td><img width='45px' src='/img/image.ashx?id=fac9a915-50e9-451a-b808-f1af77483f22'/></td><td>Na B\u011Blidlech 121<br/>Pod\u011Bbrady</td><tr></table>","Title":null});
+GoogleMap1.load();
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>

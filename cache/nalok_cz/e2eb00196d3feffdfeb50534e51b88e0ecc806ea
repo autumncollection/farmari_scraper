@@ -1,0 +1,430 @@
+
+
+<!DOCTYPE html PUBLIC  "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="ctl00_Head1"><link rel="icon" type="image/gif" href="http://www.nalok.cz/images/animated_favicon1.gif" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	 Václav Marousek - KVALITNÍ ČESKÝ MED, Jílové u Držkova | Nalok.cz
+</title>
+        
+        <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+        </script>
+        <script type='text/javascript'>
+            GS_googleAddAdSenseService("ca-pub-5370690446478716");
+            GS_googleEnableAllServices();
+        </script>
+        <script type='text/javascript'>
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_about_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_home_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_pridejte_se_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_produkty_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_square_right_top_180x150");
+        </script>
+        <script type='text/javascript'>
+            GA_googleFetchAds();
+        </script>
+        
+        
+         <script type="text/javascript">
+             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+            <script type="text/javascript">
+                try {
+                    var pageTracker = _gat._getTracker("UA-12574605-2");
+                    pageTracker._trackPageview();
+                } catch (err) { }</script>
+        
+        
+
+		<!--[if lt IE 8]>
+			<link rel="stylesheet" type="text/css" href="../css/ie.css" />
+			<script type="text/javascript" src="js/ie-hover-pack.js"></script>
+		<![endif]-->  
+
+ 
+	<link href="../App_Themes/new/all-09132011.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/ie.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery.lightbox-0.5.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.2.custom.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.5.custom.css" type="text/css" rel="stylesheet" /><meta name="description" content=" Nabízíme kvalitní český med z podhůří od vlastních včel" /><meta name="keywords" content="Bio potraviny, zemědělci, farmáři, bedýnkování, lokální výrobci, nakupovat, nákup, zelenina, ovoce" /></head>
+	<body>
+    <form name="aspnetForm" method="post" action="vaclav-marousek-kvalitni-cesky-med" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="http://maps.google.com/maps?file=api&amp;v=2.x&amp;key=ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=2g5RFPfFOSvvxRbx7B-fXnx6WoSbSOCw4nm-JnLlexZXWMYfOpd4plvOOSq9w-TYlbrm0bpzk0MmFipK966uP5_Nc5Cn2_7Bor2UBZbZGqRaba9-oeYQhly9IgxRsw1Rlqx2Cry_gtl3FN8BSEByDJhD7R5mzN8XTiSAUQ7bI5q1t3lE0&amp;t=5b29a3a1" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = '{"name":"cs-CZ","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":" ","CurrencySymbol":"Kč","NaNSymbol":"Není číslo","CurrencyNegativePattern":8,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-nekonečno","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":" ","CurrencyPositivePattern":3,"PositiveInfinitySymbol":"+nekonečno","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":" ","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"dop.","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":".","FirstDayOfWeek":1,"CalendarWeekRule":0,"FullDateTimePattern":"d. MMMM yyyy H:mm:ss","LongDatePattern":"d. MMMM yyyy","LongTimePattern":"H:mm:ss","MonthDayPattern":"dd MMMM","PMDesignator":"odp.","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"d.M.yyyy","ShortTimePattern":"H:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["ne","po","út","st","čt","pá","so"],"ShortestDayNames":["ne","po","út","st","čt","pá","so"],"DayNames":["neděle","pondělí","úterý","středa","čtvrtek","pátek","sobota"],"AbbreviatedMonthNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthNames":["leden","únor","březen","duben","květen","červen","červenec","srpen","září","říjen","listopad","prosinec",""],"IsReadOnly":true,"NativeCalendarName":"gregoriánský kalendář","AbbreviatedMonthGenitiveNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthGenitiveNames":["ledna","února","března","dubna","května","června","července","srpna","září","října","listopadu","prosince",""]}}';//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=wboRJh5bxWeoWRWpHx54Qm8_udjGHaj0FwMCcd_zmJWOG-0jiSmqNPc3zc4HYRCeijfwRWc5_wNxf08I0Lvh1Nd0lQyDXpybjRf8SvRu2w2ZFi6aD5kHCWfje5uxCuMzrJXUbiuWD44JaCgEvBTl17qWxSZaM9HavbyENjwLK5JiVdti0&amp;t=2e2045e2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="../js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="../js/jquery-ui-1.8.5.custom.min.js" type="text/javascript"></script>
+<script src="../js/jquery.livequery.js" type="text/javascript"></script>
+<script src="../js/custom.js" type="text/javascript"></script>
+<script src="../js/jquery.lightbox-0.5.js" type="text/javascript"></script>
+<script src="../js/jquery.watermark.min.js" type="text/javascript"></script>
+<script src="../js/clear-form.js" type="text/javascript"></script>
+<script src="../js/jquery.validate.min.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5E8DBDB1" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/VZU7dCoCxuIzwEs8h6yBbDJT6Og95/heP8XJFgGqFasB3S1YXYhCUIHONZbL180iwRYYP9IMVuW6C0FeMSKzNcMePHwSlB6KehkLltJM5OBnYQqmoRF6dlKYGp/tLjyw4qg0zdv/lWbcTKd3M6u3mkQsAcM+y52kyxw4/NS4j305X8xa8nJo/qzaO2YaFDL+CbGl80EYTW+kT4oOaZaaWxsGbyRCw+8xlfaELAgHVmICT+N" />
+    
+    <div>        
+		<div id="wrapper" class="inner-page">
+			<div class="w1">
+				<div id="header">
+					<div class="heading">
+						<strong class="logo"><a id="ctl00_HyperLink7" href="../">Nalok</a></strong>
+						<div class="panel" style="width: 720px;">
+							<div class="forms-box">
+                                
+        <div class="form-login">
+        <fieldset>
+            <input type="submit" name="ctl00$LoginTop1$Button1" value="Přihlásit" id="ctl00_LoginTop1_Button1" class="btn-submit" />
+	        <span class="field2"><input name="ctl00$LoginTop1$txtPassword" type="password" id="ctl00_LoginTop1_txtPassword" tabindex="2" /></span>
+	        <span class="field"><input name="ctl00$LoginTop1$txtEmail" type="text" value="Email" id="ctl00_LoginTop1_txtEmail" tabindex="1" class="clearMeFocus" /></span>
+        </fieldset>
+        </div>
+    
+                                							    
+                                  <div class="form-search">
+									<fieldset>
+                                        <input type="submit" name="ctl00$SearchHP1$Button1" value="Hledej" id="ctl00_SearchHP1_Button1" class="btn-submit" />
+                                        <span class="field"><input name="ctl00$SearchHP1$txtSearch" type="text" value="Vyhledávání na Naloku" id="ctl00_SearchHP1_txtSearch" class="clearMeFocus" /></span>                                        
+									</fieldset>
+                                  </div> 
+							</div>
+                            <!-- ads -->
+                            <div style=" width: 468px; height: 60px; float: left;">
+                                
+        
+                                
+                            </div>
+							<div class="item"  style="width: 242px">
+
+								<ul class="social-links">
+									<li class="facebook"><a href="http://www.facebook.com/nakupujtelokalne" target="_blank"><span>&nbsp;</span> <strong>Facebook</strong></a></li>
+									<li class="twitter"><a href="http://twitter.com/nalokcz"><span>&nbsp;</span> <strong>Twitter</strong></a></li>                                    
+								</ul>
+                                <br />
+
+							</div>
+						</div>
+					</div>
+				    
+<ul id="nav">
+	<li><a id="ctl00_Menu1_hplHome" href="../"><span class="home">home</span></a></li>
+	<li><a id="ctl00_Menu1_hplJoin" href="../pridejte-se">Přidejte se</a></li>
+	<li><a id="ctl00_Menu1_HyperLink3" href="../farmy">Farmy</a></li>
+	<li><a id="ctl00_Menu1_HyperLink4" href="../farmarske-trhy">Trhy a akce</a></li>
+	<li><a id="ctl00_Menu1_HyperLink5" href="../bedynky">Bedýnky</a></li>
+	<li><a id="ctl00_Menu1_HyperLink6" href="../produkty">Produkty</a></li>
+	<li><a id="ctl00_Menu1_HyperLink7" href="../clanky">Blog</a></li>
+	<li><a id="ctl00_Menu1_HyperLink8" href="../mesta">&nbsp;&nbsp;Města&nbsp;</a></li>
+</ul>
+				</div>
+				<div id="main">
+					<div id="content">
+						<div class="content-t">&nbsp;</div>
+						<div class="content-c">
+							<div class="content-center">
+								
+
+<ul class="breadcrumbs">
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_HyperLink1" href="../">Domů</a></li>
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_hplCategory" href="../farmy">Farmy</a></li>
+    
+	<li><span id="ctl00_cntPlaceHolderMain_BreadCrumbs1_lblItem"> Václav Marousek - KVALITNÍ ČESKÝ MED</span></li>
+</ul>
+
+    
+    <h1>
+        <span id="ctl00_cntPlaceHolderMain_lblBusinessName"> Václav Marousek - KVALITNÍ ČESKÝ MED, Jílové u Držkova</span></h1>
+								<div id="twocolumns">
+									<div class="content-column">
+                                                                              
+									                                            
+                                        
+<script type="text/javascript">
+    $(function() {
+    $('#gallery .jquery-lightbox').lightBox();
+
+});
+
+$(document).ready(function() {
+    $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').hide();
+    $('#addPicture').click(function() {
+        $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').toggle();
+    });
+});
+</script>
+<style type="text/css">
+	/* jQuery lightBox plugin - Gallery style */
+	#gallery {
+	}
+	#gallery ul { list-style: none; }
+	#gallery ul li { display: inline; }
+	#gallery ul img {
+		border: 5px solid #fff;
+		border-width: 5px 5px 20px;
+	}
+	#gallery ul a:hover img {
+		border: 5px solid #8db526;
+		border-width: 5px 5px 20px;
+		color: #fff;
+	}
+	#gallery ul a:hover { color: #fff; }
+
+	.style2imgmngr
+    {
+        font-size: x-small;
+        font-weight: bold;
+    }
+	</style>
+
+
+<div id="gallery">
+<div class="box-picture-gallery">
+<h2><span id="ctl00_cntPlaceHolderMain_ImageManagerND1_lblTitle">Takto to u nás vypadá</span></h2>
+<p></p>
+<ul class="picture-gallery-list">
+<table id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_HyperLink1" class="jquery-lightbox" title="Včelín a zahrada" href="../data/obrazky/21/vcelin-a-zahrada_212246d1-3c62-49c3-90bc-2d215e358520.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_Image1" src="../data/obrazky/12/obr-vcelin-a-zahrada_12cf5305-fdfa-406f-ba4e-125d8896fadc.jpg" alt="Včelín a zahrada" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl00$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_hdnImageId" value="212246d1-3c62-49c3-90bc-2d215e358520" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl01_AImage1_HyperLink1" class="jquery-lightbox" title="Včelín a zahrada" href="../data/obrazky/a1/vcelin-a-zahrada_a105aded-a3b6-4312-9964-6b44b6a70587.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl01_AImage1_Image1" src="../data/obrazky/fe/obr-vcelin-a-zahrada_fe4c92d0-5dce-4e33-b016-0d849f0c07eb.jpg" alt="Včelín a zahrada" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl01$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl01_AImage1_hdnImageId" value="a105aded-a3b6-4312-9964-6b44b6a70587" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl02_AImage1_HyperLink1" class="jquery-lightbox" title="Václav Marousek ml. u medomedu" href="../data/obrazky/48/vaclav-marousek-ml-u-medomedu_4804b3b5-db04-4ad0-ac26-9d23c85d2fb0.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl02_AImage1_Image1" src="../data/obrazky/13/obr-vaclav-marousek-ml-u-medomedu_13cd475d-2dbd-4aff-bb2d-13e64773c578.jpg" alt="Václav Marousek ml. u medomedu" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl02$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl02_AImage1_hdnImageId" value="4804b3b5-db04-4ad0-ac26-9d23c85d2fb0" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl03_AImage1_HyperLink1" class="jquery-lightbox" title="Včelín" href="../data/obrazky/cd/vcelin_cd9228e8-0022-4a4f-8297-bd2c779db7e4.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl03_AImage1_Image1" src="../data/obrazky/83/obr-vcelin_83bf6865-7ad7-4228-89b6-8c3f67f44a08.jpg" alt="Včelín" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl03$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl03_AImage1_hdnImageId" value="cd9228e8-0022-4a4f-8297-bd2c779db7e4" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl04_AImage1_HyperLink1" class="jquery-lightbox" title=" Václav Marousek - KVALITNÍ ČESKÝ MED" href="../data/obrazky/65/vaclav-marousek-kvalitni-cesky-med_659980af-58bc-4233-b255-c342aaa5c6ee.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl04_AImage1_Image1" src="../data/obrazky/c9/obr-vaclav-marousek-kvalitni-cesky-med_c909bc10-3368-4349-835f-7cf796637e70.jpg" alt=" Václav Marousek - KVALITNÍ ČESKÝ MED" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl04$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl04_AImage1_hdnImageId" value="659980af-58bc-4233-b255-c342aaa5c6ee" />
+       
+
+    
+        </li>
+    </td>
+	</tr><tr>
+		<td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl05_AImage1_HyperLink1" class="jquery-lightbox" title="Včelín a zahrada" href="../data/obrazky/71/vcelin-a-zahrada_71d47faf-29fb-4e8a-8bc4-c3f90cbcc35e.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl05_AImage1_Image1" src="../data/obrazky/97/obr-vcelin-a-zahrada_9714cd68-d34a-4b29-92e0-3ef433385b08.jpg" alt="Včelín a zahrada" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl05$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl05_AImage1_hdnImageId" value="71d47faf-29fb-4e8a-8bc4-c3f90cbcc35e" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl06_AImage1_HyperLink1" class="jquery-lightbox" title="Včelín" href="../data/obrazky/f7/vcelin_f771f04e-0a4d-4a43-800a-c70c8ae07123.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl06_AImage1_Image1" src="../data/obrazky/3a/obr-vcelin_3a366155-7407-4500-ae8d-b38b1f3ba647.jpg" alt="Včelín" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl06$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl06_AImage1_hdnImageId" value="f771f04e-0a4d-4a43-800a-c70c8ae07123" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl07_AImage1_HyperLink1" class="jquery-lightbox" title="Václav Marousek u medomedu" href="../data/obrazky/33/vaclav-marousek-u-medomedu_33b5c27d-29bf-49e5-8dbc-d9d80b53c993.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl07_AImage1_Image1" src="../data/obrazky/03/obr-vaclav-marousek-u-medomedu_03f71e7c-3cbb-445e-a4dc-9257d5490f16.jpg" alt="Václav Marousek u medomedu" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl07$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl07_AImage1_hdnImageId" value="33b5c27d-29bf-49e5-8dbc-d9d80b53c993" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl08_AImage1_HyperLink1" class="jquery-lightbox" title="Václav Marousek u včelína" href="../data/obrazky/cb/vaclav-marousek-u-vcelina_cb9304f3-a54d-42c0-b5a0-f2a784e80116.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl08_AImage1_Image1" src="../data/obrazky/fb/obr-vaclav-marousek-u-vcelina_fb44b070-aa81-430e-88f5-5c662a303ada.jpg" alt="Václav Marousek u včelína" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl08$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl08_AImage1_hdnImageId" value="cb9304f3-a54d-42c0-b5a0-f2a784e80116" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl09_AImage1_HyperLink1" class="jquery-lightbox" title="Včelín" href="../data/obrazky/30/vcelin_30fe6551-2246-425c-a932-fa2426ed6a55.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl09_AImage1_Image1" src="../data/obrazky/f5/obr-vcelin_f518dd46-ff7c-4cd3-9f3a-b4ed00f9e36b.jpg" alt="Včelín" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl09$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl09_AImage1_hdnImageId" value="30fe6551-2246-425c-a932-fa2426ed6a55" />
+       
+
+    
+        </li>
+    </td>
+	</tr>
+</table>
+</ul>
+</div>
+</div>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnObjectId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnObjectId" value="2b108886-724b-4812-9585-4fa28625bbd8" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnIsAdmin" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnIsAdmin" value="false" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        <h2>O nás</h2><p>ČERSTVÝ SVĚTLÝ KVĚTOVÝ MED  - 120Kč/kg<br/>     <br/>ČERSTVÝ TMAVÝ MEDOVICOVÝ MED - 130Kč/kg</p>
+                                        <p>&nbsp;</p>
+                                        
+<div class="box-comments">
+	<h2 class="title-comments">Komentáře</h2>
+    <a id="ctl00_cntPlaceHolderMain_BusinessComments1_hplLogIn" class="comment-link" href="../login.aspx?ReturnUrl=/farmy/vaclav-marousek-kvalitni-cesky-med">Přihlašte se a přidejte komentář</a>
+
+<div style="text-align: right; width: 100%"></div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').hide();
+        // shows the slickbox on clicking the noted link
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_HyperLink1').click(function () {
+            $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').toggle('slow');
+            return false;
+        });
+    });
+</script>
+
+
+<ul class="comments-list">
+
+        <span>Žádné komentáře</span>
+    
+</ul>
+
+
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectId" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectId" value="2b108886-724b-4812-9585-4fa28625bbd8" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectType" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectType" value="Business" />
+
+</div>
+			
+
+
+					
+				
+									</div>									
+								    
+								    
+<div id="sidebar">
+            
+			
+            <h2>O farmě</h2>
+            
+			<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblShortDesc"> Nabízíme kvalitní český med z podhůří od vlastních včel</span></p>            
+			
+			
+			<div class="image-holder">
+                <img id="ctl00_cntPlaceHolderMain_BusinessProfileND1_Image1" src="../data/obrazky/3d/vaclav-marousek-kvalitni-cesky-med-jilove-u-drzko_3d13a5f8-30e4-4af4-94d1-89fb742e8127.jpg" height="163" width="245" border="0" />
+			</div>
+            <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nalok.cz/farmy/vaclav-marousek-kvalitni-cesky-med&amp;layout=standard&amp;show_faces=true&amp;width=255&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:255px; height:80px;" allowTransparency="true"></iframe>
+			<div class="box-contact">
+				<div class="contact">
+					<p><strong class="mark">Telefon:</strong> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblPhone">720 570 185</span></p>
+					<p><strong class="mark">Email:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplSendMessage" href="../zprava/podnik/vaclav-marousek-kvalitni-cesky-med" style="font-weight: 700">Napište nám!</a></p>
+					<p><strong class="mark">Web:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplBizUrl" href="http://" target="_blank"></a></p>
+				</div>
+				<address>
+					<strong class="mark">Adresa:</strong>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblStreet">Jílové u Držkova 90, </span> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblCity">Jílové u Držkova</span></p>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblZip">46822</span></p>
+				</address>
+			</div>
+			<div class="image-holder map">
+                    <div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1">
+
+</div><div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_Templates" style="display:none;"></div><input id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" name="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" type="hidden" />
+			</div>
+            				
+			<div class="box-about">
+			</div>
+</div>
+
+								</div>
+
+							</div>
+						</div>
+						<div class="content-b">&nbsp;</div>
+					</div>
+				</div>
+			</div>
+			<div id="footer">
+				<div class="inner">
+					<div class="holder">
+						<div class="partners">
+							
+							<ul>
+							</ul>
+						</div>
+						<div class="footer-box">
+							<strong class="logo-nalok"><a href="http://www.nalok.cz">logo</a></strong>
+							<ul class="add-nav">
+								<li><a href="http://www.nalok.cz/nalok" title="Kontakt">Kontakt</a></li>
+								
+								<li><a href="http://www.nalok.cz/tou.aspx">Všeobecné Obchodní Podmínky</a></li>
+                                <li><a href="http://www.nalok.cz/partners.aspx">Partneři projektu</a></li>
+                                <li><a href="http://www.nalok.cz/napoveda" title="Jak Nalok.cz funguje a jak jej maximálně využívat">Nápověda</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var GoogleMap1 = new Artem.Web.GoogleMap({"Address":null,"BaseCountryCode":null,"ClientID":"ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1","ClientMapID":"GoogleMap1","DefaultAddress":null,"DefaultMapView":0,"Directions":[],"EnableContinuousZoom":false,"EnableDoubleClickZoom":false,"EnableDragging":true,"EnableGoogleBar":false,"EnableInfoWindow":true,"EnableMarkerManager":false,"EnableReverseGeocoding":false,"EnableScrollWheelZoom":false,"EnterpriseKey":null,"Height":"292px","IsStreetView":false,"IsStatic":false,"Key":"ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A","Latitude":50.6687042,"Longitude":15.2987566,"MapEvents":{},"MarkerEvents":{},"MarkerManagerOptions":{"borderPadding":null,"maxZoom":null,"trackMarkers":null},"PolygonEvents":{},"PolylineEvents":{},"ShowMapTypeControl":true,"ShowScaleControl":false,"ShowTraffic":false,"StreetViewMode":0,"StreetViewPanoID":null,"Width":"241px","Zoom":15,"ZoomPanType":0});
+GoogleMap1.addMarker({"Address":null,"AutoPan":true,"Bouncy":false,"Clickable":true,"Draggable":false,"DragCrossMove":false,"IconAnchor":{"X":8,"Y":16},"IconSize":{"Height":30,"Width":30},"IconUrl":"/images/nalok_n.png","InfoWindowAnchor":{"X":0,"Y":0},"Latitude":50.6687042,"Longitude":15.2987566,"MaxZoom":null,"MinZoom":null,"OpenInfoBehaviour":0,"ShadowSize":{"Height":16,"Width":16},"ShadowUrl":null,"Text":"<table cellpadding=3 cellspacing=3><tr><td colspan=2 style=\"font-size: 16px\"><img style=\"margin-top: -3px\" width='34px' src='/images/nalok_n.png' /> <strong> V\u00E1clav Marousek - KVALITN\u00CD \u010CESK\u00DD MED<strong></td></tr><tr><td><img width='45px' src='/img/image.ashx?id=2b108886-724b-4812-9585-4fa28625bbd8'/></td><td>J\u00EDlov\u00E9 u Dr\u017Ekova 90<br/>J\u00EDlov\u00E9 u Dr\u017Ekova</td><tr></table>","Title":null});
+GoogleMap1.load();
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>

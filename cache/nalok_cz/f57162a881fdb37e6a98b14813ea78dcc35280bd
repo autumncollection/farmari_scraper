@@ -1,0 +1,367 @@
+
+
+<!DOCTYPE html PUBLIC  "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="ctl00_Head1"><link rel="icon" type="image/gif" href="http://www.nalok.cz/images/animated_favicon1.gif" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	Alois Mejsnar, Kunčice nad Labem | Nalok.cz
+</title>
+        
+        <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+        </script>
+        <script type='text/javascript'>
+            GS_googleAddAdSenseService("ca-pub-5370690446478716");
+            GS_googleEnableAllServices();
+        </script>
+        <script type='text/javascript'>
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_about_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_home_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_pridejte_se_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_produkty_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_square_right_top_180x150");
+        </script>
+        <script type='text/javascript'>
+            GA_googleFetchAds();
+        </script>
+        
+        
+         <script type="text/javascript">
+             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+            <script type="text/javascript">
+                try {
+                    var pageTracker = _gat._getTracker("UA-12574605-2");
+                    pageTracker._trackPageview();
+                } catch (err) { }</script>
+        
+        
+
+		<!--[if lt IE 8]>
+			<link rel="stylesheet" type="text/css" href="../css/ie.css" />
+			<script type="text/javascript" src="js/ie-hover-pack.js"></script>
+		<![endif]-->  
+
+ 
+	<link href="../App_Themes/new/all-09132011.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/ie.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery.lightbox-0.5.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.2.custom.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.5.custom.css" type="text/css" rel="stylesheet" /><meta name="description" content="Nacházíme se v klidném prostředí podkrkonošských hor ve vesnici Kunčice nad Labem. Po roce 1991 jsme navázali na tradici zemědělského hospodaření naší rodiny. Stejně jako naši předci paseme na podkrkonošských pastvinách skot. Našim zákazníkům nabízíme pravé &quot;selské&quot; mléčné výrobky. " /><meta name="keywords" content="Bio potraviny, zemědělci, farmáři, bedýnkování, lokální výrobci, nakupovat, nákup, zelenina, ovoce" /></head>
+	<body>
+    <form name="aspnetForm" method="post" action="alois-mejsnar" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="http://maps.google.com/maps?file=api&amp;v=2.x&amp;key=ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=2g5RFPfFOSvvxRbx7B-fXnx6WoSbSOCw4nm-JnLlexZXWMYfOpd4plvOOSq9w-TYlbrm0bpzk0MmFipK966uP5_Nc5Cn2_7Bor2UBZbZGqRaba9-oeYQhly9IgxRsw1Rlqx2Cry_gtl3FN8BSEByDJhD7R5mzN8XTiSAUQ7bI5q1t3lE0&amp;t=5b29a3a1" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = '{"name":"cs-CZ","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":" ","CurrencySymbol":"Kč","NaNSymbol":"Není číslo","CurrencyNegativePattern":8,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-nekonečno","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":" ","CurrencyPositivePattern":3,"PositiveInfinitySymbol":"+nekonečno","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":" ","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"dop.","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":".","FirstDayOfWeek":1,"CalendarWeekRule":0,"FullDateTimePattern":"d. MMMM yyyy H:mm:ss","LongDatePattern":"d. MMMM yyyy","LongTimePattern":"H:mm:ss","MonthDayPattern":"dd MMMM","PMDesignator":"odp.","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"d.M.yyyy","ShortTimePattern":"H:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["ne","po","út","st","čt","pá","so"],"ShortestDayNames":["ne","po","út","st","čt","pá","so"],"DayNames":["neděle","pondělí","úterý","středa","čtvrtek","pátek","sobota"],"AbbreviatedMonthNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthNames":["leden","únor","březen","duben","květen","červen","červenec","srpen","září","říjen","listopad","prosinec",""],"IsReadOnly":true,"NativeCalendarName":"gregoriánský kalendář","AbbreviatedMonthGenitiveNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthGenitiveNames":["ledna","února","března","dubna","května","června","července","srpna","září","října","listopadu","prosince",""]}}';//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=wboRJh5bxWeoWRWpHx54Qm8_udjGHaj0FwMCcd_zmJWOG-0jiSmqNPc3zc4HYRCeijfwRWc5_wNxf08I0Lvh1Nd0lQyDXpybjRf8SvRu2w2ZFi6aD5kHCWfje5uxCuMzrJXUbiuWD44JaCgEvBTl17qWxSZaM9HavbyENjwLK5JiVdti0&amp;t=2e2045e2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="../js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="../js/jquery-ui-1.8.5.custom.min.js" type="text/javascript"></script>
+<script src="../js/jquery.livequery.js" type="text/javascript"></script>
+<script src="../js/custom.js" type="text/javascript"></script>
+<script src="../js/jquery.lightbox-0.5.js" type="text/javascript"></script>
+<script src="../js/jquery.watermark.min.js" type="text/javascript"></script>
+<script src="../js/clear-form.js" type="text/javascript"></script>
+<script src="../js/jquery.validate.min.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5E8DBDB1" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="E4MDsS/u8fBSk52zyGcKxIx/WZjCTLiMv0Dl5uCypWdXmkVKHlTORxrZYX76NuXrzDOzQhsNIjbBMp6ibUzawDe0BPSnaLBZFc9sofqGb8hUYOzoVV4bi/i+vzJ4awZxh7cpgdQu9oLvNXz7hANsOOkgw9Y3WWxQXACQzOslr4ytfazs" />
+    
+    <div>        
+		<div id="wrapper" class="inner-page">
+			<div class="w1">
+				<div id="header">
+					<div class="heading">
+						<strong class="logo"><a id="ctl00_HyperLink7" href="../">Nalok</a></strong>
+						<div class="panel" style="width: 720px;">
+							<div class="forms-box">
+                                
+        <div class="form-login">
+        <fieldset>
+            <input type="submit" name="ctl00$LoginTop1$Button1" value="Přihlásit" id="ctl00_LoginTop1_Button1" class="btn-submit" />
+	        <span class="field2"><input name="ctl00$LoginTop1$txtPassword" type="password" id="ctl00_LoginTop1_txtPassword" tabindex="2" /></span>
+	        <span class="field"><input name="ctl00$LoginTop1$txtEmail" type="text" value="Email" id="ctl00_LoginTop1_txtEmail" tabindex="1" class="clearMeFocus" /></span>
+        </fieldset>
+        </div>
+    
+                                							    
+                                  <div class="form-search">
+									<fieldset>
+                                        <input type="submit" name="ctl00$SearchHP1$Button1" value="Hledej" id="ctl00_SearchHP1_Button1" class="btn-submit" />
+                                        <span class="field"><input name="ctl00$SearchHP1$txtSearch" type="text" value="Vyhledávání na Naloku" id="ctl00_SearchHP1_txtSearch" class="clearMeFocus" /></span>                                        
+									</fieldset>
+                                  </div> 
+							</div>
+                            <!-- ads -->
+                            <div style=" width: 468px; height: 60px; float: left;">
+                                
+        
+                                
+                            </div>
+							<div class="item"  style="width: 242px">
+
+								<ul class="social-links">
+									<li class="facebook"><a href="http://www.facebook.com/nakupujtelokalne" target="_blank"><span>&nbsp;</span> <strong>Facebook</strong></a></li>
+									<li class="twitter"><a href="http://twitter.com/nalokcz"><span>&nbsp;</span> <strong>Twitter</strong></a></li>                                    
+								</ul>
+                                <br />
+
+							</div>
+						</div>
+					</div>
+				    
+<ul id="nav">
+	<li><a id="ctl00_Menu1_hplHome" href="../"><span class="home">home</span></a></li>
+	<li><a id="ctl00_Menu1_hplJoin" href="../pridejte-se">Přidejte se</a></li>
+	<li><a id="ctl00_Menu1_HyperLink3" href="../farmy">Farmy</a></li>
+	<li><a id="ctl00_Menu1_HyperLink4" href="../farmarske-trhy">Trhy a akce</a></li>
+	<li><a id="ctl00_Menu1_HyperLink5" href="../bedynky">Bedýnky</a></li>
+	<li><a id="ctl00_Menu1_HyperLink6" href="../produkty">Produkty</a></li>
+	<li><a id="ctl00_Menu1_HyperLink7" href="../clanky">Blog</a></li>
+	<li><a id="ctl00_Menu1_HyperLink8" href="../mesta">&nbsp;&nbsp;Města&nbsp;</a></li>
+</ul>
+				</div>
+				<div id="main">
+					<div id="content">
+						<div class="content-t">&nbsp;</div>
+						<div class="content-c">
+							<div class="content-center">
+								
+
+<ul class="breadcrumbs">
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_HyperLink1" href="../">Domů</a></li>
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_hplCategory" href="../farmy">Farmy</a></li>
+    
+	<li><span id="ctl00_cntPlaceHolderMain_BreadCrumbs1_lblItem">Alois Mejsnar</span></li>
+</ul>
+
+    
+    <h1>
+        <span id="ctl00_cntPlaceHolderMain_lblBusinessName">Alois Mejsnar, Kunčice nad Labem</span></h1>
+								<div id="twocolumns">
+									<div class="content-column">
+                                                                              
+									                                            
+                                        
+<script type="text/javascript">
+    $(function() {
+    $('#gallery .jquery-lightbox').lightBox();
+
+});
+
+$(document).ready(function() {
+    $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').hide();
+    $('#addPicture').click(function() {
+        $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').toggle();
+    });
+});
+</script>
+<style type="text/css">
+	/* jQuery lightBox plugin - Gallery style */
+	#gallery {
+	}
+	#gallery ul { list-style: none; }
+	#gallery ul li { display: inline; }
+	#gallery ul img {
+		border: 5px solid #fff;
+		border-width: 5px 5px 20px;
+	}
+	#gallery ul a:hover img {
+		border: 5px solid #8db526;
+		border-width: 5px 5px 20px;
+		color: #fff;
+	}
+	#gallery ul a:hover { color: #fff; }
+
+	.style2imgmngr
+    {
+        font-size: x-small;
+        font-weight: bold;
+    }
+	</style>
+
+
+<div id="gallery">
+<div class="box-picture-gallery">
+<h2><span id="ctl00_cntPlaceHolderMain_ImageManagerND1_lblTitle">Takto to u nás vypadá</span></h2>
+<p></p>
+<ul class="picture-gallery-list">
+<table id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_HyperLink1" class="jquery-lightbox" title="Alois Mejsnar" href="../data/obrazky/d4/alois-mejsnar_d49bfdfe-8771-4253-b1ed-f064311d89db.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_Image1" src="../data/obrazky/2d/obr-alois-mejsnar_2d9c5eec-36d7-4bb0-abb0-90d957b7b828.jpg" alt="Alois Mejsnar" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl00$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_hdnImageId" value="d49bfdfe-8771-4253-b1ed-f064311d89db" />
+       
+
+    
+        </li>
+    </td><td></td><td></td><td></td><td></td>
+	</tr>
+</table>
+</ul>
+</div>
+</div>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnObjectId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnObjectId" value="b9f8c7ce-ad07-4148-be07-2d4d9cf616f9" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnIsAdmin" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnIsAdmin" value="false" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        <h2>O nás</h2><p>Nacházíme se v klidném prostředí podkrkonošských hor ve vesnici Kunčice nad Labem. Po roce 1991 jsme navázali na tradici zemědělského hospodaření naší rodiny. Stejně jako naši předci paseme na podkrkonošských pastvinách skot.<br/><br/>Mléko, které nám krávy dávají, neprodáváme do mlékárny, ale zpracováváme v naší faremní mlékárně. Vzhledem ke způsobu výroby, kterým mléko zpracováváme, můžeme svým zákazníkům nabízet pravé „selské“ mléčné výrobky. <br/><br/>Sortiment výrobků se skládá z pasterovaného mléka, kefíru, čerstvého smetanového sýra čtyř různých příchutí a tvarohu. Mléko podle nás patří do skla, jak tomu bylo dříve. Proto prodáváme své tekuté mléčné výrobky ve vratných skleněných lahvích. Jsme rádi, že tak zbytečně nepřispíváme k produkci obtížně zpracovatelných odpadů, jako jsou plastové láhve.<br/><br/>A aby byla naše služba zákazníkům kompletní, rozhodli jsme se provádět prodej našich mléčných výrobků rozvozem zákazníkům „až do domu“. To znamená, že si každý zákazník může nakoupit naše mléčné výrobky přímo u svého domu, kam mu je přivezeme rozvozovými vozy.<br/><br/>Svou činnost však nechápeme pouze jako výrobu potravin. Zemědělství je pro nás životním stylem lidí, kteří pracují s přírodou. Při každodenní práci se snažíme pochopit její zákonitosti tak, abychom ji svojí činností nepoškozovali. Naopak, cílem naší práce je zachovat krajinu, ve které společně žijeme, kulturní, čistou a krásnou. <br/><br/>Děkujeme všem budoucím a stávajícím zákazníkům, že nám svojí přízní umožňují tuto činnost provádět.</p>
+                                        <p>&nbsp;</p>
+                                        
+<div class="box-comments">
+	<h2 class="title-comments">Komentáře</h2>
+    <a id="ctl00_cntPlaceHolderMain_BusinessComments1_hplLogIn" class="comment-link" href="../login.aspx?ReturnUrl=/farmy/alois-mejsnar">Přihlašte se a přidejte komentář</a>
+
+<div style="text-align: right; width: 100%"></div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').hide();
+        // shows the slickbox on clicking the noted link
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_HyperLink1').click(function () {
+            $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').toggle('slow');
+            return false;
+        });
+    });
+</script>
+
+
+<ul class="comments-list">
+
+        <span>Žádné komentáře</span>
+    
+</ul>
+
+
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectId" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectId" value="b9f8c7ce-ad07-4148-be07-2d4d9cf616f9" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectType" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectType" value="Business" />
+
+</div>
+			
+
+
+					
+				
+									</div>									
+								    
+								    
+<div id="sidebar">
+            
+			
+            <h2>O farmě</h2>
+            
+			<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblShortDesc">Nacházíme se v klidném prostředí podkrkonošských hor ve vesnici Kunčice nad Labem. Po roce 1991 jsme navázali na tradici zemědělského hospodaření naší rodiny. Stejně jako naši předci paseme na podkrkonošských pastvinách skot. Našim zákazníkům nabízíme pravé "selské" mléčné výrobky. </span></p>            
+			
+			
+<h2>Partner farmy</h2>
+<a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_PartnerLogo1_HyperLink1" title="KRKONOŠE originální produkt - Regionální značky" href="http://www.regionalni-znacky.cz/krkonose/" target="_blank"><img id="ctl00_cntPlaceHolderMain_BusinessProfileND1_PartnerLogo1_Image1" src="http://www.nalok.cz/images/krkonose.jpg" alt="KRKONOŠE originální produkt - Regionální značky" width="245" border="0" /></a>
+			<div class="image-holder">
+                <img id="ctl00_cntPlaceHolderMain_BusinessProfileND1_Image1" src="../data/obrazky/6e/alois-mejsnar-kuncice-nad-labem_6eecefff-690b-4e49-9eb6-97b437e0638e.jpg" height="163" width="245" border="0" />
+			</div>
+            <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nalok.cz/farmy/alois-mejsnar&amp;layout=standard&amp;show_faces=true&amp;width=255&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:255px; height:80px;" allowTransparency="true"></iframe>
+			<div class="box-contact">
+				<div class="contact">
+					<p><strong class="mark">Telefon:</strong> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblPhone">499 431 192</span></p>
+					<p><strong class="mark">Email:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplSendMessage" href="../zprava/podnik/alois-mejsnar" style="font-weight: 700">Napište nám!</a></p>
+					<p><strong class="mark">Web:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplBizUrl" target="_blank"></a></p>
+				</div>
+				<address>
+					<strong class="mark">Adresa:</strong>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblStreet">Kunčice nad Labem 54, </span> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblCity">Kunčice nad Labem</span></p>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblZip">54371</span></p>
+				</address>
+			</div>
+			<div class="image-holder map">
+                    <div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1">
+
+</div><div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_Templates" style="display:none;"></div><input id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" name="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" type="hidden" />
+			</div>
+            				
+			<div class="box-about">
+			</div>
+</div>
+
+								</div>
+
+							</div>
+						</div>
+						<div class="content-b">&nbsp;</div>
+					</div>
+				</div>
+			</div>
+			<div id="footer">
+				<div class="inner">
+					<div class="holder">
+						<div class="partners">
+							
+							<ul>
+							</ul>
+						</div>
+						<div class="footer-box">
+							<strong class="logo-nalok"><a href="http://www.nalok.cz">logo</a></strong>
+							<ul class="add-nav">
+								<li><a href="http://www.nalok.cz/nalok" title="Kontakt">Kontakt</a></li>
+								
+								<li><a href="http://www.nalok.cz/tou.aspx">Všeobecné Obchodní Podmínky</a></li>
+                                <li><a href="http://www.nalok.cz/partners.aspx">Partneři projektu</a></li>
+                                <li><a href="http://www.nalok.cz/napoveda" title="Jak Nalok.cz funguje a jak jej maximálně využívat">Nápověda</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var GoogleMap1 = new Artem.Web.GoogleMap({"Address":null,"BaseCountryCode":null,"ClientID":"ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1","ClientMapID":"GoogleMap1","DefaultAddress":null,"DefaultMapView":0,"Directions":[],"EnableContinuousZoom":false,"EnableDoubleClickZoom":false,"EnableDragging":true,"EnableGoogleBar":false,"EnableInfoWindow":true,"EnableMarkerManager":false,"EnableReverseGeocoding":false,"EnableScrollWheelZoom":false,"EnterpriseKey":null,"Height":"292px","IsStreetView":false,"IsStatic":false,"Key":"ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A","Latitude":50.5730894,"Longitude":15.6388239,"MapEvents":{},"MarkerEvents":{},"MarkerManagerOptions":{"borderPadding":null,"maxZoom":null,"trackMarkers":null},"PolygonEvents":{},"PolylineEvents":{},"ShowMapTypeControl":true,"ShowScaleControl":false,"ShowTraffic":false,"StreetViewMode":0,"StreetViewPanoID":null,"Width":"241px","Zoom":15,"ZoomPanType":0});
+GoogleMap1.addMarker({"Address":null,"AutoPan":true,"Bouncy":false,"Clickable":true,"Draggable":false,"DragCrossMove":false,"IconAnchor":{"X":8,"Y":16},"IconSize":{"Height":30,"Width":30},"IconUrl":"/images/nalok_n.png","InfoWindowAnchor":{"X":0,"Y":0},"Latitude":50.5730894,"Longitude":15.6388239,"MaxZoom":null,"MinZoom":null,"OpenInfoBehaviour":0,"ShadowSize":{"Height":16,"Width":16},"ShadowUrl":null,"Text":"<table cellpadding=3 cellspacing=3><tr><td colspan=2 style=\"font-size: 16px\"><img style=\"margin-top: -3px\" width='34px' src='/images/nalok_n.png' /> <strong>Alois Mejsnar<strong></td></tr><tr><td><img width='45px' src='/img/image.ashx?id=b9f8c7ce-ad07-4148-be07-2d4d9cf616f9'/></td><td>Kun\u010Dice nad Labem 54<br/>Kun\u010Dice nad Labem</td><tr></table>","Title":null});
+GoogleMap1.load();
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>

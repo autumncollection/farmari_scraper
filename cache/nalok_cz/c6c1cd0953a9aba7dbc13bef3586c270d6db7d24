@@ -1,0 +1,548 @@
+
+
+<!DOCTYPE html PUBLIC  "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="ctl00_Head1"><link rel="icon" type="image/gif" href="http://www.nalok.cz/images/animated_favicon1.gif" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	Atelier27, Třebíč | Nalok.cz
+</title>
+        
+        <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+        </script>
+        <script type='text/javascript'>
+            GS_googleAddAdSenseService("ca-pub-5370690446478716");
+            GS_googleEnableAllServices();
+        </script>
+        <script type='text/javascript'>
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_about_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_home_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_pridejte_se_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_produkty_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_square_right_top_180x150");
+        </script>
+        <script type='text/javascript'>
+            GA_googleFetchAds();
+        </script>
+        
+        
+         <script type="text/javascript">
+             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+            <script type="text/javascript">
+                try {
+                    var pageTracker = _gat._getTracker("UA-12574605-2");
+                    pageTracker._trackPageview();
+                } catch (err) { }</script>
+        
+        
+
+		<!--[if lt IE 8]>
+			<link rel="stylesheet" type="text/css" href="../css/ie.css" />
+			<script type="text/javascript" src="js/ie-hover-pack.js"></script>
+		<![endif]-->  
+
+ 
+	<link href="../App_Themes/new/all-09132011.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/ie.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery.lightbox-0.5.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.2.custom.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.5.custom.css" type="text/css" rel="stylesheet" /><meta name="description" content="Nabízím originální vinuté perly z mé dílny a šperky, které jsou z nich vytvořeny. V případě vhodných podmínek zajistím i ukázku této zajímavé techniky na trzích." /><meta name="keywords" content="Bio potraviny, zemědělci, farmáři, bedýnkování, lokální výrobci, nakupovat, nákup, zelenina, ovoce" /></head>
+	<body>
+    <form name="aspnetForm" method="post" action="atelier27" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="http://maps.google.com/maps?file=api&amp;v=2.x&amp;key=ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=2g5RFPfFOSvvxRbx7B-fXnx6WoSbSOCw4nm-JnLlexZXWMYfOpd4plvOOSq9w-TYlbrm0bpzk0MmFipK966uP5_Nc5Cn2_7Bor2UBZbZGqRaba9-oeYQhly9IgxRsw1Rlqx2Cry_gtl3FN8BSEByDJhD7R5mzN8XTiSAUQ7bI5q1t3lE0&amp;t=5b29a3a1" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = '{"name":"cs-CZ","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":" ","CurrencySymbol":"Kč","NaNSymbol":"Není číslo","CurrencyNegativePattern":8,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-nekonečno","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":" ","CurrencyPositivePattern":3,"PositiveInfinitySymbol":"+nekonečno","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":" ","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"dop.","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":".","FirstDayOfWeek":1,"CalendarWeekRule":0,"FullDateTimePattern":"d. MMMM yyyy H:mm:ss","LongDatePattern":"d. MMMM yyyy","LongTimePattern":"H:mm:ss","MonthDayPattern":"dd MMMM","PMDesignator":"odp.","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"d.M.yyyy","ShortTimePattern":"H:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["ne","po","út","st","čt","pá","so"],"ShortestDayNames":["ne","po","út","st","čt","pá","so"],"DayNames":["neděle","pondělí","úterý","středa","čtvrtek","pátek","sobota"],"AbbreviatedMonthNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthNames":["leden","únor","březen","duben","květen","červen","červenec","srpen","září","říjen","listopad","prosinec",""],"IsReadOnly":true,"NativeCalendarName":"gregoriánský kalendář","AbbreviatedMonthGenitiveNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthGenitiveNames":["ledna","února","března","dubna","května","června","července","srpna","září","října","listopadu","prosince",""]}}';//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=wboRJh5bxWeoWRWpHx54Qm8_udjGHaj0FwMCcd_zmJWOG-0jiSmqNPc3zc4HYRCeijfwRWc5_wNxf08I0Lvh1Nd0lQyDXpybjRf8SvRu2w2ZFi6aD5kHCWfje5uxCuMzrJXUbiuWD44JaCgEvBTl17qWxSZaM9HavbyENjwLK5JiVdti0&amp;t=2e2045e2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="../js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="../js/jquery-ui-1.8.5.custom.min.js" type="text/javascript"></script>
+<script src="../js/jquery.livequery.js" type="text/javascript"></script>
+<script src="../js/custom.js" type="text/javascript"></script>
+<script src="../js/jquery.lightbox-0.5.js" type="text/javascript"></script>
+<script src="../js/jquery.watermark.min.js" type="text/javascript"></script>
+<script src="../js/clear-form.js" type="text/javascript"></script>
+<script src="../js/jquery.validate.min.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5E8DBDB1" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="49COMOrgg4F9qcNiFcabSNsMVQQUhWxyNgAnGes0OPKfcm3izhvyJB3L8VToSRogDXpHptt3YRQl3+yUbx4+nC01kzQnc/s0vv0M2YK8+Zb4IqvGRh95ajQxYjAFsMR+Z0fX/2WAqViR/hGnKC3Gw7/D+tTru3BDg4a/80+9AUJI8fmScf+jBAUYDtlX+IAAZBIqQajWDvEc5nlabvjjBzyrc8Xx4x2x8iMotBTzvpZ2xrhVOv8dE8jBShyromppMmmlxCBinUAWd/69wNDdA7Vghdw=" />
+    
+    <div>        
+		<div id="wrapper" class="inner-page">
+			<div class="w1">
+				<div id="header">
+					<div class="heading">
+						<strong class="logo"><a id="ctl00_HyperLink7" href="../">Nalok</a></strong>
+						<div class="panel" style="width: 720px;">
+							<div class="forms-box">
+                                
+        <div class="form-login">
+        <fieldset>
+            <input type="submit" name="ctl00$LoginTop1$Button1" value="Přihlásit" id="ctl00_LoginTop1_Button1" class="btn-submit" />
+	        <span class="field2"><input name="ctl00$LoginTop1$txtPassword" type="password" id="ctl00_LoginTop1_txtPassword" tabindex="2" /></span>
+	        <span class="field"><input name="ctl00$LoginTop1$txtEmail" type="text" value="Email" id="ctl00_LoginTop1_txtEmail" tabindex="1" class="clearMeFocus" /></span>
+        </fieldset>
+        </div>
+    
+                                							    
+                                  <div class="form-search">
+									<fieldset>
+                                        <input type="submit" name="ctl00$SearchHP1$Button1" value="Hledej" id="ctl00_SearchHP1_Button1" class="btn-submit" />
+                                        <span class="field"><input name="ctl00$SearchHP1$txtSearch" type="text" value="Vyhledávání na Naloku" id="ctl00_SearchHP1_txtSearch" class="clearMeFocus" /></span>                                        
+									</fieldset>
+                                  </div> 
+							</div>
+                            <!-- ads -->
+                            <div style=" width: 468px; height: 60px; float: left;">
+                                
+        
+                                
+                            </div>
+							<div class="item"  style="width: 242px">
+
+								<ul class="social-links">
+									<li class="facebook"><a href="http://www.facebook.com/nakupujtelokalne" target="_blank"><span>&nbsp;</span> <strong>Facebook</strong></a></li>
+									<li class="twitter"><a href="http://twitter.com/nalokcz"><span>&nbsp;</span> <strong>Twitter</strong></a></li>                                    
+								</ul>
+                                <br />
+
+							</div>
+						</div>
+					</div>
+				    
+<ul id="nav">
+	<li><a id="ctl00_Menu1_hplHome" href="../"><span class="home">home</span></a></li>
+	<li><a id="ctl00_Menu1_hplJoin" href="../pridejte-se">Přidejte se</a></li>
+	<li><a id="ctl00_Menu1_HyperLink3" href="../farmy">Farmy</a></li>
+	<li><a id="ctl00_Menu1_HyperLink4" href="../farmarske-trhy">Trhy a akce</a></li>
+	<li><a id="ctl00_Menu1_HyperLink5" href="../bedynky">Bedýnky</a></li>
+	<li><a id="ctl00_Menu1_HyperLink6" href="../produkty">Produkty</a></li>
+	<li><a id="ctl00_Menu1_HyperLink7" href="../clanky">Blog</a></li>
+	<li><a id="ctl00_Menu1_HyperLink8" href="../mesta">&nbsp;&nbsp;Města&nbsp;</a></li>
+</ul>
+				</div>
+				<div id="main">
+					<div id="content">
+						<div class="content-t">&nbsp;</div>
+						<div class="content-c">
+							<div class="content-center">
+								
+
+<ul class="breadcrumbs">
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_HyperLink1" href="../">Domů</a></li>
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_hplCategory" href="../farmy">Farmy</a></li>
+    
+	<li><span id="ctl00_cntPlaceHolderMain_BreadCrumbs1_lblItem">Atelier27</span></li>
+</ul>
+
+    
+    <h1>
+        <span id="ctl00_cntPlaceHolderMain_lblBusinessName">Atelier27, Třebíč</span></h1>
+								<div id="twocolumns">
+									<div class="content-column">
+                                       
+<script type="text/javascript">
+$(document).ready(function() {
+    
+    var bizId = $("#ctl00_cntPlaceHolderMain_ProductsBrowser2_hdnBizId").attr("value");
+
+    $.post("/ajax/BusinessLoadProducts.aspx", { skip: $('#divHowManySkip').attr("howMany"), sellOnly: $('#divSellOnly').attr("sellOnly"), bizId: bizId},
+               function(data){                    
+                    $("#divForProducts").html(data);
+        });
+
+
+    if (parseInt($('#divHowManySkip').attr("howMany")) > parseInt($("#ctl00_cntPlaceHolderMain_ProductsBrowser2_hdnMaxSkip").attr("value")))
+    {
+        $(".next").hide();            
+    }
+
+    $(".prev").hide();
+
+    $(".prev").click(function() {
+        $('#divHowManySkip').attr("howMany",parseInt($('#divHowManySkip').attr("howMany"))-1);
+
+        $.post("/ajax/BusinessLoadProducts.aspx", { skip: $('#divHowManySkip').attr("howMany"), sellOnly: $('#divSellOnly').attr("sellOnly"), bizId: bizId},
+                   function(data){                    
+                       $("#divForProducts").html(data);
+            });
+        
+        $(".next").show();
+        if (parseInt($('#divHowManySkip').attr("howMany"))==0)
+        {
+            $(".prev").hide();
+        }
+        
+    });
+
+    $(".next").click(function() {
+        $('#divHowManySkip').attr("howMany",parseInt($('#divHowManySkip').attr("howMany"))+1);
+        
+        $.post("/ajax/BusinessLoadProducts.aspx", { skip: $('#divHowManySkip').attr("howMany"), sellOnly: $('#divSellOnly').attr("sellOnly"), bizId: bizId},
+                   function(data){                    
+                       $("#divForProducts").html(data);
+            });
+        
+        $(".prev").show();
+        if ((parseInt($('#divHowManySkip').attr("howMany"))+2) > parseInt($("#ctl00_cntPlaceHolderMain_ProductsBrowser2_hdnMaxSkip").attr("value")))
+        {
+            $(".next").hide();            
+        }
+        
+    });
+
+    $("#aAllProducts").click(function() {
+        $('#divHowManySkip').attr("howMany",0);
+        $(".prev").hide();
+        if (parseInt($('#divHowManySkip').attr("howMany")) > parseInt($("#ctl00_cntPlaceHolderMain_ProductsBrowser2_hdnMaxSkip").attr("value")))
+        {
+            $(".next").hide();            
+        }
+        else
+        {
+            $(".next").show();
+        }
+        $("#ctl00_cntPlaceHolderMain_ProductsBrowser2_hdnMaxSkip").attr("value", $("#ctl00_cntPlaceHolderMain_ProductsBrowser2_hdnMaxSkipAll").attr("value"));
+        $("#divSellOnly").attr("sellOnly",0);
+        $(this).addClass("active");
+        $("#aSellOnlyProducts").removeClass("active");
+        $.post("/ajax/BusinessLoadProducts.aspx", { skip: $('#divHowManySkip').attr("howMany"), sellOnly: $('#divSellOnly').attr("sellOnly"), bizId: bizId},
+                   function(data){                    
+                       $("#divForProducts").html(data);
+            });
+    });
+
+    $("#aSellOnlyProducts").click(function() {
+        $('#divHowManySkip').attr("howMany",0);
+         $(".prev").hide();
+                 if (parseInt($('#divHowManySkip').attr("howMany")) > parseInt($("#ctl00_cntPlaceHolderMain_ProductsBrowser2_hdnMaxSkip").attr("value")))
+        {
+            $(".next").hide();            
+        }
+        else
+        {
+            $(".next").show();
+        }
+        $("#ctl00_cntPlaceHolderMain_ProductsBrowser2_hdnMaxSkip").attr("value", $("#ctl00_cntPlaceHolderMain_ProductsBrowser2_hdnMaxSkipSellOnly").attr("value"));
+        $("#divSellOnly").attr("sellOnly",1);
+        $(this).addClass("active");
+        $("#aAllProducts").removeClass("active");
+        $.post("/ajax/BusinessLoadProducts.aspx", { skip: $('#divHowManySkip').attr("howMany"), sellOnly: $('#divSellOnly').attr("sellOnly"), bizId: bizId},
+                   function(data){                    
+                       $("#divForProducts").html(data);
+            });
+    });
+    
+
+ });
+</script>
+										<div class="heading-producty">
+											<ul class="btn-list">
+												<li class="active" id="aAllProducts"><a style="cursor: pointer"><span>všechny produkty</span></a></li>
+												<li  id="aSellOnlyProducts"><a style="cursor: pointer" class="btn-naloku"><span><em>k prodeji na Naloku</em></span></a></li>
+											</ul>
+											<span class="zobrazit" style="font-weight: bold">zobrazit:</span>
+											<h2 class="title-produkty">Produkty</h2>
+										</div>
+
+<div class="box-farms-gallery">
+<div class="holder">	
+    <div class="frame">	
+		<div class="btn-box">
+			<a style="cursor:pointer" class="prev">Předchozí</a>
+			<a style="cursor:pointer" class="next">Další produkty</a>
+		</div>
+        <div style="height:30px; width: 100%"></div>	
+
+        <div id="divForProducts"></div>
+
+	</div>
+</div>
+</div>
+<div id="divHowManySkip" howMany="0"></div>
+<div id="divSellOnly" sellOnly="0"></div>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ProductsBrowser2$hdnBizId" id="ctl00_cntPlaceHolderMain_ProductsBrowser2_hdnBizId" value="6be41534-c900-4df7-a6ac-5a3f82b8e2da" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ProductsBrowser2$hdnMaxSkip" id="ctl00_cntPlaceHolderMain_ProductsBrowser2_hdnMaxSkip" value="1" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ProductsBrowser2$hdnMaxSkipSellOnly" id="ctl00_cntPlaceHolderMain_ProductsBrowser2_hdnMaxSkipSellOnly" value="1" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ProductsBrowser2$hdnMaxSkipAll" id="ctl00_cntPlaceHolderMain_ProductsBrowser2_hdnMaxSkipAll" value="1" />
+                                       
+									                                            
+                                        
+<script type="text/javascript">
+    $(function() {
+    $('#gallery .jquery-lightbox').lightBox();
+
+});
+
+$(document).ready(function() {
+    $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').hide();
+    $('#addPicture').click(function() {
+        $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').toggle();
+    });
+});
+</script>
+<style type="text/css">
+	/* jQuery lightBox plugin - Gallery style */
+	#gallery {
+	}
+	#gallery ul { list-style: none; }
+	#gallery ul li { display: inline; }
+	#gallery ul img {
+		border: 5px solid #fff;
+		border-width: 5px 5px 20px;
+	}
+	#gallery ul a:hover img {
+		border: 5px solid #8db526;
+		border-width: 5px 5px 20px;
+		color: #fff;
+	}
+	#gallery ul a:hover { color: #fff; }
+
+	.style2imgmngr
+    {
+        font-size: x-small;
+        font-weight: bold;
+    }
+	</style>
+
+
+<div id="gallery">
+<div class="box-picture-gallery">
+<h2><span id="ctl00_cntPlaceHolderMain_ImageManagerND1_lblTitle">Takto to u nás vypadá</span></h2>
+<p></p>
+<ul class="picture-gallery-list">
+<table id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_HyperLink1" class="jquery-lightbox" title="" href="../data/obrazky/3f/_3f3f9491-c0af-4307-ac2e-0f0a4339770e.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_Image1" src="../data/obrazky/6f/obr_6fb00d7f-bb28-4810-a924-4907123b42d1.jpg" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl00$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_hdnImageId" value="3f3f9491-c0af-4307-ac2e-0f0a4339770e" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl01_AImage1_HyperLink1" class="jquery-lightbox" title="Atelier27" href="../data/obrazky/26/atelier27_26d12eb4-880b-4cab-ac18-63e2b5cb9884.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl01_AImage1_Image1" src="../data/obrazky/b6/obr-atelier27_b6dfb2fa-b032-462f-bf8f-36bec5e47998.jpg" alt="Atelier27" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl01$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl01_AImage1_hdnImageId" value="26d12eb4-880b-4cab-ac18-63e2b5cb9884" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl02_AImage1_HyperLink1" class="jquery-lightbox" title="" href="../data/obrazky/64/_64eca06a-0333-46f5-b3de-65c41a8ab8d9.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl02_AImage1_Image1" src="../data/obrazky/71/obr_71e52a2b-c40f-4a45-891d-bd8e91871569.jpg" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl02$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl02_AImage1_hdnImageId" value="64eca06a-0333-46f5-b3de-65c41a8ab8d9" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl03_AImage1_HyperLink1" class="jquery-lightbox" title="" href="../data/obrazky/6e/_6e77b6b9-927d-4293-9418-7911d0b1a562.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl03_AImage1_Image1" src="../data/obrazky/d0/obr_d0050e04-b555-41d6-b032-5f2b2d19fe1e.jpg" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl03$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl03_AImage1_hdnImageId" value="6e77b6b9-927d-4293-9418-7911d0b1a562" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl04_AImage1_HyperLink1" class="jquery-lightbox" title="" href="../data/obrazky/5f/_5f938d6c-ae9d-45dc-ac89-872c720d7143.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl04_AImage1_Image1" src="../data/obrazky/a1/obr_a1ceff0d-a599-4b52-a392-9fac1c5f1e99.jpg" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl04$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl04_AImage1_hdnImageId" value="5f938d6c-ae9d-45dc-ac89-872c720d7143" />
+       
+
+    
+        </li>
+    </td>
+	</tr><tr>
+		<td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl05_AImage1_HyperLink1" class="jquery-lightbox" title="Atelier27" href="../data/obrazky/aa/atelier27_aaec5050-a000-48ba-9175-a06a82b08f4f.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl05_AImage1_Image1" src="../data/obrazky/4d/obr-atelier27_4dc2d2ea-6a88-42a5-9b61-0a9098118101.jpg" alt="Atelier27" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl05$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl05_AImage1_hdnImageId" value="aaec5050-a000-48ba-9175-a06a82b08f4f" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl06_AImage1_HyperLink1" class="jquery-lightbox" title="Atelier27" href="../data/obrazky/cd/atelier27_cd027599-9707-4df2-b3ec-a438ce44c885.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl06_AImage1_Image1" src="../data/obrazky/73/obr-atelier27_73962652-252b-4baf-8c39-214ed3ab88f2.jpg" alt="Atelier27" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl06$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl06_AImage1_hdnImageId" value="cd027599-9707-4df2-b3ec-a438ce44c885" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl07_AImage1_HyperLink1" class="jquery-lightbox" title="" href="../data/obrazky/39/_39a4c66e-6a83-4573-9fb9-b91cf3d601f8.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl07_AImage1_Image1" src="../data/obrazky/62/obr_625a7e02-6203-4bc8-b544-525f6ca6993d.jpg" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl07$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl07_AImage1_hdnImageId" value="39a4c66e-6a83-4573-9fb9-b91cf3d601f8" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl08_AImage1_HyperLink1" class="jquery-lightbox" title="" href="../data/obrazky/86/_86547f51-795a-48fc-ac47-ecc2564dd015.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl08_AImage1_Image1" src="../data/obrazky/83/obr_834217fa-5679-4570-bb8a-8b7255ea2e47.jpg" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl08$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl08_AImage1_hdnImageId" value="86547f51-795a-48fc-ac47-ecc2564dd015" />
+       
+
+    
+        </li>
+    </td><td></td>
+	</tr>
+</table>
+</ul>
+</div>
+</div>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnObjectId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnObjectId" value="6be41534-c900-4df7-a6ac-5a3f82b8e2da" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnIsAdmin" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnIsAdmin" value="false" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        <h2>O nás</h2><p>Co je to vinutá perla ?<br/><br/>Jedná se o druh skleněných perel, které mají dlouhou historii. Výroba je výhradně ruční, každá je originál a nenajdete dvě perly naprosto stejné. S ohledem na ruční výrobu jsou samozřejmě dražší, často jsou malými uměleckými díly, které vyžadují velkou zručnost a nadání.<br/><br/>Základní surovinou, kterou používám , je  české lampové sklo. Jsou to skleněné tyčinky o průměru 7 až 12 milimetrů a délce 50 až 80 centimetrů. Jak již plyne ze samotného názvu, vyrábějí se tyto perly navíjením roztaveného skla. Konce tyčinek se nahřívají nad plamenem sklářského kahanu a navíjejí se na drát, který je namočen v kaolínu, aby se perly po vychladnutí snadněji stahovaly z drátu a nepřilepily se k němu. V rozehřátém stavu se perly upravují různými typy dekorů. <br/><br/></p>
+                                        <p>&nbsp;</p>
+                                        
+<div class="box-comments">
+	<h2 class="title-comments">Komentáře</h2>
+    <a id="ctl00_cntPlaceHolderMain_BusinessComments1_hplLogIn" class="comment-link" href="../login.aspx?ReturnUrl=/farmy/atelier27">Přihlašte se a přidejte komentář</a>
+
+<div style="text-align: right; width: 100%"></div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').hide();
+        // shows the slickbox on clicking the noted link
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_HyperLink1').click(function () {
+            $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').toggle('slow');
+            return false;
+        });
+    });
+</script>
+
+
+<ul class="comments-list">
+
+        <span>Žádné komentáře</span>
+    
+</ul>
+
+
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectId" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectId" value="6be41534-c900-4df7-a6ac-5a3f82b8e2da" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectType" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectType" value="Business" />
+
+</div>
+			
+
+
+					
+				
+									</div>									
+								    
+								    
+<div id="sidebar">
+            
+			
+            <h2>O farmě</h2>
+            
+			<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblShortDesc">Nabízím originální vinuté perly z mé dílny a šperky, které jsou z nich vytvořeny. V případě vhodných podmínek zajistím i ukázku této zajímavé techniky na trzích.</span></p>            
+			
+			
+			<div class="image-holder">
+                <img id="ctl00_cntPlaceHolderMain_BusinessProfileND1_Image1" src="../data/obrazky/e1/atelier27-trebic_e14ff79b-f662-4e9d-915d-b4d9d6e8f6e9.jpg" height="163" width="245" border="0" />
+			</div>
+            <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nalok.cz/farmy/atelier27&amp;layout=standard&amp;show_faces=true&amp;width=255&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:255px; height:80px;" allowTransparency="true"></iframe>
+			<div class="box-contact">
+				<div class="contact">
+					<p><strong class="mark">Telefon:</strong> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblPhone">777 148 927</span></p>
+					<p><strong class="mark">Email:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplSendMessage" href="../zprava/podnik/atelier27" style="font-weight: 700">Napište nám!</a></p>
+					<p><strong class="mark">Web:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplBizUrl" href="http://www.atelier27.cz" target="_blank">http://www.atelier27.cz</a></p>
+				</div>
+				<address>
+					<strong class="mark">Adresa:</strong>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblStreet">Rypáčkova 295/6, </span> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblCity">Třebíč</span></p>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblZip">67401</span></p>
+				</address>
+			</div>
+			<div class="image-holder map">
+                    <div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1">
+
+</div><div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_Templates" style="display:none;"></div><input id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" name="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" type="hidden" />
+			</div>
+            				
+			<div class="box-about">
+			</div>
+</div>
+
+								</div>
+
+							</div>
+						</div>
+						<div class="content-b">&nbsp;</div>
+					</div>
+				</div>
+			</div>
+			<div id="footer">
+				<div class="inner">
+					<div class="holder">
+						<div class="partners">
+							
+							<ul>
+							</ul>
+						</div>
+						<div class="footer-box">
+							<strong class="logo-nalok"><a href="http://www.nalok.cz">logo</a></strong>
+							<ul class="add-nav">
+								<li><a href="http://www.nalok.cz/nalok" title="Kontakt">Kontakt</a></li>
+								
+								<li><a href="http://www.nalok.cz/tou.aspx">Všeobecné Obchodní Podmínky</a></li>
+                                <li><a href="http://www.nalok.cz/partners.aspx">Partneři projektu</a></li>
+                                <li><a href="http://www.nalok.cz/napoveda" title="Jak Nalok.cz funguje a jak jej maximálně využívat">Nápověda</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var GoogleMap1 = new Artem.Web.GoogleMap({"Address":null,"BaseCountryCode":null,"ClientID":"ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1","ClientMapID":"GoogleMap1","DefaultAddress":null,"DefaultMapView":0,"Directions":[],"EnableContinuousZoom":false,"EnableDoubleClickZoom":false,"EnableDragging":true,"EnableGoogleBar":false,"EnableInfoWindow":true,"EnableMarkerManager":false,"EnableReverseGeocoding":false,"EnableScrollWheelZoom":false,"EnterpriseKey":null,"Height":"292px","IsStreetView":false,"IsStatic":false,"Key":"ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A","Latitude":49.2125444,"Longitude":15.8671977,"MapEvents":{},"MarkerEvents":{},"MarkerManagerOptions":{"borderPadding":null,"maxZoom":null,"trackMarkers":null},"PolygonEvents":{},"PolylineEvents":{},"ShowMapTypeControl":true,"ShowScaleControl":false,"ShowTraffic":false,"StreetViewMode":0,"StreetViewPanoID":null,"Width":"241px","Zoom":15,"ZoomPanType":0});
+GoogleMap1.addMarker({"OpenInfoBehaviour":0,"ShadowSize":{"Height":16,"Width":16},"ShadowUrl":null,"Title":null,"Address":null,"AutoPan":true,"Bouncy":false,"Clickable":true,"Draggable":false,"DragCrossMove":false,"IconAnchor":{"X":8,"Y":16},"IconSize":{"Height":30,"Width":30},"IconUrl":"/images/nalok_n.png","InfoWindowAnchor":{"X":0,"Y":0},"Latitude":49.2125444,"Longitude":15.8671977,"MaxZoom":null,"MinZoom":null,"Text":"<table cellpadding=3 cellspacing=3><tr><td colspan=2 style=\"font-size: 16px\"><img style=\"margin-top: -3px\" width='34px' src='/images/nalok_n.png' /> <strong>Atelier27<strong></td></tr><tr><td><img width='45px' src='/img/image.ashx?id=6be41534-c900-4df7-a6ac-5a3f82b8e2da'/></td><td>Ryp\u00E1\u010Dkova 295/6<br/>T\u0159eb\u00ED\u010D</td><tr></table>"});
+GoogleMap1.load();
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>

@@ -1,0 +1,367 @@
+
+
+<!DOCTYPE html PUBLIC  "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="ctl00_Head1"><link rel="icon" type="image/gif" href="http://www.nalok.cz/images/animated_favicon1.gif" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	Antonín Chrapan, Lenora | Nalok.cz
+</title>
+        
+        <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+        </script>
+        <script type='text/javascript'>
+            GS_googleAddAdSenseService("ca-pub-5370690446478716");
+            GS_googleEnableAllServices();
+        </script>
+        <script type='text/javascript'>
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_about_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_home_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_pridejte_se_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_produkty_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_square_right_top_180x150");
+        </script>
+        <script type='text/javascript'>
+            GA_googleFetchAds();
+        </script>
+        
+        
+         <script type="text/javascript">
+             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+            <script type="text/javascript">
+                try {
+                    var pageTracker = _gat._getTracker("UA-12574605-2");
+                    pageTracker._trackPageview();
+                } catch (err) { }</script>
+        
+        
+
+		<!--[if lt IE 8]>
+			<link rel="stylesheet" type="text/css" href="../css/ie.css" />
+			<script type="text/javascript" src="js/ie-hover-pack.js"></script>
+		<![endif]-->  
+
+ 
+	<link href="../App_Themes/new/all-09132011.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/ie.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery.lightbox-0.5.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.2.custom.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.5.custom.css" type="text/css" rel="stylesheet" /><meta name="description" content="Při výběru broušeného skla v naší prodejně vybíráte nejen podle vzhledu, ale zároveň se můžete podívat i pod ruce našich kuličů, jak výbrus vzniká. Nabízené výrobky můžete  porovnat s exponáty v sousedícím Sklářském muzeu." /><meta name="keywords" content="Bio potraviny, zemědělci, farmáři, bedýnkování, lokální výrobci, nakupovat, nákup, zelenina, ovoce" /></head>
+	<body>
+    <form name="aspnetForm" method="post" action="antonin-chrapan" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="http://maps.google.com/maps?file=api&amp;v=2.x&amp;key=ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=2g5RFPfFOSvvxRbx7B-fXnx6WoSbSOCw4nm-JnLlexZXWMYfOpd4plvOOSq9w-TYlbrm0bpzk0MmFipK966uP5_Nc5Cn2_7Bor2UBZbZGqRaba9-oeYQhly9IgxRsw1Rlqx2Cry_gtl3FN8BSEByDJhD7R5mzN8XTiSAUQ7bI5q1t3lE0&amp;t=5b29a3a1" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = '{"name":"cs-CZ","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":" ","CurrencySymbol":"Kč","NaNSymbol":"Není číslo","CurrencyNegativePattern":8,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-nekonečno","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":" ","CurrencyPositivePattern":3,"PositiveInfinitySymbol":"+nekonečno","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":" ","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"dop.","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":".","FirstDayOfWeek":1,"CalendarWeekRule":0,"FullDateTimePattern":"d. MMMM yyyy H:mm:ss","LongDatePattern":"d. MMMM yyyy","LongTimePattern":"H:mm:ss","MonthDayPattern":"dd MMMM","PMDesignator":"odp.","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"d.M.yyyy","ShortTimePattern":"H:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["ne","po","út","st","čt","pá","so"],"ShortestDayNames":["ne","po","út","st","čt","pá","so"],"DayNames":["neděle","pondělí","úterý","středa","čtvrtek","pátek","sobota"],"AbbreviatedMonthNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthNames":["leden","únor","březen","duben","květen","červen","červenec","srpen","září","říjen","listopad","prosinec",""],"IsReadOnly":true,"NativeCalendarName":"gregoriánský kalendář","AbbreviatedMonthGenitiveNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthGenitiveNames":["ledna","února","března","dubna","května","června","července","srpna","září","října","listopadu","prosince",""]}}';//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=wboRJh5bxWeoWRWpHx54Qm8_udjGHaj0FwMCcd_zmJWOG-0jiSmqNPc3zc4HYRCeijfwRWc5_wNxf08I0Lvh1Nd0lQyDXpybjRf8SvRu2w2ZFi6aD5kHCWfje5uxCuMzrJXUbiuWD44JaCgEvBTl17qWxSZaM9HavbyENjwLK5JiVdti0&amp;t=2e2045e2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="../js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="../js/jquery-ui-1.8.5.custom.min.js" type="text/javascript"></script>
+<script src="../js/jquery.livequery.js" type="text/javascript"></script>
+<script src="../js/custom.js" type="text/javascript"></script>
+<script src="../js/jquery.lightbox-0.5.js" type="text/javascript"></script>
+<script src="../js/jquery.watermark.min.js" type="text/javascript"></script>
+<script src="../js/clear-form.js" type="text/javascript"></script>
+<script src="../js/jquery.validate.min.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5E8DBDB1" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="MvkdH0UtnX97bK1hn7JJ8JrCJfhMI8IRrHU4CaK94avxHqpCsVSZMzylfk4Hee4ogIOOavCSmcdEOh25Jbbmx0/PeX336T4c5wXvJAcQAL1K+/adxQiesJUhjyX1atDjWcIp9d+3V1GjYLO5R2KyTUDPDQP1baf9iOdqkclUKK0QDg8D" />
+    
+    <div>        
+		<div id="wrapper" class="inner-page">
+			<div class="w1">
+				<div id="header">
+					<div class="heading">
+						<strong class="logo"><a id="ctl00_HyperLink7" href="../">Nalok</a></strong>
+						<div class="panel" style="width: 720px;">
+							<div class="forms-box">
+                                
+        <div class="form-login">
+        <fieldset>
+            <input type="submit" name="ctl00$LoginTop1$Button1" value="Přihlásit" id="ctl00_LoginTop1_Button1" class="btn-submit" />
+	        <span class="field2"><input name="ctl00$LoginTop1$txtPassword" type="password" id="ctl00_LoginTop1_txtPassword" tabindex="2" /></span>
+	        <span class="field"><input name="ctl00$LoginTop1$txtEmail" type="text" value="Email" id="ctl00_LoginTop1_txtEmail" tabindex="1" class="clearMeFocus" /></span>
+        </fieldset>
+        </div>
+    
+                                							    
+                                  <div class="form-search">
+									<fieldset>
+                                        <input type="submit" name="ctl00$SearchHP1$Button1" value="Hledej" id="ctl00_SearchHP1_Button1" class="btn-submit" />
+                                        <span class="field"><input name="ctl00$SearchHP1$txtSearch" type="text" value="Vyhledávání na Naloku" id="ctl00_SearchHP1_txtSearch" class="clearMeFocus" /></span>                                        
+									</fieldset>
+                                  </div> 
+							</div>
+                            <!-- ads -->
+                            <div style=" width: 468px; height: 60px; float: left;">
+                                
+        
+                                
+                            </div>
+							<div class="item"  style="width: 242px">
+
+								<ul class="social-links">
+									<li class="facebook"><a href="http://www.facebook.com/nakupujtelokalne" target="_blank"><span>&nbsp;</span> <strong>Facebook</strong></a></li>
+									<li class="twitter"><a href="http://twitter.com/nalokcz"><span>&nbsp;</span> <strong>Twitter</strong></a></li>                                    
+								</ul>
+                                <br />
+
+							</div>
+						</div>
+					</div>
+				    
+<ul id="nav">
+	<li><a id="ctl00_Menu1_hplHome" href="../"><span class="home">home</span></a></li>
+	<li><a id="ctl00_Menu1_hplJoin" href="../pridejte-se">Přidejte se</a></li>
+	<li><a id="ctl00_Menu1_HyperLink3" href="../farmy">Farmy</a></li>
+	<li><a id="ctl00_Menu1_HyperLink4" href="../farmarske-trhy">Trhy a akce</a></li>
+	<li><a id="ctl00_Menu1_HyperLink5" href="../bedynky">Bedýnky</a></li>
+	<li><a id="ctl00_Menu1_HyperLink6" href="../produkty">Produkty</a></li>
+	<li><a id="ctl00_Menu1_HyperLink7" href="../clanky">Blog</a></li>
+	<li><a id="ctl00_Menu1_HyperLink8" href="../mesta">&nbsp;&nbsp;Města&nbsp;</a></li>
+</ul>
+				</div>
+				<div id="main">
+					<div id="content">
+						<div class="content-t">&nbsp;</div>
+						<div class="content-c">
+							<div class="content-center">
+								
+
+<ul class="breadcrumbs">
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_HyperLink1" href="../">Domů</a></li>
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_hplCategory" href="../farmy">Farmy</a></li>
+    
+	<li><span id="ctl00_cntPlaceHolderMain_BreadCrumbs1_lblItem">Antonín Chrapan</span></li>
+</ul>
+
+    
+    <h1>
+        <span id="ctl00_cntPlaceHolderMain_lblBusinessName">Antonín Chrapan, Lenora</span></h1>
+								<div id="twocolumns">
+									<div class="content-column">
+                                                                              
+									                                            
+                                        
+<script type="text/javascript">
+    $(function() {
+    $('#gallery .jquery-lightbox').lightBox();
+
+});
+
+$(document).ready(function() {
+    $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').hide();
+    $('#addPicture').click(function() {
+        $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').toggle();
+    });
+});
+</script>
+<style type="text/css">
+	/* jQuery lightBox plugin - Gallery style */
+	#gallery {
+	}
+	#gallery ul { list-style: none; }
+	#gallery ul li { display: inline; }
+	#gallery ul img {
+		border: 5px solid #fff;
+		border-width: 5px 5px 20px;
+	}
+	#gallery ul a:hover img {
+		border: 5px solid #8db526;
+		border-width: 5px 5px 20px;
+		color: #fff;
+	}
+	#gallery ul a:hover { color: #fff; }
+
+	.style2imgmngr
+    {
+        font-size: x-small;
+        font-weight: bold;
+    }
+	</style>
+
+
+<div id="gallery">
+<div class="box-picture-gallery">
+<h2><span id="ctl00_cntPlaceHolderMain_ImageManagerND1_lblTitle">Takto to u nás vypadá</span></h2>
+<p></p>
+<ul class="picture-gallery-list">
+<table id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_HyperLink1" class="jquery-lightbox" title="Antonín Chrapan" href="../data/obrazky/50/antonin-chrapan_506c8544-37eb-4731-a837-b155ebd40fe0.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_Image1" src="../data/obrazky/96/obr-antonin-chrapan_96d19355-ec32-4f68-b990-0e2fbf689ddf.jpg" alt="Antonín Chrapan" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl00$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_hdnImageId" value="506c8544-37eb-4731-a837-b155ebd40fe0" />
+       
+
+    
+        </li>
+    </td><td></td><td></td><td></td><td></td>
+	</tr>
+</table>
+</ul>
+</div>
+</div>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnObjectId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnObjectId" value="5dcaf94b-543c-4ac4-a2d3-2aa0c53c66a0" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnIsAdmin" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnIsAdmin" value="false" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        <h2>O nás</h2><p>Při výběru broušeného skla v naší prodejně vybíráte nejen podle vzhledu, ale zároveň se můžete podívat i pod ruce našich kuličů, jak výbrus vzniká. Nabízené výrobky můžete  porovnat s exponáty v sousedícím Sklářském muzeu.<br/> <br/>Broušené sklo od Antonína Chrapana:<br/>Jednotlivé broušené výrobky jsou vyráběny klasickou technologii koulení skla na kuličských strojích za pomocí keramických a diamantových kotoučů. Rostlinné dekory jsou vytvářeny vyučenými kuliči skla. Vybroušené motivy pocházejí z naší dílny, která navazuje na více než stoletou tradici výroby skla v Lenoře. Důraz klademe na to, aby si návštěvník odnesl náš produkt vyrobený ručně. Výběr surovin a výrobní procesy volíme tak, aby naše broušené sklo bylo cenově dostupné širokému okruhu zákazníků.</p>
+                                        <p>&nbsp;</p>
+                                        
+<div class="box-comments">
+	<h2 class="title-comments">Komentáře</h2>
+    <a id="ctl00_cntPlaceHolderMain_BusinessComments1_hplLogIn" class="comment-link" href="../login.aspx?ReturnUrl=/farmy/antonin-chrapan">Přihlašte se a přidejte komentář</a>
+
+<div style="text-align: right; width: 100%"></div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').hide();
+        // shows the slickbox on clicking the noted link
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_HyperLink1').click(function () {
+            $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').toggle('slow');
+            return false;
+        });
+    });
+</script>
+
+
+<ul class="comments-list">
+
+        <span>Žádné komentáře</span>
+    
+</ul>
+
+
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectId" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectId" value="5dcaf94b-543c-4ac4-a2d3-2aa0c53c66a0" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectType" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectType" value="Business" />
+
+</div>
+			
+
+
+					
+				
+									</div>									
+								    
+								    
+<div id="sidebar">
+            
+			
+            <h2>O farmě</h2>
+            
+			<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblShortDesc">Při výběru broušeného skla v naší prodejně vybíráte nejen podle vzhledu, ale zároveň se můžete podívat i pod ruce našich kuličů, jak výbrus vzniká. Nabízené výrobky můžete  porovnat s exponáty v sousedícím Sklářském muzeu.</span></p>            
+			
+			
+<h2>Partner farmy</h2>
+<a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_PartnerLogo1_HyperLink1" title="ŠUMAVA originální produkt - Regionální značky" href="http://www.regionalni-znacky.cz/sumava/" target="_blank"><img id="ctl00_cntPlaceHolderMain_BusinessProfileND1_PartnerLogo1_Image1" src="http://www.nalok.cz/images/sumava.jpg" alt="ŠUMAVA originální produkt - Regionální značky" width="245" border="0" /></a>
+			<div class="image-holder">
+                <img id="ctl00_cntPlaceHolderMain_BusinessProfileND1_Image1" src="../data/obrazky/9a/antonin-chrapan-lenora_9a42259d-3eaf-4216-b7de-3e116101ebad.jpg" height="163" width="245" border="0" />
+			</div>
+            <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nalok.cz/farmy/antonin-chrapan&amp;layout=standard&amp;show_faces=true&amp;width=255&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:255px; height:80px;" allowTransparency="true"></iframe>
+			<div class="box-contact">
+				<div class="contact">
+					<p><strong class="mark">Telefon:</strong> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblPhone">388 438 694</span></p>
+					<p><strong class="mark">Email:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplSendMessage" href="../zprava/podnik/antonin-chrapan" style="font-weight: 700">Napište nám!</a></p>
+					<p><strong class="mark">Web:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplBizUrl" href="http://www.prodejskla.cz" target="_blank">http://www.prodejskla.cz</a></p>
+				</div>
+				<address>
+					<strong class="mark">Adresa:</strong>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblStreet">Lenora 117, </span> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblCity">Lenora</span></p>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblZip">38442</span></p>
+				</address>
+			</div>
+			<div class="image-holder map">
+                    <div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1">
+
+</div><div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_Templates" style="display:none;"></div><input id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" name="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" type="hidden" />
+			</div>
+            				
+			<div class="box-about">
+			</div>
+</div>
+
+								</div>
+
+							</div>
+						</div>
+						<div class="content-b">&nbsp;</div>
+					</div>
+				</div>
+			</div>
+			<div id="footer">
+				<div class="inner">
+					<div class="holder">
+						<div class="partners">
+							
+							<ul>
+							</ul>
+						</div>
+						<div class="footer-box">
+							<strong class="logo-nalok"><a href="http://www.nalok.cz">logo</a></strong>
+							<ul class="add-nav">
+								<li><a href="http://www.nalok.cz/nalok" title="Kontakt">Kontakt</a></li>
+								
+								<li><a href="http://www.nalok.cz/tou.aspx">Všeobecné Obchodní Podmínky</a></li>
+                                <li><a href="http://www.nalok.cz/partners.aspx">Partneři projektu</a></li>
+                                <li><a href="http://www.nalok.cz/napoveda" title="Jak Nalok.cz funguje a jak jej maximálně využívat">Nápověda</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var GoogleMap1 = new Artem.Web.GoogleMap({"Address":null,"BaseCountryCode":null,"ClientID":"ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1","ClientMapID":"GoogleMap1","DefaultAddress":null,"DefaultMapView":0,"Directions":[],"EnableContinuousZoom":false,"EnableDoubleClickZoom":false,"EnableDragging":true,"EnableGoogleBar":false,"EnableInfoWindow":true,"EnableMarkerManager":false,"EnableReverseGeocoding":false,"EnableScrollWheelZoom":false,"EnterpriseKey":null,"Height":"292px","IsStreetView":false,"IsStatic":false,"Key":"ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A","Latitude":48.9224681,"Longitude":13.7984458,"MapEvents":{},"MarkerEvents":{},"MarkerManagerOptions":{"borderPadding":null,"maxZoom":null,"trackMarkers":null},"PolygonEvents":{},"PolylineEvents":{},"ShowMapTypeControl":true,"ShowScaleControl":false,"ShowTraffic":false,"StreetViewMode":0,"StreetViewPanoID":null,"Width":"241px","Zoom":15,"ZoomPanType":0});
+GoogleMap1.addMarker({"Address":null,"AutoPan":true,"Bouncy":false,"Clickable":true,"Draggable":false,"DragCrossMove":false,"IconAnchor":{"X":8,"Y":16},"IconSize":{"Height":30,"Width":30},"IconUrl":"/images/nalok_n.png","InfoWindowAnchor":{"X":0,"Y":0},"Latitude":48.9224681,"Longitude":13.7984458,"MaxZoom":null,"MinZoom":null,"OpenInfoBehaviour":0,"ShadowSize":{"Height":16,"Width":16},"ShadowUrl":null,"Text":"<table cellpadding=3 cellspacing=3><tr><td colspan=2 style=\"font-size: 16px\"><img style=\"margin-top: -3px\" width='34px' src='/images/nalok_n.png' /> <strong>Anton\u00EDn Chrapan<strong></td></tr><tr><td><img width='45px' src='/img/image.ashx?id=5dcaf94b-543c-4ac4-a2d3-2aa0c53c66a0'/></td><td>Lenora 117<br/>Lenora</td><tr></table>","Title":null});
+GoogleMap1.load();
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>

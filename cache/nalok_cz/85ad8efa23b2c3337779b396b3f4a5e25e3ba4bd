@@ -1,0 +1,379 @@
+
+
+<!DOCTYPE html PUBLIC  "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="ctl00_Head1"><link rel="icon" type="image/gif" href="http://www.nalok.cz/images/animated_favicon1.gif" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	Biofarma Epona, Žlutice | Nalok.cz
+</title>
+        
+        <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+        </script>
+        <script type='text/javascript'>
+            GS_googleAddAdSenseService("ca-pub-5370690446478716");
+            GS_googleEnableAllServices();
+        </script>
+        <script type='text/javascript'>
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_about_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_bedynky_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_farmy_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_home_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_brno_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ceske_budejovice_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_hradec_kralove_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_olomouc_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_ostrava_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_mesta_usti_nad_labem_square_right_top_180x150");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_pridejte_se_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_produkty_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_banner_468x60");
+            GA_googleAddSlot("ca-pub-5370690446478716", "nalok_trhy_square_right_top_180x150");
+        </script>
+        <script type='text/javascript'>
+            GA_googleFetchAds();
+        </script>
+        
+        
+         <script type="text/javascript">
+             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+            <script type="text/javascript">
+                try {
+                    var pageTracker = _gat._getTracker("UA-12574605-2");
+                    pageTracker._trackPageview();
+                } catch (err) { }</script>
+        
+        
+
+		<!--[if lt IE 8]>
+			<link rel="stylesheet" type="text/css" href="../css/ie.css" />
+			<script type="text/javascript" src="js/ie-hover-pack.js"></script>
+		<![endif]-->  
+
+ 
+	<link href="../App_Themes/new/all-09132011.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/ie.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery.lightbox-0.5.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.2.custom.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/new/jquery-ui-1.8.5.custom.css" type="text/css" rel="stylesheet" /><meta name="description" content="Zabývá se chovem koní, skotu, prasat, ovcí, koz a drůbeže a pěstováním obilovin, brambor, ovoce a bylin, v harmonickém souladu s přírodními zákony. " /><meta name="keywords" content="Bio potraviny, zemědělci, farmáři, bedýnkování, lokální výrobci, nakupovat, nákup, zelenina, ovoce" /></head>
+	<body>
+    <form name="aspnetForm" method="post" action="biofarma-epona-zlutice" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="http://maps.google.com/maps?file=api&amp;v=2.x&amp;key=ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=2g5RFPfFOSvvxRbx7B-fXnx6WoSbSOCw4nm-JnLlexZXWMYfOpd4plvOOSq9w-TYlbrm0bpzk0MmFipK966uP5_Nc5Cn2_7Bor2UBZbZGqRaba9-oeYQhly9IgxRsw1Rlqx2Cry_gtl3FN8BSEByDJhD7R5mzN8XTiSAUQ7bI5q1t3lE0&amp;t=5b29a3a1" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = '{"name":"cs-CZ","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":" ","CurrencySymbol":"Kč","NaNSymbol":"Není číslo","CurrencyNegativePattern":8,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-nekonečno","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":" ","CurrencyPositivePattern":3,"PositiveInfinitySymbol":"+nekonečno","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":" ","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"dop.","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":".","FirstDayOfWeek":1,"CalendarWeekRule":0,"FullDateTimePattern":"d. MMMM yyyy H:mm:ss","LongDatePattern":"d. MMMM yyyy","LongTimePattern":"H:mm:ss","MonthDayPattern":"dd MMMM","PMDesignator":"odp.","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"d.M.yyyy","ShortTimePattern":"H:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["ne","po","út","st","čt","pá","so"],"ShortestDayNames":["ne","po","út","st","čt","pá","so"],"DayNames":["neděle","pondělí","úterý","středa","čtvrtek","pátek","sobota"],"AbbreviatedMonthNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthNames":["leden","únor","březen","duben","květen","červen","červenec","srpen","září","říjen","listopad","prosinec",""],"IsReadOnly":true,"NativeCalendarName":"gregoriánský kalendář","AbbreviatedMonthGenitiveNames":["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII",""],"MonthGenitiveNames":["ledna","února","března","dubna","května","června","července","srpna","září","října","listopadu","prosince",""]}}';//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=wboRJh5bxWeoWRWpHx54Qm8_udjGHaj0FwMCcd_zmJWOG-0jiSmqNPc3zc4HYRCeijfwRWc5_wNxf08I0Lvh1Nd0lQyDXpybjRf8SvRu2w2ZFi6aD5kHCWfje5uxCuMzrJXUbiuWD44JaCgEvBTl17qWxSZaM9HavbyENjwLK5JiVdti0&amp;t=2e2045e2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="../js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="../js/jquery-ui-1.8.5.custom.min.js" type="text/javascript"></script>
+<script src="../js/jquery.livequery.js" type="text/javascript"></script>
+<script src="../js/custom.js" type="text/javascript"></script>
+<script src="../js/jquery.lightbox-0.5.js" type="text/javascript"></script>
+<script src="../js/jquery.watermark.min.js" type="text/javascript"></script>
+<script src="../js/clear-form.js" type="text/javascript"></script>
+<script src="../js/jquery.validate.min.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5E8DBDB1" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="vKwCrO2YfhecOuVI2cOLOPV/+Z2P2643wx7ayLzaGLIU4+gHAVQtqhAwu2FFsD8AHKwivf/jQcnAS5vfWPGRvGB5MLT0YJQrnXaiPpZImY++HnRWJZl8emPaQjfdtiPM2WaJOFH0NPS2bhw+2PffRNXTlN68BMp/SebefQbshhVmJwbkJfvYAGuT3Px9Hqao3VH1tA==" />
+    
+    <div>        
+		<div id="wrapper" class="inner-page">
+			<div class="w1">
+				<div id="header">
+					<div class="heading">
+						<strong class="logo"><a id="ctl00_HyperLink7" href="../">Nalok</a></strong>
+						<div class="panel" style="width: 720px;">
+							<div class="forms-box">
+                                
+        <div class="form-login">
+        <fieldset>
+            <input type="submit" name="ctl00$LoginTop1$Button1" value="Přihlásit" id="ctl00_LoginTop1_Button1" class="btn-submit" />
+	        <span class="field2"><input name="ctl00$LoginTop1$txtPassword" type="password" id="ctl00_LoginTop1_txtPassword" tabindex="2" /></span>
+	        <span class="field"><input name="ctl00$LoginTop1$txtEmail" type="text" value="Email" id="ctl00_LoginTop1_txtEmail" tabindex="1" class="clearMeFocus" /></span>
+        </fieldset>
+        </div>
+    
+                                							    
+                                  <div class="form-search">
+									<fieldset>
+                                        <input type="submit" name="ctl00$SearchHP1$Button1" value="Hledej" id="ctl00_SearchHP1_Button1" class="btn-submit" />
+                                        <span class="field"><input name="ctl00$SearchHP1$txtSearch" type="text" value="Vyhledávání na Naloku" id="ctl00_SearchHP1_txtSearch" class="clearMeFocus" /></span>                                        
+									</fieldset>
+                                  </div> 
+							</div>
+                            <!-- ads -->
+                            <div style=" width: 468px; height: 60px; float: left;">
+                                
+        
+                                
+                            </div>
+							<div class="item"  style="width: 242px">
+
+								<ul class="social-links">
+									<li class="facebook"><a href="http://www.facebook.com/nakupujtelokalne" target="_blank"><span>&nbsp;</span> <strong>Facebook</strong></a></li>
+									<li class="twitter"><a href="http://twitter.com/nalokcz"><span>&nbsp;</span> <strong>Twitter</strong></a></li>                                    
+								</ul>
+                                <br />
+
+							</div>
+						</div>
+					</div>
+				    
+<ul id="nav">
+	<li><a id="ctl00_Menu1_hplHome" href="../"><span class="home">home</span></a></li>
+	<li><a id="ctl00_Menu1_hplJoin" href="../pridejte-se">Přidejte se</a></li>
+	<li><a id="ctl00_Menu1_HyperLink3" href="../farmy">Farmy</a></li>
+	<li><a id="ctl00_Menu1_HyperLink4" href="../farmarske-trhy">Trhy a akce</a></li>
+	<li><a id="ctl00_Menu1_HyperLink5" href="../bedynky">Bedýnky</a></li>
+	<li><a id="ctl00_Menu1_HyperLink6" href="../produkty">Produkty</a></li>
+	<li><a id="ctl00_Menu1_HyperLink7" href="../clanky">Blog</a></li>
+	<li><a id="ctl00_Menu1_HyperLink8" href="../mesta">&nbsp;&nbsp;Města&nbsp;</a></li>
+</ul>
+				</div>
+				<div id="main">
+					<div id="content">
+						<div class="content-t">&nbsp;</div>
+						<div class="content-c">
+							<div class="content-center">
+								
+
+<ul class="breadcrumbs">
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_HyperLink1" href="../">Domů</a></li>
+	<li><a id="ctl00_cntPlaceHolderMain_BreadCrumbs1_hplCategory" href="../farmy">Farmy</a></li>
+    
+	<li><span id="ctl00_cntPlaceHolderMain_BreadCrumbs1_lblItem">Biofarma Epona</span></li>
+</ul>
+
+    
+    <h1>
+        <span id="ctl00_cntPlaceHolderMain_lblBusinessName">Biofarma Epona, Žlutice</span></h1>
+								<div id="twocolumns">
+									<div class="content-column">
+                                                                              
+									                                            
+                                        
+<script type="text/javascript">
+    $(function() {
+    $('#gallery .jquery-lightbox').lightBox();
+
+});
+
+$(document).ready(function() {
+    $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').hide();
+    $('#addPicture').click(function() {
+        $('#ctl00_cntPlaceHolderMain_ImageManagerND1_pnlImageUpload').toggle();
+    });
+});
+</script>
+<style type="text/css">
+	/* jQuery lightBox plugin - Gallery style */
+	#gallery {
+	}
+	#gallery ul { list-style: none; }
+	#gallery ul li { display: inline; }
+	#gallery ul img {
+		border: 5px solid #fff;
+		border-width: 5px 5px 20px;
+	}
+	#gallery ul a:hover img {
+		border: 5px solid #8db526;
+		border-width: 5px 5px 20px;
+		color: #fff;
+	}
+	#gallery ul a:hover { color: #fff; }
+
+	.style2imgmngr
+    {
+        font-size: x-small;
+        font-weight: bold;
+    }
+	</style>
+
+
+<div id="gallery">
+<div class="box-picture-gallery">
+<h2><span id="ctl00_cntPlaceHolderMain_ImageManagerND1_lblTitle">Takto to u nás vypadá</span></h2>
+<p></p>
+<ul class="picture-gallery-list">
+<table id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_HyperLink1" class="jquery-lightbox" title="" href="../data/obrazky/21/_21dbe7fc-0807-4c7f-9f58-486d308f7d34.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_Image1" src="../data/obrazky/1c/obr_1c59b021-e32a-488c-a8a0-c1218d7aaea0.jpg" height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl00$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl00_AImage1_hdnImageId" value="21dbe7fc-0807-4c7f-9f58-486d308f7d34" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl01_AImage1_HyperLink1" class="jquery-lightbox" title="Biofarma Epona " href="../data/obrazky/ac/biofarma-epona_ac2cfe84-21e8-465a-8e71-99ecce47fc47.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl01_AImage1_Image1" src="../data/obrazky/b8/obr-biofarma-epona_b8a63994-1065-4ead-bf48-228aa01bb631.jpg" alt="Biofarma Epona " height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl01$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl01_AImage1_hdnImageId" value="ac2cfe84-21e8-465a-8e71-99ecce47fc47" />
+       
+
+    
+        </li>
+    </td><td>    
+    <li><a id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl02_AImage1_HyperLink1" class="jquery-lightbox" title="Biofarma Epona " href="../data/obrazky/50/biofarma-epona_5057ee83-354d-4bc6-afc4-aed875d56d8d.jpg"><img id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl02_AImage1_Image1" src="../data/obrazky/5f/obr-biofarma-epona_5fbbf599-9cee-4518-b3f6-beabc9b47fa8.jpg" alt="Biofarma Epona " height="100" width="100" border="0" /></a>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$DataList1$ctl02$AImage1$hdnImageId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_DataList1_ctl02_AImage1_hdnImageId" value="5057ee83-354d-4bc6-afc4-aed875d56d8d" />
+       
+
+    
+        </li>
+    </td><td></td><td></td>
+	</tr>
+</table>
+</ul>
+</div>
+</div>
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnObjectId" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnObjectId" value="513f9e77-e050-4572-be58-ed26248e0c13" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$ImageManagerND1$hdnIsAdmin" id="ctl00_cntPlaceHolderMain_ImageManagerND1_hdnIsAdmin" value="false" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        <h2>O nás</h2><p>Biofarma Epona se nachází v karlovarském regionu uprostřed nádherné krajiny na hranici ochranného pásma vodního zdroje. Zabývá se chovem koní, skotu, prasat, ovcí, koz a drůbeže a pěstováním obilovin, brambor, ovoce a bylin, v harmonickém souladu s přírodními zákony. Ekologické hospodaření je naší životní filozofií a rádi se o ni podělíme se všemi, kteří mají zájem. Produkty naší činnosti si můžete objednat a odebrat přímo z farmy. Dále nabízíme již tradiční a oblíbené letní rekreační pobyty na biofarmě pro děti i dospělé, s možností jízdy na koni. </p>
+                                        <p>&nbsp;</p>
+                                        
+<div class="box-comments">
+	<h2 class="title-comments">Komentáře</h2>
+    <a id="ctl00_cntPlaceHolderMain_BusinessComments1_hplLogIn" class="comment-link" href="../login.aspx?ReturnUrl=/farmy/biofarma-epona-zlutice">Přihlašte se a přidejte komentář</a>
+
+<div style="text-align: right; width: 100%"></div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').hide();
+        // shows the slickbox on clicking the noted link
+        $('#ctl00_cntPlaceHolderMain_BusinessComments1_HyperLink1').click(function () {
+            $('#ctl00_cntPlaceHolderMain_BusinessComments1_Panel1').toggle('slow');
+            return false;
+        });
+    });
+</script>
+
+
+<ul class="comments-list">
+
+        <span>Žádné komentáře</span>
+    
+</ul>
+
+
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectId" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectId" value="513f9e77-e050-4572-be58-ed26248e0c13" />
+<input type="hidden" name="ctl00$cntPlaceHolderMain$BusinessComments1$hdnObjectType" id="ctl00_cntPlaceHolderMain_BusinessComments1_hdnObjectType" value="Business" />
+
+</div>
+			
+
+
+					
+				
+									</div>									
+								    
+								    
+<div id="sidebar">
+            
+			
+            <h2>O farmě</h2>
+            
+			<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblShortDesc">Zabývá se chovem koní, skotu, prasat, ovcí, koz a drůbeže a pěstováním obilovin, brambor, ovoce a bylin, v harmonickém souladu s přírodními zákony. </span></p>            
+			
+			
+			<div class="image-holder">
+                <img id="ctl00_cntPlaceHolderMain_BusinessProfileND1_Image1" src="../data/obrazky/54/biofarma-epona-zlutice_5419d1ae-2b70-438a-8039-acfefbb0d5ee.jpg" height="163" width="245" border="0" />
+			</div>
+            <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nalok.cz/farmy/biofarma-epona-zlutice&amp;layout=standard&amp;show_faces=true&amp;width=255&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:255px; height:80px;" allowTransparency="true"></iframe>
+			<div class="box-contact">
+				<div class="contact">
+					<p><strong class="mark">Telefon:</strong> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblPhone">607 952 125</span></p>
+					<p><strong class="mark">Email:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplSendMessage" href="../zprava/podnik/biofarma-epona-zlutice" style="font-weight: 700">Napište nám!</a></p>
+					<p><strong class="mark">Web:</strong> <a id="ctl00_cntPlaceHolderMain_BusinessProfileND1_hplBizUrl" href="http://www.epona.wz.cz/" target="_blank">http://www.epona.wz.cz/</a></p>
+				</div>
+				<address>
+					<strong class="mark">Adresa:</strong>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblStreet">Verušice 5, </span> <span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblCity">Žlutice</span></p>
+					<p><span id="ctl00_cntPlaceHolderMain_BusinessProfileND1_lblZip">36452</span></p>
+				</address>
+			</div>
+			<div class="image-holder map">
+                    <div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1">
+
+</div><div id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_Templates" style="display:none;"></div><input id="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" name="ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1_State" type="hidden" />
+			</div>
+            				
+			<div class="box-about">
+			</div>
+</div>
+
+								</div>
+
+							</div>
+						</div>
+						<div class="content-b">&nbsp;</div>
+					</div>
+				</div>
+			</div>
+			<div id="footer">
+				<div class="inner">
+					<div class="holder">
+						<div class="partners">
+							
+							<ul>
+							</ul>
+						</div>
+						<div class="footer-box">
+							<strong class="logo-nalok"><a href="http://www.nalok.cz">logo</a></strong>
+							<ul class="add-nav">
+								<li><a href="http://www.nalok.cz/nalok" title="Kontakt">Kontakt</a></li>
+								
+								<li><a href="http://www.nalok.cz/tou.aspx">Všeobecné Obchodní Podmínky</a></li>
+                                <li><a href="http://www.nalok.cz/partners.aspx">Partneři projektu</a></li>
+                                <li><a href="http://www.nalok.cz/napoveda" title="Jak Nalok.cz funguje a jak jej maximálně využívat">Nápověda</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var GoogleMap1 = new Artem.Web.GoogleMap({"Address":null,"BaseCountryCode":null,"ClientID":"ctl00_cntPlaceHolderMain_BusinessProfileND1_GoogleMap1","ClientMapID":"GoogleMap1","DefaultAddress":null,"DefaultMapView":0,"Directions":[],"EnableContinuousZoom":false,"EnableDoubleClickZoom":false,"EnableDragging":true,"EnableGoogleBar":false,"EnableInfoWindow":true,"EnableMarkerManager":false,"EnableReverseGeocoding":false,"EnableScrollWheelZoom":false,"EnterpriseKey":null,"Height":"292px","IsStreetView":false,"IsStatic":false,"Key":"ABQIAAAAEL1C64lHI2_IVPoiZG-9SRT4_GhOIIu4UP8bhXcZTWFeclAxMRRnrsYh3JbkMdTkFVUm3Px828mU5A","Latitude":50.0955492,"Longitude":13.1346533,"MapEvents":{},"MarkerEvents":{},"MarkerManagerOptions":{"borderPadding":null,"maxZoom":null,"trackMarkers":null},"PolygonEvents":{},"PolylineEvents":{},"ShowMapTypeControl":true,"ShowScaleControl":false,"ShowTraffic":false,"StreetViewMode":0,"StreetViewPanoID":null,"Width":"241px","Zoom":15,"ZoomPanType":0});
+GoogleMap1.addMarker({"Address":null,"AutoPan":true,"Bouncy":false,"Clickable":true,"Draggable":false,"DragCrossMove":false,"IconAnchor":{"X":8,"Y":16},"IconSize":{"Height":30,"Width":30},"IconUrl":"/images/nalok_n.png","InfoWindowAnchor":{"X":0,"Y":0},"Latitude":50.0955492,"Longitude":13.1346533,"MaxZoom":null,"MinZoom":null,"OpenInfoBehaviour":0,"ShadowSize":{"Height":16,"Width":16},"ShadowUrl":null,"Text":"<table cellpadding=3 cellspacing=3><tr><td colspan=2 style=\"font-size: 16px\"><img style=\"margin-top: -3px\" width='34px' src='/images/nalok_n.png' /> <strong>Biofarma Epona<strong></td></tr><tr><td><img width='45px' src='/img/image.ashx?id=513f9e77-e050-4572-be58-ed26248e0c13'/></td><td>Veru\u0161ice 5<br/>\u017Dlutice</td><tr></table>","Title":null});
+GoogleMap1.load();
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>
