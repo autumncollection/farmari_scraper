@@ -14,6 +14,7 @@ namespace :bin do
         klass = Object.const_get(value[:klass]).new
         data  = klass.perform
         string = CSV.generate do |csv|
+          csv << Common::DEFAULT_KEYS
           data.each do |row|
             csv << row.values_at(*Common::DEFAULT_KEYS)
           end

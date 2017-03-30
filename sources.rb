@@ -11,4 +11,10 @@ SOURCES = {
   'edb.cz' => {
     file: 'edb_cz',
     klass: 'EdbCz' },
+  'bio-info.cz' => {
+    file: 'bio_info_cz',
+    klass: 'BioInfoCz' },
+  'ceskyfarmar.cz' => {
+    file: 'ceskyfarmar_cz',
+    klass: 'CeskyFarmarCz' },
 }

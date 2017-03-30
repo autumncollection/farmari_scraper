@@ -1,6 +1,7 @@
 require 'common'
 
 class WebtrzisteCz < Common
+  ENCODE = { from: 'utf-8', to: 'windows-1250' }
   XPATHS = {
     urls_items: '//table[@id="remeslnici"]//td[contains(@onclick,"ZobrazitNahled")]/@onclick',
     base_doc: '//div[@id="obsah"]',
@@ -30,31 +31,26 @@ class WebtrzisteCz < Common
     "http://webtrziste.cz/trhy/remesla/nahled.php?id=#{Regexp.last_match(1)}"
   end
 
-  def get_value(*args)
-    value = super || (return nil)
-    value.encode('UTF-8', 'cp1250').gsub(/[\302\240|\s]+/, ' ').strip
-  end
-
   def page_street(doc)
     value = get_page_value(doc, :street) || (return nil)
-    value.split('Â')[1]
+    value.split("\n")[1]
   end
 
   def page_zip(doc)
     value = get_page_value(doc, :zip) || (return nil)
-    value = value.split('Â')[2]
+    value = value.split("\n")[2]
     value =~ /(\d+)/ ? Regexp.last_match(1) : value
   end
 
   def page_city(doc)
     value = get_page_value(doc, :city) || (return nil)
-    value = value.split('Â')[2]
+    value = value.split("\n")[2]
     value =~ /\d+\s-(.+)\z/ ? Regexp.last_match(1) : value
   end
 
   def page_region(doc)
     value = get_page_value(doc, :region) || (return nil)
-    value.split('Â')[-1]
+    value.split("\t")[-2]
   end
 
   def page_trhy(doc)
@@ -65,5 +61,6 @@ class WebtrzisteCz < Common
   def clean_value!(value)
     value.tr!('Â', '')
     value.squeeze!(' ')
+    value
   end
 end

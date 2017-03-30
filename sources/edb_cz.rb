@@ -2,6 +2,7 @@ require 'common'
 
 class EdbCz < Common
   UA_PARAMS = { timeout: 10 }
+  ENCODE = { from: 'utf-8', to: 'windows-1250' }
   XPATHS = {
     urls_items: '//a[@class="neklient"]/@href',
     urls_paging: '//div[@id="divStrankovacH"]/a[@class="sel"]' \
@@ -40,23 +41,18 @@ class EdbCz < Common
   def page_commodity(doc)
     @xpaths[:page][:commodity].each_with_object('') do |xpath, mem|
       value = doc.at_xpath(xpath) || next
-      mem << "\n#{to_encode(value.content)}"
+      mem << "\n#{value.content}"
     end
   end
 
   def page_ico(doc)
     doc.xpath(@xpaths[:page][:ico]).each do |node|
-      value = to_encode(node.content)
+      value = node.content
       if value =~ /IČ: (\d+)/
         return Regexp.last_match(1)
       else
         next
       end
     end
-  end
-
-  def get_value(*args)
-    value = super || (return nil)
-    to_encode(value)
   end
 end

@@ -40,11 +40,12 @@ class Common
   def find_urls(categories)
     urls = []
     categories.each do |category_url|
+      p category_url
       loop do
         break if category_url.blank?
         doc = request(category_url)
         unless doc
-          errors << { error: 'missing doc', category_url: category_url }
+          @errors << { error: 'missing doc', category_url: category_url }
           next
         end
         doc = Nokogiri::HTML(doc)
@@ -77,7 +78,11 @@ class Common
   end
 
   def process_urls(urls)
+    size = urls.size
+    index = 0
     urls.map do |url|
+      index += 1
+      print "#{size - index} \r"
       process_url(url)
     end.compact.flatten
   end
@@ -112,7 +117,7 @@ class Common
   def clean_data(data, &block)
     data.each do |item|
       item.each do |_, value|
-        next if value.blank?
+        next if value.blank? || !value.is_a?(String)
         value.strip!
         block.call(value) if block_given?
       end
@@ -136,13 +141,19 @@ class Common
 
   def request(url, params = {}, force = false)
     file = cache_file(url)
-    if force || !File.exist?(file)
-      response = ua_request(url, params) || (return nil)
-      body = response.body
-      IO.write(file, body)
-      body
+    data =
+      if force || !File.exist?(file)
+        response = ua_request(url, params) || (return nil)
+        body = response.body
+        IO.write(file, body)
+        body
+      else
+        File.read(file)
+      end
+    if defined?(self.class::ENCODE)
+      data.encode(self.class::ENCODE[:from], self.class::ENCODE[:to])
     else
-      File.read(file)
+      data
     end
   end
 
@@ -153,7 +164,7 @@ class Common
     fail("unsuccess #{response.return_message}") unless response.success?
     response
   rescue => error
-    p "#{url} #{error.message}"
+    p "#{url} #{error.message} #{retries}"
     return nil if retries.zero?
     sleep(0.9)
     retries -= 1
@@ -167,9 +178,5 @@ class Common
 
   def cache_dir(sub_dir = '')
     File.join(__dir__, '..', 'cache', "#{sub_dir}/").squeeze('/')
-  end
-
-  def to_encode(value, from = 'UTF-8', to = 'cp1250')
-    value.encode(from, to).gsub(/[\302\240|\s]+/, ' ').strip
   end
 end

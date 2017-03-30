@@ -1,11 +1,13 @@
 require 'spec_helper'
 
-describe 'WebtrzisteCz' do
+describe 'Product' do
   before :context do
     # @klass = WebtrzisteCz.new
     # @klass = OvocnarskaUnieCz.new
     # @klass = NalokCz.new
-    @klass = EdbCz.new
+    # @klass = EdbCz.new
+    # @klass = BioInfoCz.new
+    @klass = CeskyFarmarCz.new
   end
 
   it 'should be ok' do
@@ -23,7 +25,7 @@ describe 'WebtrzisteCz' do
       let(:urls) { @klass.find_urls(categories[0..0]) }
 
       it 'should has urls' do
-        p urls
+        p urls.size
         expect(urls.size).to be > 0
       end
 
