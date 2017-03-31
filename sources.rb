@@ -17,4 +17,16 @@ SOURCES = {
   'ceskyfarmar.cz' => {
     file: 'ceskyfarmar_cz',
     klass: 'CeskyFarmarCz' },
+  'farmarnadlani.cz' => {
+    file: 'farmarnadlani_cz',
+    klass: 'FarmarNaDlaniCz' },
+  'adresarfarmaru.cz' => {
+    file: 'adresarfarmaru_cz',
+    klass: 'AdresarFarmaruCz' },
+  'veronica.cz' => {
+    file: 'veronica_cz',
+    klass: 'VeronicaCz' },
+  'najdisivcelare.cz' => {
+    file: 'najdisivcelare_cz',
+    klass: 'NajdiSiVcelareCz' },
 }
