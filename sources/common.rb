@@ -6,6 +6,7 @@ require 'hashie'
 require 'active_support/all'
 
 class Common
+  PROXY = 'localhost:10000'
   attr_accessor :categories, :xpaths
   DEFAULT_KEYS = [
     :url,
@@ -160,7 +161,7 @@ class Common
   def ua_request(url, params = {})
     retries ||= 5
     response = Typhoeus::Request.new(url, @ua_params.merge(
-      method: :get, proxy: 'localhost:10000').merge(params)).run
+      method: :get, proxy: PROXY).merge(params)).run
     fail("unsuccess #{response.return_message}") unless response.success?
     response
   rescue => error

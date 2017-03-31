@@ -35,7 +35,7 @@ describe 'Product' do
       end
 
       context 'process_url' do
-        let(:response) { @klass.process_url('https://www.najdisivcelare.cz/prodej-medu-hradec-kralove/328-prodej-medu-vladimir-dolezal-a-zuzana-samlekova-okres-hradec-kralove.html') }
+        let(:response) { @klass.process_url(urls[0]) }
 
         it 'shouls has data' do
           p response
